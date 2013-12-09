@@ -59,19 +59,19 @@ public class SubtaskB_TC
         dimReaders.put(DIM_READER_TRAIN_PARAMS, Arrays.asList(new Object[] {
                 TaskBSemevalTwitterCorpusReader.PARAM_SOURCE_LOCATION, corpusFilePathTrain,
                 TaskBSemevalTwitterCorpusReader.PARAM_LANGUAGE, LANGUAGE_CODE }
-                ));
+        ));
         dimReaders.put(DIM_READER_TEST, TaskBSemevalTwitterCorpusReader.class);
         dimReaders.put(DIM_READER_TEST_PARAMS, Arrays.asList(new Object[] {
                 TaskBSemevalTwitterCorpusReader.PARAM_SOURCE_LOCATION, corpusFilePathTest,
                 TaskBSemevalTwitterCorpusReader.PARAM_LANGUAGE, LANGUAGE_CODE}
-                ));
+        ));
     
         @SuppressWarnings("unchecked")
         Dimension<List<String>> dimClassificationArgs = Dimension.create(
                 DIM_CLASSIFICATION_ARGS,
                 Arrays.asList(new String[] { SMO.class.getName() }),
                 Arrays.asList(new String[] { NaiveBayes.class.getName() })
-                );
+        );
     
         @SuppressWarnings("unchecked")
         Dimension<List<Object>> dimPipelineParameters = Dimension.create(
@@ -86,7 +86,7 @@ public class SubtaskB_TC
                         NGramFeatureExtractor.PARAM_NGRAM_MIN_N, 1,
                         NGramFeatureExtractor.PARAM_NGRAM_MAX_N, 3
                 })
-                );
+        );
     
         @SuppressWarnings("unchecked")
         Dimension<List<String>> dimFeatureSets = Dimension.create(
@@ -95,7 +95,7 @@ public class SubtaskB_TC
                         NrOfTokensFeatureExtractor.class.getName(),
                         NGramFeatureExtractor.class.getName()
                 })
-                );
+        );
     
         @SuppressWarnings("unchecked")
         ParameterSpace pSpace = new ParameterSpace(
@@ -105,7 +105,7 @@ public class SubtaskB_TC
                 dimPipelineParameters,
                 dimFeatureSets,
                 dimClassificationArgs
-                );
+        );
     
         return pSpace;
     }
@@ -146,7 +146,6 @@ public class SubtaskB_TC
     protected AnalysisEngineDescription getPreprocessing()
         throws ResourceInitializationException
     {
-    
         return createEngineDescription(
             createEngineDescription(BreakIteratorSegmenter.class)
         );

@@ -10,6 +10,7 @@ import java.util.Map;
 import org.apache.uima.analysis_engine.AnalysisEngineDescription;
 import org.apache.uima.resource.ResourceInitializationException;
 
+import semeval2014.task9.extractor.EmoticonFeatureExtractor;
 import semeval2014.task9.io.TaskBSemevalTwitterCorpusReader;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.functions.SMO;
@@ -66,6 +67,7 @@ public class SubtaskB_TC
                 TaskBSemevalTwitterCorpusReader.PARAM_LANGUAGE, LANGUAGE_CODE}
         ));
     
+        // lets try SMO and NaiveBayes classifiers from Weka
         @SuppressWarnings("unchecked")
         Dimension<List<String>> dimClassificationArgs = Dimension.create(
                 DIM_CLASSIFICATION_ARGS,
@@ -73,27 +75,48 @@ public class SubtaskB_TC
                 Arrays.asList(new String[] { NaiveBayes.class.getName() })
         );
     
-        @SuppressWarnings("unchecked")
-        Dimension<List<Object>> dimPipelineParameters = Dimension.create(
-                DIM_PIPELINE_PARAMS,
-                Arrays.asList(new Object[] {
-                        "TopK", "500",
-                        NGramFeatureExtractor.PARAM_NGRAM_MIN_N, 1,
-                        NGramFeatureExtractor.PARAM_NGRAM_MAX_N, 3
-                }),
-                Arrays.asList(new Object[] {
-                        "TopK", "1000",
-                        NGramFeatureExtractor.PARAM_NGRAM_MIN_N, 1,
-                        NGramFeatureExtractor.PARAM_NGRAM_MAX_N, 3
-                })
-        );
-    
+        // in this example, we only use two feature extractors
+        // - length in tokens
+        // - frequent n-grams
+        // - emoticon counts
+        // a real experiment would use many more
+        // 
+        // you can use pre-defined ones from
+        // http://code.google.com/p/dkpro-tc/
+        // or write your own extractors
         @SuppressWarnings("unchecked")
         Dimension<List<String>> dimFeatureSets = Dimension.create(
                 DIM_FEATURE_SET,
                 Arrays.asList(new String[] {
+                        NrOfTokensFeatureExtractor.class.getName()
+                        
+                }),
+                Arrays.asList(new String[] {
                         NrOfTokensFeatureExtractor.class.getName(),
-                        NGramFeatureExtractor.class.getName()
+                        NGramFeatureExtractor.class.getName() 
+                }),
+                Arrays.asList(new String[] {
+                        NrOfTokensFeatureExtractor.class.getName(),
+                        NGramFeatureExtractor.class.getName(),
+                        EmoticonFeatureExtractor.class.getName()                     
+                })
+        );
+        
+        // configuring feature extractors
+        // 
+        // each group represents one run with the corresponding parameters
+        @SuppressWarnings("unchecked")
+        Dimension<List<Object>> dimPipelineParameters = Dimension.create(
+                DIM_PIPELINE_PARAMS,
+                Arrays.asList(new Object[] {
+                        NGramFeatureExtractor.PARAM_NGRAM_USE_TOP_K, "50",
+                        NGramFeatureExtractor.PARAM_NGRAM_MIN_N, 1,
+                        NGramFeatureExtractor.PARAM_NGRAM_MAX_N, 3
+                }),
+                Arrays.asList(new Object[] {
+                        NGramFeatureExtractor.PARAM_NGRAM_USE_TOP_K, "100",
+                        NGramFeatureExtractor.PARAM_NGRAM_MIN_N, 1,
+                        NGramFeatureExtractor.PARAM_NGRAM_MAX_N, 3
                 })
         );
     

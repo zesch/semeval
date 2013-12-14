@@ -4,4 +4,20 @@
   <artifactId>semeval2013</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>semeval2013.task1</module>
+  	<module>semeval2013.task10</module>
+  	<module>semeval2013.task11</module>
+  	<module>semeval2013.task12</module>
+  	<module>semeval2013.task13</module>
+  	<module>semeval2013.task14</module>
+  	<module>semeval2013.task2</module>
+  	<module>semeval2013.task3</module>
+  	<module>semeval2013.task4</module>
+  	<module>semeval2013.task5</module>
+  	<module>semeval2013.task6</module>
+  	<module>semeval2013.task7</module>
+  	<module>semeval2013.task8</module>
+  	<module>semeval2013.task9</module>
+  </modules>
 </project>

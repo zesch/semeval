@@ -4,4 +4,14 @@
   <artifactId>semeval2012</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>semeval2012.task1</module>
+  	<module>semeval2012.task2</module>
+  	<module>semeval2012.task3</module>
+  	<module>semeval2012.task4</module>
+  	<module>semeval2012.task5</module>
+  	<module>semeval2012.task6</module>
+  	<module>semeval2012.task7</module>
+  	<module>semeval2012.task8</module>
+  </modules>
 </project>

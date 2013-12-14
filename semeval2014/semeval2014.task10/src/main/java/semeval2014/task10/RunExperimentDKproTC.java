@@ -30,8 +30,13 @@ public class RunExperimentDKproTC
 {
     public static final String LANGUAGE_CODE = "es";
     public static int NUM_FOLDS = 2;
-    public static final String inputFile = "src/main/resources/STS-Es-trial/sts.input.li65.txt";
-    public static final String goldFile = "src/main/resources/STS-Es-trial/sts.gs.li65.txt";
+    public static final String[] inputFiles = new String[] {
+        "src/main/resources/STS-Es-trial/sts.input.li65.txt"
+    };
+    
+    public static final String[] goldFiles = new String[] {
+        "src/main/resources/STS-Es-trial/sts.gs.li65.txt"
+    };
 
     public static void main(String[] args)
         throws Exception
@@ -47,8 +52,8 @@ public class RunExperimentDKproTC
         dimReaderTrain.put(Constants.DIM_READER_TRAIN, STSReader.class);
         dimReaderTrain.put(Constants.DIM_READER_TRAIN_PARAMS,
                 Arrays.asList(new Object[] {
-                        STSReader.PARAM_INPUT_FILE, inputFile,
-                        STSReader.PARAM_GOLD_FILE, goldFile
+                        STSReader.PARAM_INPUT_FILES, inputFiles,
+                        STSReader.PARAM_GOLD_FILES, goldFiles
                 }));
 
         @SuppressWarnings("unchecked")

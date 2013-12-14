@@ -19,16 +19,21 @@ import dkpro.similarity.algorithms.lexical.string.GreedyStringTiling;
 public class RunSimpleBaseline
 {
     public static final String LANGUAGE_CODE = "es";
-    public static final String inputFile = "src/main/resources/STS-Es-trial/sts.input.li65.txt";
-    public static final String goldFile = "src/main/resources/STS-Es-trial/sts.gs.li65.txt";
-
+    public static final String[] inputFiles = new String[] {
+        "src/main/resources/STS-Es-trial/sts.input.li65.txt"
+    };
+    
+    public static final String[] goldFiles = new String[] {
+        "src/main/resources/STS-Es-trial/sts.gs.li65.txt"
+    };
+    
     public static void main(String[] args)
         throws Exception
     {
         CollectionReaderDescription reader = CollectionReaderFactory.createReaderDescription(
                 STSReader.class,
-                STSReader.PARAM_INPUT_FILE, inputFile,
-                STSReader.PARAM_GOLD_FILE, goldFile
+                STSReader.PARAM_INPUT_FILES, inputFiles,
+                STSReader.PARAM_GOLD_FILES, goldFiles
         );
         
         List<Double> computedValues = new ArrayList<Double>();

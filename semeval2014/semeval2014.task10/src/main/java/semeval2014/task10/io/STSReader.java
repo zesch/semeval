@@ -23,13 +23,13 @@ public class STSReader
     extends AbstractPairReader implements TCReaderSingleLabel
 {
 
-    public static final String PARAM_INPUT_FILE = "InputFile";
-    @ConfigurationParameter(name = PARAM_INPUT_FILE, mandatory = true)
-    protected File inputFile;
+    public static final String PARAM_INPUT_FILES = "InputFiles";
+    @ConfigurationParameter(name = PARAM_INPUT_FILES, mandatory = true)
+    protected File[] inputFiles;
 
-    public static final String PARAM_GOLD_FILE = "GoldFile";
-    @ConfigurationParameter(name = PARAM_GOLD_FILE, mandatory = true)
-    protected File goldFile;
+    public static final String PARAM_GOLD_FILES = "GoldFiles";
+    @ConfigurationParameter(name = PARAM_GOLD_FILES, mandatory = true)
+    protected File[] goldFiles;
 
     private List<String> texts1;
     private List<String> texts2;
@@ -49,20 +49,24 @@ public class STSReader
         golds = new ArrayList<String>();
 
         try {
-            for (String line : FileUtils.readLines(inputFile)) {
-                String parts[] = line.split("\t");
+            for (File inputFile : inputFiles) {
+                for (String line : FileUtils.readLines(inputFile)) {
+                    String parts[] = line.split("\t");
 
-                if (parts.length != 2) {
-                    throw new ResourceInitializationException(new Throwable("Wrong file format: " + line));
-                }
+                    if (parts.length != 2) {
+                        throw new ResourceInitializationException(new Throwable("Wrong file format: " + line));
+                    }
 
-                texts1.add(parts[0]);
-                texts2.add(parts[1]);
+                    texts1.add(parts[0]);
+                    texts2.add(parts[1]);
+                }  
             }
-
-            for (String line : FileUtils.readLines(goldFile)) {
-                golds.add(line);
-            }
+            
+            for (File goldFile : goldFiles) {
+                for (String line : FileUtils.readLines(goldFile)) {
+                    golds.add(line);
+                } 
+            }   
 
             if (texts1.size() != golds.size()) {
                 throw new ResourceInitializationException(new Throwable("Size of text list does not match size of gold list."));
@@ -105,7 +109,7 @@ public class STSReader
     @Override
     protected String getCollectionId()
     {
-        return inputFile.getParent();
+        return inputFiles[0].getParent();
     }
 
     @Override
@@ -123,19 +127,19 @@ public class STSReader
     @Override
     protected String getInitialViewDocId()
     {
-        return inputFile.getName() + "-" + fileOffset;
+        return inputFiles[0].getName() + "-" + fileOffset;
     }
 
     @Override
     protected String getInitialViewTitle()
     {
-        return inputFile.getName() + "-" + fileOffset;
+        return inputFiles[0].getName() + "-" + fileOffset;
     }
 
     @Override
     protected String getBaseUri()
     {
-        return inputFile.getParent();
+        return inputFiles[0].getParent();
     }
 
     @Override

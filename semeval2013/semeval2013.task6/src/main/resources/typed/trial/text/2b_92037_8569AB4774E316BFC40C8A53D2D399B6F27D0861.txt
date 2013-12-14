@@ -1,0 +1,5 @@
+dcTitle:	View of the Forth including the Queens-Ferry; Hopeton House; Blackness Castle; Garvie Island and a distant View of the Grampian Mountains 63.b
+dcCreator:	Artist : Farington, J.
+dcSubject:	Firth Forth, Queensferry, Hopeton House, Blackness Castle, Garvie Island, Grampion Mountains, Scotland	George III, 1760-1820 -- Art collections	710
+dcDescription:	View across the Firth of Forth in Scotland by J. Farrington. The Forth is located on the east coast of Scotland and at approximately 55 miles in length and 19 miles in width is the largest estuary in Scotland. Queensferry is located on the southern banks of the Forth and it as at this point that the estuary is at its narrowest. Blackness Castle stands on a promontory jutting into the Forth and was built in the 15th century by Sir George Crichton to protect the port of Linlithgow. Garvie Island is one of many islands rising in the Forth. The Grampian Mountain can be seen in the background of this print, rising to a height of 1309 meters.
+dcDate:	[1792]

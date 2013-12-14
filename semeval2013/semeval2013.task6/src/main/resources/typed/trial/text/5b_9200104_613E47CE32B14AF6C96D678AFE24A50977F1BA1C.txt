@@ -1,0 +1,5 @@
+dcTitle:	A fruit and vegetable market in Nigeria
+dcSubject:	Fruit	Nigeria	Nutritional Physiological Phenomena	AFRICA	Sub-Saharan Africa	Nigeria
+dcDescription:	Women selling and buying vegetables and fruit at a market in Nigeria.
+dcDate:	Second half 20th century
+dcSource:	W0026530

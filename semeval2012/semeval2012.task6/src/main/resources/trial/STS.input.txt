@@ -1,0 +1,6 @@
+id1	The bird is bathing in the sink.	Birdie is washing itself in the water basin.
+id2	In May 2010, the troops attempted to invade Kabul.	The US army invaded Kabul on May 7th last year, 2010.
+id3	John said he is considered a witness but not a suspect.	"He is not a suspect anymore." John said.
+id4	They flew out of the nest in groups.	They flew into the nest together.
+id5	The woman is playing the violin.	The young lady enjoys listening to the guitar.
+id6	John went horse back riding at dawn with a whole group of friends.	Sunrise at dawn is a magnificent view to take in if you wake up early enough for it.

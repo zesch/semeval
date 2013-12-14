@@ -1,0 +1,5 @@
+dcTitle:	Golden Cross Hotel, Cornmarket Street, Oxford, Oxfordshire
+dcCreator:	Taunt, Henry
+dcSubject:	Transport (Road)	Hotel
+dcDescription:	The front facade of the old inn, originally dating to the 12th-13th centuries but much altered, approached from an attractive courtyard with a motor car in the background. A gentleman is relaxing reading the paper on a bench outside.
+dcDate:	[1907, 1907]

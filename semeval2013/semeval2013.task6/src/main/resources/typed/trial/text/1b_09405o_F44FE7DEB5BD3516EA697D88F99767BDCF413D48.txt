@@ -1,0 +1,3 @@
+dcTitle:	London Bridge, City of London
+dcCreator:	not known
+dcDescription:	A view of London Bridge which is packed with horse-drawn traffic and pedestrians. This bridge replaced the earlier medieval bridge upstream. It was built by John Rennie in 1823-31. A new bridge, built in the late 1960s now stands on this site today.

@@ -123,7 +123,7 @@ public class STSReader
     @Override
     protected String getInitialViewDocId()
     {
-        return inputFile.getAbsolutePath() + "-" + fileOffset;
+        return inputFile.getName() + "-" + fileOffset;
     }
 
     @Override

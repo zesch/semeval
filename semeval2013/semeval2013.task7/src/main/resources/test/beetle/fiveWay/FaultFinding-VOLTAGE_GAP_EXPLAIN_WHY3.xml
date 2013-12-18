@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY3" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer162" fileID="VOLTAGE_GAP_EXPLAIN_WHY3_ANS1">Terminal 3 and the positive terminal are separated by the gap</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer163" fileID="VOLTAGE_GAP_EXPLAIN_WHY3_ANS2">Terminal 3 and the positive terminal are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer164" fileID="VOLTAGE_GAP_EXPLAIN_WHY3_ANS3">terminal 3 is connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer165" fileID="VOLTAGE_GAP_EXPLAIN_WHY3_ANS4">terminal 3 is not separated from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer165.NEW" fileID="NONE">Terminal 3 and the positive battery terminal are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer162" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY3.sbjb4-l1.qa138">there is still the same gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY3.sbjb21-l1.qa137">seperated by a gap in terminal 3</studentAnswer>
+  </studentAnswers>
+</question>

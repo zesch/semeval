@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY4" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer166" fileID="VOLTAGE_GAP_EXPLAIN_WHY4_ANS1">Terminal 4 and the positive terminal are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer167" fileID="VOLTAGE_GAP_EXPLAIN_WHY4_ANS2">Terminal 4 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer168" fileID="VOLTAGE_GAP_EXPLAIN_WHY4_ANS2A">There is no gap between terminal 4 and the positive terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer169" fileID="VOLTAGE_GAP_EXPLAIN_WHY4_ANS3">terminal 4 is not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer170" fileID="VOLTAGE_GAP_EXPLAIN_WHY4_ANS4">terminal 4 is separated by a gap from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer170.NEW" fileID="NONE">Terminal 4 and the positive battery terminal are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer168" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbj7-l1.qa159">there is no gap between terminal 4 and the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer170" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbj13-l1.qa188">there is a gap between the positive battery terminal and terminal 4.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer166" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbj24-l1.qa182">the terminal is conntected to postive end of battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbj39-l1.qa192">the terminals are blocked by a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb4-l1.qa139">there is no difference in the two terminals. they are in a closed path</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb18-l1.qa150">I dont know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb21-l1.qa138">seperted by gap in terminal 4</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb25-l1.qa143">BECAUSE IT WAS ATTACHED TO THE NEGATIVE TERMINAL.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer166" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb27-l1.qa138">terminal 4 is connected only to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer166" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb29-l1.qa142">the positive battery terminal is connected in circuit with terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer169" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb30-l1.qa143">terminal 4 is not connected to the negative terminal because of a gap in bulb b.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer167" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY4.sbjb36-l1.qa138">The positive battery terminal was not separated by a gap from terminal 4.</studentAnswer>
+  </studentAnswers>
+</question>

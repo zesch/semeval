@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="SHORT_CIRCUIT_X_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>What do you think the red X means?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer19" fileID="SHORT_CIRCUIT_X_Q_ANS1">the battery is damaged</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer20" fileID="SHORT_CIRCUIT_X_Q_ANS2">there is a short circuit</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj8-l1.qa59">Do not do this with a real battery.</studentAnswer>
+    <studentAnswer count="11" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj8-l1.qa60">The battery is damaged.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj33-l1.qa49">no charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj33-l1.qa50">the battery is unable to give a charge</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj35-l1.qa49">The circuit path is damaged.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj39-l1.qa53">I think it means that the connection is incorrect.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb3-l1.qa44">That there is a short circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb11-l1.qa39">damaged battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb21-l1.qa37">the circuit is short</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb25-l1.qa37">It has a short circuit and is not being used in the correct way.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb36-l1.qa37">that there is a short circuit and that the battery is not hooked up properly.</studentAnswer>
+  </studentAnswers>
+</question>

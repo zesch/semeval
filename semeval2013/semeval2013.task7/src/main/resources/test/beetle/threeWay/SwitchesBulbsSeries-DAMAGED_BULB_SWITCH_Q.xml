@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="DAMAGED_BULB_SWITCH_Q" module="SwitchesBulbsSeries" stype="QUESTION" qtype="Q_EXPLAIN_GENERIC">
+  <questionText>How does a damaged bulb compare to an open switch?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer71" fileID="DAMAGED_BULB_SWITCH_Q_ANS1">A damaged bulb and an open switch both create a gap and cause bulbs to go out</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer72" fileID="DAMAGED_BULB_SWITCH_Q_ANS2">both a damaged bulb and an open switch cause bulbs to go out</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer73" fileID="DAMAGED_BULB_SWITCH_Q_ANS3">a damaged bulb and an open switch create a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer74" fileID="DAMAGED_BULB_SWITCH_Q_ANS4">there is a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer75" fileID="DAMAGED_BULB_SWITCH_Q_ANS5">there is a gap in the circuit</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer76" fileID="DAMAGED_BULB_SWITCH_Q_ANS6">they are the same</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer77" fileID="DAMAGED_BULB_SWITCH_Q_ANS7">same</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer78" fileID="DAMAGED_BULB_SWITCH_Q_ANS7A">the damaged bulb has the same effect as the switch</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer79" fileID="DAMAGED_BULB_SWITCH_Q_ANS8">both create a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer80" fileID="DAMAGED_BULB_SWITCH_Q_ANS9">they do the same thing</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj3-l1.qa101" answerMatch="answer80" count="1">it acts in the same manner</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj3-l1.qa102" answerMatch="answer80" count="1">its acts the same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj3-l1.qa103" answerMatch="answer73" count="1">the bulb creates a gap and so does an open switch</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj7-l1.qa95" answerMatch="answer78" count="1">it acts the same way</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj7-l1.qa96" answerMatch="answer73" count="2">they both create a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj8-l1.qa119" answerMatch="answer73" count="1">a damaged bulb creates a gap. an open switch creates in incomplete path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj8-l1.qa120" answerMatch="answer73" count="1">a damaged bulb creates a gap while an open switch creates a incomplete path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj8-l1.qa121" answerMatch="answer73" count="1">a damaged bulb creates a gap while and open switch creates an incomplete circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj8-l1.qa122" answerMatch="answer73" count="1">An open switch causes an incomplete circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj9-l1.qa95" answerMatch="answer73" count="1">A damaged bulb and open switch created gaps in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj10-l1.qa114" answerMatch="answer76" count="3">they are the same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj11-l1.qa120" count="1">the connect the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj11-l1.qa121" answerMatch="answer73" count="1">they create gaps in the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj12-l1.qa90" answerMatch="answer80" count="2">Same effect</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj12-l1.qa91" answerMatch="answer73" count="1">Both create a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj13-l1.qa113" answerMatch="answer73" count="1">it creates a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj13-l1.qa114" answerMatch="answer75" count="1">it is a gap in the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj14-l1.qa111" answerMatch="answer79" count="1">They both have opened paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj14-l1.qa112" answerMatch="answer79" count="1">They both have gaps.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj15-l1.qa128" answerMatch="answer73" count="1">both dont allow for a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj15-l1.qa129" answerMatch="answer73" count="1">both create a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj18-l1.qa97" answerMatch="answer80" count="2">It acts the same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj18-l1.qa98" answerMatch="answer76" count="1">It is the same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj18-l1.qa99" answerMatch="answer76" count="1">A damaged bulb is the same as an open switch.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj18-l1.qa100" answerMatch="answer76" count="1">A damaged bulb and an open switch are the same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj19-l1.qa127" answerMatch="answer79" count="1">creates a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj19-l1.qa128" answerMatch="answer74" count="1">open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj19-l1.qa129" answerMatch="answer79" count="1">it creates a gap and makes a open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj22-l1.qa113" answerMatch="answer73" count="1">it is the same. they both create gaps</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj22-l1.qa115" answerMatch="answer73" count="1">the bulb and the switch create gaps</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj23-l1.qa98" answerMatch="answer76" count="1">It is very similar.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj23-l1.qa99" answerMatch="answer73" count="1">They both create a gap in the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj24-l1.qa106" answerMatch="answer78" count="1">it is like an open switch</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj24-l1.qa107" answerMatch="answer73" count="1">they are both open</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj24-l1.qa108" answerMatch="answer73" count="1">each will create an open path in circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj26-l1.qa119" answerMatch="answer77" count="2">the same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj27-l1.qa105" answerMatch="answer77" count="1">it is the same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj27-l1.qa106" answerMatch="answer73" count="3">they both create a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj29-l1.qa110" answerMatch="answer75" count="1">both can be gaps in a circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj30-l1.qa97" answerMatch="answer77" count="1">Same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj31-l1.qa100" answerMatch="answer77" count="1">same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj33-l1.qa97" answerMatch="answer80" count="2">it acts the same</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj33-l1.qa98" answerMatch="answer73" count="1">both a damaged bulb and open switch create a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj34-l1.qa92" answerMatch="answer80" count="1">It has the same effect</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj34-l1.qa93" answerMatch="answer73" count="1">They both open the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj35-l1.qa100" answerMatch="answer73" count="1">It creates a gap in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj35-l1.qa101" answerMatch="answer71" count="1">It also prevents the bulb from being on.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj35-l1.qa102" answerMatch="answer71" count="1">A damaged bulb prevents other bulbs from being on.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj35-l1.qa103" count="1">A switch causes an incomplete path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj36-l1.qa105" answerMatch="answer79" count="1">they both create gaps</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj38-l1.qa93" answerMatch="answer76" count="3">they are the same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj39-l1.qa116" answerMatch="answer78" count="1">Their results are similar.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj39-l1.qa117" answerMatch="answer73" count="1">They both create a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj40-l1.qa109" answerMatch="answer73" count="1">both create gaps.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj43-l1.qa107" answerMatch="answer78" count="1">a damaged bulb has the same effect of an open switch</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj43-l1.qa108" answerMatch="answer76" count="1">a damaged bulb is the same as an open switch</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj43-l1.qa109" answerMatch="answer78" count="1">a damaged bulb is like an open switch</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj45-l1.qa94" answerMatch="answer78" count="1">the have the same effect on the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj45-l1.qa95" answerMatch="answer73" count="1">both a damaged bulb and an open switch creates a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj46-l1.qa107" answerMatch="answer80" count="1">same thing</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj47-l1.qa121" answerMatch="answer71" count="1">both function the same and interfer with the bulb turning on</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbj48-l1.qa95" answerMatch="answer73" count="1">they both creat gaps in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb1-l1.qa81" answerMatch="answer78" count="1">It has the same effect.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb2-l1.qa89" answerMatch="answer73" count="1">They both create gaps.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb3-l1.qa96" count="1">I dont know</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb4-l1.qa81" answerMatch="answer76" count="1">it is very similar</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb5-l1.qa91" answerMatch="answer80" count="1">they behave identically</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb7-l1.qa81" answerMatch="answer76" count="1">They are similar.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb9-l1.qa84" answerMatch="answer79" count="1">The effect is the same. They both create a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb11-l1.qa83" count="1">It would not appear to be damaged, because an open switch creates a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb12-l1.qa84" answerMatch="answer73" count="2">They both create a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb13-l1.qa82" answerMatch="answer79" count="1">They both have a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb15-l1.qa83" answerMatch="answer73" count="1">they both have the ability to create gaps.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb16-l1.qa83" answerMatch="answer78" count="1">same result, but a switch can be closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb18-l1.qa90" answerMatch="answer80" count="1">It works the same way.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb19-l1.qa86" answerMatch="answer79" count="1">the switch can close and the gap would be gone but the a damaged bulb will always have a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb20-l1.qa92" answerMatch="answer73" count="1">A damaged bulb creates a gap in the path. An open switch creates a gap in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb24-l1.qa87" answerMatch="answer80" count="1">they both act the same way</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb25-l1.qa83" answerMatch="answer73" count="1">Open switch is just creating a gap, nothing is being damaged.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb26-l1.qa81" answerMatch="answer78" count="1">They have an identical impact on the circut.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb29-l1.qa84" answerMatch="answer73" count="1">it acts in the same way, creating a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb30-l1.qa81" answerMatch="answer78" count="1">a damaged bulb has the same effect as an open switch.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb31-l1.qa81" count="1">they both damage the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb32-l1.qa83" count="1">It creates an open gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb34-l1.qa81" answerMatch="answer73" count="1">The damabed bulb and the open switch disrupt the flow of the current.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb35-l1.qa81" answerMatch="answer76" count="1">They are functionally the same.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb36-l1.qa81" answerMatch="answer73" count="1">the damaged bulb does the same thing as an open switch by creating a gap but the damaged bulb cannot fix its self to recreate the current as a switch can turn the current on and off.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb37-l1.qa81" answerMatch="answer72" count="1">The both don"t work</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb38-l1.qa82" answerMatch="answer73" count="1">Both a damaged bulb and open switch will disconnect the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb40-l1.qa81" answerMatch="answer79" count="1">They are the same because they create a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb41-l1.qa82" answerMatch="answer75" count="1">An open switch means a closed pathway, where as a damaged bulb means a gap, and they both cause the circuit not to work properly.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-DAMAGED_BULB_SWITCH_Q.sbjb42-l1.qa82" answerMatch="answer78" count="1">it creates the same effect</studentAnswer>
+  </studentAnswers>
+</question>

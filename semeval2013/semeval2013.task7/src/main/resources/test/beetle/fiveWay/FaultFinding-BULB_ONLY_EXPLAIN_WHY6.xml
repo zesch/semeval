@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="BULB_ONLY_EXPLAIN_WHY6" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer240" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS1">Terminals 1 and 6 are separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer241" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS2">Terminals 1 and 6 are not connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer242" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS3">Terminals 1 and 6 are not connected and so in different electrical states</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer243" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS4">There is a gap between terminals 1 and 6</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer243.NEW" fileID="NONE">Terminals 1 and 6 are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj22-l1.qa232">terminal 6 is conncected to the positive terminal of the battery and terminal 1 is connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj22-l1.qa234">terminal 6 is not connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj27-l1.qa228">there is a separation between them</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj39-l1.qa249">Terminal 1 is not connected to terminal 1</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb15-l1.qa177">they are not connected, there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb20-l1.qa188">Terminal 1 is connected to terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb34-l1.qa175">Terminal 1 and terminal 6 are separated by a gap.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY1" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer154" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS1">Terminal 1 and the positive terminal are separated by the gap</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer155" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS2">Terminal 1 and the positive terminal are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer156" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS3">terminal 1 is connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer157" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS4">terminal 1 is not separated from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer157.NEW" fileID="NONE">terminal 1 and the positive battery terminal are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj3-l1.qa161" accuracy="correct">because they are connected to opposite terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj3-l1.qa162" accuracy="correct">beacuse terminal 1 is connected to the negative terminal and the battery is connected at the positive terminal</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj3-l1.qa164" accuracy="incorrect">because there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj7-l1.qa155" accuracy="incorrect">i do not know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj8-l1.qa181" accuracy="incorrect">because it is not connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj8-l1.qa182" accuracy="incorrect">because it is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj8-l1.qa183" accuracy="incorrect">because there is no gap between terminal 1 and the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj8-l1.qa184" accuracy="incorrect">Because terminal 1 is connected to the positive terminal with no gaps</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj9-l1.qa154" accuracy="incorrect">It was a mistake. I looked at it wrong.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj9-l1.qa155" accuracy="incorrect">We switched the terminals around.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj9-l1.qa156" accuracy="incorrect">There was a gap in b. The measurement between the positive battery terminal and terminal 1 was 1.5v.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj9-l1.qa157" accuracy="incorrect">The path is not closed. The distance between the positive battery terminal and terminal a is 1.5v.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj10-l1.qa176" accuracy="incorrect">terminal 1 was connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj10-l1.qa177" accuracy="incorrect">because it was connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj10-l1.qa178" accuracy="incorrect">because there was no gap from the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj11-l1.qa183" accuracy="incorrect">because 1.5 v minus 0 v equals 1.5 v</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj11-l1.qa184" accuracy="incorrect">the voltage is the difference between the electrical state of the terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj11-l1.qa185" accuracy="incorrect">terminal 1 is connected to the negative terminal of the battery and has 0 v, and the positive terminal of the battery has 1.5 v.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj12-l1.qa151" accuracy="incorrect">Because the Meter read the difference in volts between the positive battery terminal and terminal 1 which has a negative charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj12-l1.qa152" accuracy="incorrect">Meter read the difference in volts between the positive battery terminal and terminal 1 which is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj12-l1.qa153" accuracy="correct">The gap causes terminal 1 to have a negative battery characteristic which is different compared  to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj12-l1.qa154" accuracy="incorrect">Bulb terminals 3 and 4</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj13-l1.qa178" accuracy="incorrect">i don"t know.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj13-l1.qa179" accuracy="incorrect">there was no gap between the circuit.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj13-l1.qa180" accuracy="incorrect">there was no gap between terminal 1 and the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer157" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj13-l1.qa181" accuracy="correct">there was no gap between terminal 1 and the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj14-l1.qa175" accuracy="incorrect">Because there was no gap.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj14-l1.qa176" accuracy="incorrect">because it was connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj14-l1.qa177" accuracy="incorrect">Because terminal 1 had no gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj14-l1.qa178" accuracy="correct">Because terminal 1 is seperated from the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj15-l1.qa193" accuracy="incorrect">because they were connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj15-l1.qa195" accuracy="incorrect">because there is a gap between terminal 3 and 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj19-l1.qa198" accuracy="incorrect">there wasnt a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer157" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj19-l1.qa199" accuracy="incorrect">the voltage doesnt change</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj19-l1.qa200" accuracy="incorrect">the gap is open</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj19-l1.qa201" accuracy="incorrect">the paths are seperated</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj22-l1.qa177" accuracy="incorrect">the terminal was connected to the positive battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj22-l1.qa178" accuracy="incorrect">the terminals were connected to the positive terminals of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj22-l1.qa179" accuracy="incorrect">there is no gap between the terminals</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj23-l1.qa156" accuracy="correct">Terminal 1 is connected to the negative terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj24-l1.qa170" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj24-l1.qa171" accuracy="incorrect">there was a gap in bulb B</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj24-l1.qa172" accuracy="incorrect">circuit was complete until gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj26-l1.qa188" accuracy="incorrect">gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj26-l1.qa190" accuracy="incorrect">gap, battery and electricity</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj27-l1.qa171" accuracy="incorrect">there was no gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj27-l1.qa172" accuracy="incorrect">they are in a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj27-l1.qa173" accuracy="incorrect">there is no gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj28-l1.qa170" accuracy="incorrect">i don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj28-l1.qa171" accuracy="incorrect">there is a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj28-l1.qa172" accuracy="incorrect">there is no gap in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj28-l1.qa173" accuracy="incorrect">there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj29-l1.qa169" accuracy="incorrect">don"t know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj29-l1.qa171" accuracy="incorrect">there is no gapp between the positive terminal and terminal 1.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj29-l1.qa172" accuracy="incorrect">there is no gap between terminal 1 and the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj30-l1.qa157" accuracy="incorrect">It was connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj30-l1.qa158" accuracy="incorrect">Terminal 1 was connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj30-l1.qa159" accuracy="incorrect">Terminal 1 was not connected to the negative terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj30-l1.qa160" accuracy="incorrect">fjdajf</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj31-l1.qa167" accuracy="correct">terminal one is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj33-l1.qa160" accuracy="incorrect">terminal 1 was connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj33-l1.qa161" accuracy="incorrect">terminal 1 was connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj33-l1.qa162" accuracy="incorrect">whatever</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj34-l1.qa154" accuracy="incorrect">The positive terminal has 1.5 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj34-l1.qa155" accuracy="correct">There is a gap between the postive terminal and terminal 1</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj35-l1.qa167" accuracy="incorrect">Voltage is the difference between a positive and negative end on the battery.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj35-l1.qa168" accuracy="incorrect">Voltage is the difference between a positive and negative terminal on the battery.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj36-l1.qa174" accuracy="incorrect">the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj36-l1.qa175" accuracy="incorrect">the positive terminal is connected to the bulb</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj37-l1.qa151" accuracy="incorrect">because 1.5 v is the difference between the positive terminal and terminal 1</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj37-l1.qa152" accuracy="correct">because terminal is connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj37-l1.qa153" accuracy="correct">because terminal 1 is connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj38-l1.qa154" accuracy="incorrect">The positive terminal and terminal 1 read 1.5 V because the difference across the terminals is 1.5 V</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj38-l1.qa155" accuracy="incorrect">the voltage between terminal 1 and the positive terminal is 1.5 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj38-l1.qa156" accuracy="correct">terminal 1 is connected to the negative terminal so the voltage reading is 1.5 V</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj39-l1.qa178" accuracy="incorrect">?</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj39-l1.qa179" accuracy="incorrect">I  do not know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj39-l1.qa181" accuracy="incorrect">There is a gap after bulb B.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj39-l1.qa182" accuracy="incorrect">There is a gap after bulb b</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj40-l1.qa179" accuracy="incorrect">All components are in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj40-l1.qa180" accuracy="incorrect">terminal 1 is connected to the 1.5 volt battery.</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj40-l1.qa181" accuracy="incorrect">i dont know.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj40-l1.qa182" accuracy="incorrect">because terminal 1 and the neavtive terminal are seperated.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj43-l1.qa165" accuracy="incorrect">they created a circut</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj43-l1.qa166" accuracy="incorrect">the posotive battery and terminal 1 created a circut</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj43-l1.qa167" accuracy="incorrect">there was no gap in the circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj45-l1.qa161" accuracy="incorrect">because of the gap that bulb B created</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj45-l1.qa162" accuracy="correct">the positive and the negative sides of the battery are separated by the gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj46-l1.qa170" accuracy="incorrect">because positive charge is before gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj46-l1.qa171" accuracy="incorrect">positive before gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj46-l1.qa172" accuracy="incorrect">positive connects to negative</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj46-l1.qa173" accuracy="incorrect">terminal negative</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj47-l1.qa187" accuracy="incorrect">terminal 1 is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj47-l1.qa188" accuracy="correct">terminal 1 is not connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj48-l1.qa154" accuracy="incorrect">I don"t know, actually.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj48-l1.qa155" accuracy="incorrect">because the gap does not affect the posistive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer157" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj48-l1.qa156" accuracy="incorrect">because there is no gap between the terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj48-l1.qa157" accuracy="incorrect">the gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb2-l1.qa146" accuracy="incorrect">The posititve terminal is not damaged.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb3-l1.qa156" accuracy="incorrect">because they are flipped</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb6-l1.qa138" accuracy="incorrect">Because it was connected to the positive side.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb7-l1.qa135" accuracy="incorrect">They are different electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb9-l1.qa151" accuracy="incorrect">The electrical state at the terminal matches the battery"s electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb10-l1.qa135" accuracy="incorrect">because the voltage meter was connected to a positive and negative side</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb11-l1.qa138" accuracy="incorrect">Because it was not connect to the negative end of the terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb12-l1.qa140" accuracy="incorrect">because voltage measures the difference between two points</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb13-l1.qa137" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb15-l1.qa137" accuracy="incorrect">not sure</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb16-l1.qa137" accuracy="incorrect">it was connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb17-l1.qa139" accuracy="incorrect">The difference between the electrical states is 1.5 volts</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb19-l1.qa140" accuracy="incorrect">because there was a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb20-l1.qa147" accuracy="incorrect">Because the positive terminal is in a closed path.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb21-l1.qa135" accuracy="incorrect">it is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb22-l1.qa146" accuracy="incorrect">terminal one is connected to a positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb25-l1.qa140" accuracy="incorrect">Because it was attached to the postive terminal!</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb27-l1.qa135" accuracy="correct">terminal 1 is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb28-l1.qa140" accuracy="incorrect">Different states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb29-l1.qa139" accuracy="incorrect">there is a difference of 1.5 volts between terminal 1 and the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb30-l1.qa140" accuracy="incorrect">terminal 1 and the positive terminal are connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb31-l1.qa135" accuracy="correct">because terminal 1 is connected to the negative terminal which has a 1.5 volt difference with the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb32-l1.qa139" accuracy="incorrect">Because the meter was hooked up to two sides of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb34-l1.qa135" accuracy="correct">Terminal 1 is connected to the negative battery terminal and is in a different state than the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb36-l1.qa135" accuracy="incorrect">because terminal 1 had both a positive and negative charge.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb37-l1.qa135" accuracy="incorrect">I"m not sure</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb39-l1.qa137" accuracy="incorrect">Because the positive circuit has a voltage of 1.5 volts.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb40-l1.qa136" accuracy="correct">Postive terminal is not connected to 1.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb41-l1.qa138" accuracy="incorrect">Because terminal 1 was hooked u to the positive terminal which is automatically 1.5 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb42-l1.qa138" accuracy="correct">terminal 1 is not connected to the positive battery terminal</studentAnswer>
+  </studentAnswers>
+</question>

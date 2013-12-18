@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="HYBRID_BURNED_OUT_WHY_Q3" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Under what circumstances will a damaged/ burned out bulb affect another bulb?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer402" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS1">If they are in the same path the burned out bulb affects the other bulb.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer404" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS2">It depends on whether or not they are in the same path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer405" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS3">The damaged bulb and the other bulb must be contained in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj15-l2.qa145">the path is not on the same as the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj27-l2.qa128">if it is in the same closed path with the  battery</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj28-l2.qa120">if they are on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb2-l2.qa106">when there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb24-l2.qa107">IF IT CREATES A GAP IN THE PATH</studentAnswer>
+  </studentAnswers>
+</question>

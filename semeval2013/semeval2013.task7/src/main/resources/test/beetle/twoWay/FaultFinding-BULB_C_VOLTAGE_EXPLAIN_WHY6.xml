@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="BULB_C_VOLTAGE_EXPLAIN_WHY6" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer216" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS1">Terminal 6 and the positive terminal are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer217" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS2">Terminal 6 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer218" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS2">Terminal 6 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer221" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS3">terminal 6 is not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer220" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS2a">There is no gap between terminal 6 and the positive terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer222" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS4">terminal 6 is separated by a gap from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer222.NEW" fileID="NONE">Terminal 6 and the positive battery terminal are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer216" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj10-l1.qa215">the positive battery terminal is connected to terminal six</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer216" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj18-l1.qa185">Terminal 6 is only connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer221" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj24-l1.qa229">bulb C does not work</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj39-l1.qa233">The positive battery terminal is separated by a gap from terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer220" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj40-l1.qa224">there is no gap between terminal 6 and the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer216" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbj42-l1.qa207">A terminal is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer216" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb5-l1.qa172">the terminals are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer217" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb11-l1.qa167">The positive terminal is not separated by a gap from terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer217" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb13-l1.qa164">The positive battery terminal is not seperated from terminal 6.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb18-l1.qa174">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer217" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb20-l1.qa174">The positive battery terminal was not separated by a gap from terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer216" id="FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY6.sbjb28-l1.qa167">the 2 are connected</studentAnswer>
+  </studentAnswers>
+</question>

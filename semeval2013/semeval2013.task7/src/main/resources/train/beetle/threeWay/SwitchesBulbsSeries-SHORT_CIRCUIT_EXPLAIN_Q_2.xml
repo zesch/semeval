@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="SHORT_CIRCUIT_EXPLAIN_Q_2" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Explain why circuit 2 is not a short circuit.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer22" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS2">The battery in 2 is not in a closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer23" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS3">there is no closed path containing the battery</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer24" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4">the battery is in an open path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj3-l1.qa49" accuracy="incorrect">because the two ends of the battery do not connect to one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj3-l1.qa50" accuracy="incorrect">the battery terminals don"t connect without any devices</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj3-l1.qa51" accuracy="correct">there isn"t a closed path of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj7-l1.qa49" accuracy="correct">only one terminal of the battery is contained within the path and there is a bulb in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj7-l1.qa50" accuracy="incorrect">there are two components in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj8-l1.qa64" accuracy="correct">Because the battery is out of the closed path completely.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj8-l1.qa65" accuracy="correct">The battery is not contained in the closed path</studentAnswer>
+    <studentAnswer count="5" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj9-l1.qa53" accuracy="correct">The battery is not in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj10-l1.qa58" accuracy="contradictory">circuit 2 has a bulb on a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj10-l1.qa59" accuracy="contradictory">circuit 2 is connected to a terminal on the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj10-l1.qa60" accuracy="contradictory">circuit 2 is connected to the battery</studentAnswer>
+    <studentAnswer count="4" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj10-l1.qa61" accuracy="correct">the battery is not contained in a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj11-l1.qa68" accuracy="contradictory">the only component in the closed path is the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj11-l1.qa69" accuracy="contradictory">only one side of the battery is in the closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj11-l1.qa70" accuracy="correct">the battery is not in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj12-l1.qa47" accuracy="correct">A bulb is within the closed path, the battery is not in a closed bath so it can not be damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj12-l1.qa48" accuracy="correct">The battery is not in a closed path so it can not be damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj13-l1.qa56" accuracy="incorrect">it only has 1 connection.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj13-l1.qa57" accuracy="incorrect">the bulb is only connected at the negative connection.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj13-l1.qa58" accuracy="incorrect">the bulb is not connected to both positive and negative connections.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj14-l1.qa53" accuracy="incorrect">Because there is a bulb connected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj14-l1.qa54" accuracy="contradictory">Because there is a bulb in one of the paths.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj14-l1.qa63" accuracy="correct">Bcause the battery is not in a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj15-l1.qa75" accuracy="contradictory">because the bulb is not in the batterys path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj15-l1.qa76" accuracy="contradictory">the bulb is in a closed circuit</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj15-l1.qa77" accuracy="incorrect">the path is closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj18-l1.qa50" accuracy="incorrect">There is a bulb connected to the battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj18-l1.qa51" accuracy="incorrect">There is a bulb in the circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj18-l1.qa52" accuracy="incorrect">The battery is in a circuit with a bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj19-l1.qa66" accuracy="incorrect">it has a battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj22-l1.qa61" accuracy="contradictory">because the bulb is in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj22-l1.qa62" accuracy="correct">the battery is not connected in the closesd path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj23-l1.qa45" accuracy="incorrect">Both terminals of the battery is not connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj23-l1.qa46" accuracy="incorrect">A light bulb is attached to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj24-l1.qa51" accuracy="incorrect">open path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj24-l1.qa60" accuracy="incorrect">postive terminal of battery is not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj26-l1.qa64" accuracy="incorrect">there is a path way connecting to a bulb and battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj26-l1.qa65" accuracy="incorrect">there is a battery and bulb with a connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj26-l1.qa66" accuracy="incorrect">battery and bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj27-l1.qa59" accuracy="contradictory">Because there is a light bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj27-l1.qa61" accuracy="contradictory">The battery is not contained in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj28-l1.qa57" accuracy="incorrect">it is not in a closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj28-l1.qa58" accuracy="incorrect">Circuit 2 is not in a closed path</studentAnswer>
+    <studentAnswer count="4" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj28-l1.qa59" accuracy="correct">The battery is not in a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj29-l1.qa59" accuracy="contradictory">circuit 2 is a short circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj29-l1.qa61" accuracy="correct">the attery is not in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj31-l1.qa53" accuracy="correct">the battery is not on a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj35-l1.qa56" accuracy="correct">The battery is not in a clossed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj36-l1.qa53" accuracy="incorrect">the battery connects to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj37-l1.qa45" accuracy="incorrect">the battery is not connected to itself</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj37-l1.qa47" accuracy="incorrect">the path of battery 2 is not to itself</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj38-l1.qa47" accuracy="contradictory">The battery is connected to only one side of the bulb and is only running electricity back to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj38-l1.qa48" accuracy="correct">The bulb is in a closed path but the battery is not.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj38-l1.qa50" accuracy="correct">The bulb is in a closed path and the battery is not in the closed path with the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj39-l1.qa59" accuracy="contradictory">Circuit 2 is not a closed circuit because the battery and the bulb are connected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj39-l1.qa60" accuracy="incorrect">?</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj43-l1.qa59" accuracy="contradictory">there is not a full circut with both battery terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj43-l1.qa60" accuracy="correct">the battery terminals are not connected to one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj43-l1.qa61" accuracy="contradictory">there is not a complete path involving both battery terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj43-l1.qa62" accuracy="incorrect">the battery is not contained in a circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj45-l1.qa44" accuracy="contradictory">The bulb is in a closed circuit and the battery exists in that circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj45-l1.qa46" accuracy="correct">the battery is not in a closed bath alone</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj46-l1.qa58" accuracy="correct">not a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj47-l1.qa63" accuracy="incorrect">Because the battery is connected to the path of the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj47-l1.qa64" accuracy="incorrect">Because the battery is connected to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj47-l1.qa65" accuracy="incorrect">The battery is not alone in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj48-l1.qa48" accuracy="correct">because the battery is not connected to itself</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb1-l1.qa41" accuracy="contradictory">It is a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb2-l1.qa48" accuracy="incorrect">There is a component.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb3-l1.qa48" accuracy="incorrect">it does not damage the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb4-l1.qa41" accuracy="correct">the battery is not connected to only itself in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb5-l1.qa51" accuracy="correct">the battery is not contained in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb6-l1.qa41" accuracy="contradictory">Circuit 2 is not a short circuit because it is not a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb7-l1.qa41" accuracy="contradictory">The batter is not in a closed loop with no other components.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb10-l1.qa41" accuracy="contradictory">because the battery is not in a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb11-l1.qa43" accuracy="contradictory">Because the battery is not damaged when lighting the bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb12-l1.qa42" accuracy="contradictory">the is a bulb in the closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb13-l1.qa42" accuracy="correct">Circuit 2 is not a short circuit because the battery is not in a closed path with itself.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb15-l1.qa43" accuracy="contradictory">because it is connected to a bulb that is a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb16-l1.qa42" accuracy="incorrect">There is a light bulb in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb17-l1.qa43" accuracy="contradictory">The circuit is not closed around the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb18-l1.qa50" accuracy="contradictory">Beccause the bulb is in a closed path not the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb19-l1.qa44" accuracy="contradictory">because it is still connected to a batery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb20-l1.qa43" accuracy="correct">Because there is a bulb. It is not a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb21-l1.qa41" accuracy="contradictory">the buld circuit is closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb22-l1.qa52" accuracy="contradictory">the bulb is in the path of the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb24-l1.qa43" accuracy="contradictory">It is in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb25-l1.qa41" accuracy="contradictory">Because the bulb is connected correctly.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb26-l1.qa41" accuracy="incorrect">There is another component besides the battery in the circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb28-l1.qa45" accuracy="incorrect">The battery is connected to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb29-l1.qa43" accuracy="incorrect">it contains a bulb and does not complete a full circuit to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb30-l1.qa41" accuracy="correct">circuit 2 is not a short circuit because the battery is not in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer23" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb31-l1.qa41" accuracy="incorrect">because the battery doesn"t get damaged sense it is coming in full contact a one end with the bulb.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb32-l1.qa43" accuracy="incorrect">Both ends of the battery aren"t connected to each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb35-l1.qa41" accuracy="correct">The battery in  2 is not on a closed pathway.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb36-l1.qa41" accuracy="contradictory">the battery is not closed the bulb is.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb37-l1.qa41" accuracy="incorrect">There is a light bulb and a battery present</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb38-l1.qa42" accuracy="contradictory">Only one terminal is involved in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb39-l1.qa41" accuracy="correct">Circuit 2 is not a short circuit because the battery is not connected to itself.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb40-l1.qa41" accuracy="incorrect">One side is closed the other side is open.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb41-l1.qa42" accuracy="incorrect">Circuit 2 is not a short circuit because is shows connection to the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb42-l1.qa42" accuracy="correct">because the battery isn"t in a closed path on its own</studentAnswer>
+  </studentAnswers>
+</question>

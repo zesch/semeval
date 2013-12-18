@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="SHORT_CIRCUIT_X_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>What do you think the red X means?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer19" fileID="SHORT_CIRCUIT_X_Q_ANS1">the battery is damaged</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer20" fileID="SHORT_CIRCUIT_X_Q_ANS2">there is a short circuit</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj3-l1.qa45" accuracy="correct">a short circuit</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj7-l1.qa45" accuracy="correct">the battery is dead</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj10-l1.qa53" accuracy="correct">the red x means short circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj11-l1.qa64" accuracy="correct">battery is dead.</studentAnswer>
+    <studentAnswer count="9" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj12-l1.qa43" accuracy="correct">Short circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj13-l1.qa51" accuracy="incorrect">don"t do it.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj15-l1.qa67" accuracy="correct">the battery wont work</studentAnswer>
+    <studentAnswer count="6" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj15-l1.qa68" accuracy="correct">the battery is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj18-l1.qa44" accuracy="correct">The battery is short circuited.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj19-l1.qa58" accuracy="correct">bad</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj19-l1.qa59" accuracy="correct">dont do this</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj19-l1.qa61" accuracy="correct">battery is damaged</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj22-l1.qa51" accuracy="contradictory">it is not correct</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj22-l1.qa52" accuracy="contradictory">the battery is not connected correctly</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj24-l1.qa45" accuracy="incorrect">does not work</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj24-l1.qa46" accuracy="contradictory">wrong</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj24-l1.qa47" accuracy="correct">battery is ruined</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj26-l1.qa58" accuracy="incorrect">that the battery connection does not work</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj26-l1.qa59" accuracy="contradictory">that the battery needs a path to be connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj27-l1.qa50" accuracy="correct">That the batter isn"t working.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj27-l1.qa51" accuracy="correct">A red X means the battery is in a short circuit.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj33-l1.qa51" accuracy="correct">the battery is bad</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj34-l1.qa40" accuracy="correct">the battery is a short circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj35-l1.qa46" accuracy="contradictory">No electricity is being produced.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj35-l1.qa47" accuracy="contradictory">It is an open path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj35-l1.qa48" accuracy="contradictory">It is wrong.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj38-l1.qa42" accuracy="correct">The battery will not work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj38-l1.qa43" accuracy="correct">The battery is in a short circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj39-l1.qa52" accuracy="contradictory">No.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj39-l1.qa54" accuracy="correct">I think that it means that the battery is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj43-l1.qa50" accuracy="correct">that the battery has created a short circut and is dangerous</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj43-l1.qa51" accuracy="correct">that the battery will not work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj46-l1.qa49" accuracy="correct">battery is dead</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj47-l1.qa54" accuracy="correct">That the battery will not function</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbj47-l1.qa55" accuracy="correct">The battery will be shot circuited</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb1-l1.qa37" accuracy="correct">It is short circuit and the battery life will die.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb2-l1.qa44" accuracy="incorrect">That the circuit is bad.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb4-l1.qa37" accuracy="correct">a short circuit has occured</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb5-l1.qa39" accuracy="incorrect">the red x means that the circuit is not safe.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb6-l1.qa37" accuracy="incorrect">Bad.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb7-l1.qa37" accuracy="correct">That battery is dead.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb10-l1.qa37" accuracy="correct">It means that the battery will not work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb13-l1.qa38" accuracy="correct">Short circuit or bad battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb15-l1.qa39" accuracy="correct">the battery does not work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb16-l1.qa38" accuracy="correct">The battery has been damaged or does not work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb19-l1.qa40" accuracy="incorrect">the batery failed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb20-l1.qa39" accuracy="incorrect">This is dangerous.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb22-l1.qa48" accuracy="contradictory">its incorrect</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb26-l1.qa37" accuracy="correct">The battery doesn"t work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb27-l1.qa37" accuracy="correct">the battery is ruined</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb28-l1.qa41" accuracy="incorrect">The battery won"t work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb29-l1.qa39" accuracy="contradictory">incorrect, or not a correct way to wire</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb31-l1.qa37" accuracy="correct">short circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb32-l1.qa39" accuracy="incorrect">the battery isn"t working and is dead.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb34-l1.qa37" accuracy="correct">The current has shorted out the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb35-l1.qa37" accuracy="correct">Short circuit, or "Danger, Will Robinson!"</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer19" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb39-l1.qa37" accuracy="incorrect">That the battery does not work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb40-l1.qa37" accuracy="correct">That there is a short circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb41-l1.qa38" accuracy="incorrect">I think the red X means that this is dangerous and should never happen unless something is seriously wrong.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer20" id="SwitchesBulbsSeries-SHORT_CIRCUIT_X_Q.sbjb42-l1.qa37" accuracy="incorrect">there is danger</studentAnswer>
+  </studentAnswers>
+</question>

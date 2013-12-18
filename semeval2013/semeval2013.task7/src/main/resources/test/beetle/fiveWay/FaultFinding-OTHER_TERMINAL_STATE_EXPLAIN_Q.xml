@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="OTHER_TERMINAL_STATE_EXPLAIN_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer137" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS1">Terminals 4, 5 and 6 are not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer138" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS2">Terminals 4, 5 and 6 are separated from the negative battery terminal by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer139" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS3">Terminals 4, 5 and 6 are connected to the positive battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer140" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS4">Terminals 4, 5 and 6 are not separated from the positive battery terminal by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj3-l1.qa144">because terminals 4, 5, and 6 are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj12-l1.qa134">They are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj14-l1.qa157">Because they are connected to the positive terminal only.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj26-l1.qa169">bulb  b</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa154">there terminals are separated by a gap</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj30-l1.qa140">Terminal 4, terminal 5, and terminal 6 are connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj35-l1.qa150">4, 5 and 6 are not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj36-l1.qa155">terminal 4, terminal 5 and terminal 6 are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb1-l1.qa123">They are connected to the same positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb6-l1.qa121">Because they are positive</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb12-l1.qa123">yes</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb17-l1.qa122">There  is a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb34-l1.qa118">The other terminals receive current from the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb35-l1.qa119">becuase they gave a reading  of 1.5 V on the multimeter, but that is  just becuase  the meter closed the circuit.  They are really in the same state as  all the others I see.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb40-l1.qa119">They are connected to the postive.</studentAnswer>
+  </studentAnswers>
+</question>

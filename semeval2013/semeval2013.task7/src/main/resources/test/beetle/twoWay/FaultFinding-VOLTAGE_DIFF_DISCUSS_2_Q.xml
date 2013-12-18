@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_DIFF_DISCUSS_2_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer189" fileID="VOLTAGE_DIFF_DISCUSS_2_Q_ANS1">the terminals are not connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer190" fileID="VOLTAGE_DIFF_DISCUSS_2_Q_ANS2">the terminals are separated by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer190.1" fileID="VOLTAGE_DIFF_DISCUSS_2_Q_ANS3a">The terminals are separated.</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer190.2" fileID="VOLTAGE_DIFF_DISCUSS_2_Q_ANS3b">There is a gap.</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer190.NEW" fileID="NONE">The terminals are in different electrical states.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="5" answerMatch="answer189" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj7-l1.qa169">the terminals are not connected to each other</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj10-l1.qa192">the bulb is working</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj13-l1.qa203">i don"t know.</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer190" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj27-l1.qa190">the terminals are separated by a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj39-l1.qa206">teh terminals are connected to each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer190" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbj48-l1.qa172">they are separated</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer189" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbjb18-l1.qa157">they are not connected to eachother</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbjb24-l1.qa153">its working</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_2_Q.sbjb35-l1.qa146">Both the bulb and battery terminals are connected to each other.</studentAnswer>
+  </studentAnswers>
+</question>

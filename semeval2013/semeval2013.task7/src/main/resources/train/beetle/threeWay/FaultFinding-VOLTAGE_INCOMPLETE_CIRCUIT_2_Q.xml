@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_INCOMPLETE_CIRCUIT_2_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer246" fileID="VOLTAGE_INCOMPLETE_CIRCUIT_2_Q_ANS1">A battery uses a chemical reaction to maintain different electrical states at the terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj3-l1.qa218" accuracy="incorrect">because there is a difference in electrial states between the two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj7-l1.qa206" accuracy="incorrect">there is a difference between the electrical states of the two battery  terminals because they are not connected to each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj8-l1.qa255" accuracy="correct">because the cheminal reaction of the volatge is there wther or not there is an incomplete circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj9-l1.qa212" accuracy="incorrect">the battery will always have a voltage.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj9-l1.qa213" accuracy="contradictory">the battery is a chemical reaction that does not rely on the circuit being complete or not.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj9-l1.qa214" accuracy="contradictory">the terminals in the battery will have an electrical state and chemical reaction that will continuously flow.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj10-l1.qa243" accuracy="incorrect">because a battery is in a constant state of electrical charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj10-l1.qa244" accuracy="incorrect">a battery is in a constant state of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj10-l1.qa245" accuracy="contradictory">because a battery always has a charge in its positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj11-l1.qa233" accuracy="contradictory">because the terminals are not connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj11-l1.qa234" accuracy="contradictory">the positive terminal and negative terminal are not connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj11-l1.qa235" accuracy="contradictory">the positive battery terminal is not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj12-l1.qa208" accuracy="incorrect">The chemical reation still exists</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj12-l1.qa209" accuracy="correct">The battery uses the chemical reation to create voltage</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj13-l1.qa249" accuracy="contradictory">there is no short circuit to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj13-l1.qa250" accuracy="incorrect">the battery still holds the electrical charge if there is an incomplete circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj14-l1.qa234" accuracy="incorrect">because the gap will not effect the voltage.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj14-l1.qa235" accuracy="incorrect">Because the chemical reaction is not effected by a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj15-l1.qa258" accuracy="incorrect">the terminals must have a difference in electrical states to have voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj15-l1.qa259" accuracy="contradictory">the difference in the electrical states between two terminals causes a chemical reaction</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj18-l1.qa203" accuracy="incorrect">There is always a difference in voltage between two battery terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj18-l1.qa204" accuracy="incorrect">The gap causes a difference in electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj18-l1.qa205" accuracy="incorrect">The battery terminals have different electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj19-l1.qa279" accuracy="contradictory">because the voltage doesnt change in the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj19-l1.qa280" accuracy="incorrect">because of the chemical in the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj19-l1.qa281" accuracy="incorrect">because of the chemical reaction in the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj22-l1.qa240" accuracy="contradictory">because they are in the same electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj22-l1.qa241" accuracy="contradictory">and they are in the same state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj22-l1.qa242" accuracy="incorrect">l</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj23-l1.qa208" accuracy="incorrect">There is a difference in electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj23-l1.qa209" accuracy="contradictory">It is different from the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj24-l1.qa255" accuracy="incorrect">difference in electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj24-l1.qa256" accuracy="contradictory">gap in terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj26-l1.qa257" accuracy="incorrect">because the voltage is the difference in electrical states between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj26-l1.qa258" accuracy="incorrect">the terminal has an electrical state between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj26-l1.qa259" accuracy="contradictory">a chemical reaction between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj27-l1.qa235" accuracy="incorrect">because the battery has electricity and the gap does not</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj27-l1.qa236" accuracy="incorrect">the battery always has voltage</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj28-l1.qa234" accuracy="contradictory">the terminals are not connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj28-l1.qa235" accuracy="contradictory">there is a gap between terminals</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj28-l1.qa236" accuracy="contradictory">a battery uses voltage</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj29-l1.qa225" accuracy="incorrect">dont know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj29-l1.qa227" accuracy="contradictory">because there is no gap between the positive and negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj29-l1.qa228" accuracy="contradictory">the terminals used by the battery have no gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj30-l1.qa221" accuracy="incorrect">Because it is the difference of the electrical state between the two battery terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj30-l1.qa223" accuracy="incorrect">It is the difference of the electrical states caused by a chemical reaction between the two terminals of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj31-l1.qa229" accuracy="incorrect">the electrical state difference between the battery"s two terminals</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj31-l1.qa230" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj33-l1.qa221" accuracy="contradictory">because it has a positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj33-l1.qa222" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj34-l1.qa210" accuracy="contradictory">The battery will have a different electrical state than the circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj34-l1.qa211" accuracy="contradictory">The difference in electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj34-l1.qa212" accuracy="contradictory">The battery has a different electrical state than the incomplete circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj34-l1.qa213" accuracy="contradictory">The battery uses the electrical state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj35-l1.qa234" accuracy="incorrect">Battery will always have voltage.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj35-l1.qa235" accuracy="incorrect">The battery keeps a chemical reaction reaction.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj35-l1.qa236" accuracy="contradictory">The battery uses a chemical reaction to maintain the voltage,</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj36-l1.qa239" accuracy="incorrect">there is always voltage even if there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj36-l1.qa240" accuracy="contradictory">there is a chemical reaction between two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj36-l1.qa241" accuracy="contradictory">a terminal has an electrical state where theres a chemical reaction</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj37-l1.qa208" accuracy="incorrect">because a battery always has voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj37-l1.qa209" accuracy="incorrect">because a battery has a chemical reaction that causes a voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj37-l1.qa210" accuracy="incorrect">a batter uses a chemical reaction to create voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj38-l1.qa212" accuracy="incorrect">the voltage of the battery depends on the chemical interaction inside the battery. It does not depend on components in a curcuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj38-l1.qa213" accuracy="incorrect">the voltage of a battery does not depend on the components in a curcuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj38-l1.qa214" accuracy="incorrect">the voltage of the battery does not depend on the components in a curcuit. It depends on a chemical reaction.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj39-l1.qa255" accuracy="incorrect">becasuse it is electrically charged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj39-l1.qa256" accuracy="incorrect">yes, because there is a chemical reaction</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj39-l1.qa257" accuracy="incorrect">There is a chemical reaction.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj40-l1.qa249" accuracy="contradictory">circuit do not effect electrical state between terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj40-l1.qa250" accuracy="contradictory">circuits do not effect the electrical state between two terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj40-l1.qa251" accuracy="contradictory">an incomplete circuit would not effect the the electrical state between the terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj40-l1.qa252" accuracy="contradictory">the terminal"s electrical state is not effected by the incomplete circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj42-l1.qa243" accuracy="incorrect">There is still a voltage is the different terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj42-l1.qa244" accuracy="contradictory">The terminal is still connected to an electrical state of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj43-l1.qa225" accuracy="incorrect">it always has the same voltage due to a chemical reaction inside of it</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj43-l1.qa226" accuracy="contradictory">a battery is always in the same electrical state. it has a chemical reaction inside of it.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj45-l1.qa218" accuracy="contradictory">because the battery has its own electrical state within given by the lead</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj45-l1.qa220" accuracy="incorrect">the battery has its own chemical reaction</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj46-l1.qa237" accuracy="contradictory">because terminals are seperate</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj46-l1.qa238" accuracy="contradictory">not connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj46-l1.qa239" accuracy="contradictory">battery uses charge</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj47-l1.qa250" accuracy="contradictory">because a batter will always have a voltage even if it is 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj47-l1.qa251" accuracy="contradictory">because a battery will always have a voltage even if it is 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj47-l1.qa252" accuracy="contradictory">because a battery always has a chemical reaction, positive or negative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj48-l1.qa209" accuracy="correct">because a chemical reaction inside the battery keeps the positive and negative terminals at different electrical states at all times.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj48-l1.qa210" accuracy="incorrect">A battery will always have a voltage because the electrical states of the positive and negative terminals are always different.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj48-l1.qa211" accuracy="correct">A chemical reaction inside the battery makes the electrical states of the positive and negative terminals different at all times.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj48-l1.qa212" accuracy="correct">The two terminals of a battery will always have different electrical states due to a chemical reaction inside the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb1-l1.qa186" accuracy="incorrect">The voltage does not change.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb2-l1.qa190" accuracy="contradictory">Because it will still be connected to one of the terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb4-l1.qa181" accuracy="contradictory">because the gap creates a difference in electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb5-l1.qa189" accuracy="incorrect">the voltage of a battery is the result of chemical reactions within the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb6-l1.qa182" accuracy="incorrect">Because it has one regardless of the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb7-l1.qa179" accuracy="incorrect">battery always has voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb9-l1.qa195" accuracy="incorrect">Because there is a difference between the electrical states of the two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb10-l1.qa179" accuracy="contradictory">because there is still a difference in electrical states.  One side could have a positive connection and the other could have a negative connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb11-l1.qa185" accuracy="incorrect">Because the terminals are not in a closed path, so you are giving the voltage of the battery itself</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb12-l1.qa185" accuracy="incorrect">because the battery always has a voltage unless it"s dead</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb13-l1.qa181" accuracy="incorrect">Because it has two electrial states within itself.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb15-l1.qa181" accuracy="incorrect">because they aren"t connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb16-l1.qa181" accuracy="contradictory">battery will always have a voltage</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb17-l1.qa183" accuracy="contradictory">There will be a difference in measured electrical states</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb18-l1.qa192" accuracy="incorrect">because</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb19-l1.qa184" accuracy="incorrect">a gap in the circuit does not affect the voltage of the battery.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb20-l1.qa192" accuracy="contradictory">An incomplete circuit does not affect voltage.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb21-l1.qa180" accuracy="contradictory">it can be 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb22-l1.qa190" accuracy="incorrect">a battery always has voltage unless it is damaged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb24-l1.qa187" accuracy="contradictory">circuit has nothing to do with the batteries voltage</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb25-l1.qa184" accuracy="contradictory">Well, it will have a voltage of zero, if that"s what you are asking.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb26-l1.qa180" accuracy="incorrect">The battery"s voltage comes from a chemical reaction that takes place within the battery itself.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb27-l1.qa179" accuracy="incorrect">because the electrical states between the two battery terminals will be different no matter what</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb28-l1.qa184" accuracy="contradictory">there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb29-l1.qa183" accuracy="incorrect">beacause the two terminals still have an electrical state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb30-l1.qa186" accuracy="contradictory">the battery always has a voltage because there is a positive terminal and there is a negative terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb32-l1.qa183" accuracy="incorrect">Because it is measuring the difference in electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb34-l1.qa179" accuracy="contradictory">Because the battery contains chemicals that differe in electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb36-l1.qa179" accuracy="contradictory">the voltage stays the same within the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb37-l1.qa179" accuracy="incorrect">I don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb38-l1.qa180" accuracy="incorrect">Because the two terminals will always have different electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb39-l1.qa182" accuracy="incorrect">because voltage is the difference in electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb42-l1.qa182" accuracy="incorrect">because the battery has its own chemical reacion between the positive and negative tterminals it contains</studentAnswer>
+  </studentAnswers>
+</question>

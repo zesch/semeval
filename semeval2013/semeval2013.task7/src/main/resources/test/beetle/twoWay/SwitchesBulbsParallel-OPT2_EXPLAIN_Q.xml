@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="OPT2_EXPLAIN_Q" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Describe the paths in this diagram and explain how those paths account for the results.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer412" fileID="OPT2_EXPLAIN_ANS1">Bulb A is in a path which does not contain B and C, so bulbs B and C don't affect it. Bulbs B and C are in the same path. They affect each other, but Bulb A doesn't affect them.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer413" fileID="OPT2_EXPLAIN_ANS2">Bulb A is in a path which does not contain B and C and isn't affected by B or C. B and C are in the same path and affect each other.</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer414" fileID="OPT2_EXPLAIN_ANS3">there is a path containing A and a different path containing B and C</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer413" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj9-l2.qa124">bulb a is on a closed path. bulbs b and c are on a closed circuit in series. if bulb b is damaged, then bulb c turns off. if bulb c is damaged, then bulb b turns off.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer413" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj10-l2.qa129">bulb a is on a closed circuit with the battery. if bulb b or c are damaged, neither work</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj18-l2.qa124">Bulb a is on a closed path with the battery. If bulb b burns out, bulb c will no longer be on a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj23-l2.qa128">Bulb B and Bulb C are in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj24-l2.qa125">A is in a seperate path and B and C are in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj26-l2.qa147">bulb a does not affect bulbs b and c</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj28-l2.qa132">circuits</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj30-l2.qa134">Bulb A is on one path and Bulb"s B and C are on another.  Therefore if Bulb A goes out, it does not affect bulb B or C.  But if Bulb"s B or C go out, both go out but A stays lit</studentAnswer>
+    <studentAnswer count="3" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj31-l2.qa138">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj37-l2.qa123">when bulb a is out, bulb b and bulb c are still in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj39-l2.qa145">The path bulb A is on is a closed path with the battery even if bulbs B and C are out</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj45-l2.qa123">there are two paths. One contans bulb A alone so it does not affect the other bulbs. The other path contains both bulb B and C so if something happens to either one it will cause them to no longer be in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj45-l2.qa124">they are in separate paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj45-l2.qa126">bulb B is contained in the same closed path bulb C is in with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbj48-l2.qa126">There are two separate paths in this diagram. One path is made up of bulb a and the battery. The second path is bulb b, bulb c, and the battery. If bulb a is out, it will not affect bulbs b and c since they will still be contained in a closed path with the battery. If bulbs b or c are out, bulb a will not be affected because it will still be contained in a closed path with the battery. If bulb b is out, bulb c will be out too since they are in the same path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer413" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbjb4-l2.qa112">bulb A is on its own path, so it doesn"t matter if B or C are damaged, A will still be on. bulbs B and C are on the same path so if one of them goes out, the other will too. B and C are not affect</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer414" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbjb16-l2.qa113">there are two seperate paths. Bulb A has its own path and bulb B and C are on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer412" id="SwitchesBulbsParallel-OPT2_EXPLAIN_Q.sbjb30-l2.qa112">bulb a is in a closed circuit path regardless of bulbs b and c. if bulb a is burned out, bulbs b and c are still in a complete circuit path. bulb b depends on bulb c, and bulb c depends on bulb b. if bulb b is damaged, bulb c will not come on becuase it is contained in the same circuit path as bulb b. if bulb c is damaged, bulb b will not come one because it is contained in the same circuit path as bulb c.</studentAnswer>
+  </studentAnswers>
+</question>

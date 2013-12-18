@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="HYBRID_BURNED_OUT_WHY_Q3" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Under what circumstances will a damaged/ burned out bulb affect another bulb?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer402" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS1">If they are in the same path the burned out bulb affects the other bulb.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer404" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS2">It depends on whether or not they are in the same path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer405" fileID="HYBRID_BURNED_OUT_WHY_Q3_ANS3">The damaged bulb and the other bulb must be contained in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj3-l2.qa109" accuracy="correct">if the damaged bulb and the other bulb are contained within the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj7-l2.qa113" accuracy="correct">if it is contained in the same path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj8-l2.qa123" accuracy="correct">if it is in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj9-l2.qa114" accuracy="correct">if the damaged/ burned out bulb is in a path with another bulb and the battery, then the damaged/ burned out bulb will turn the other bulb off.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj9-l2.qa115" accuracy="correct">if the damaged bulb is in a closed path with another bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj10-l2.qa119" accuracy="correct">if the damaged bulb is on the same closed path as the other bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj10-l2.qa120" accuracy="incorrect">if the damaged bulb is on the same closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj11-l2.qa118" accuracy="correct">if the damaged bulb is in the same closed path with the battery.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj12-l2.qa125" accuracy="correct">a damaged bulb will affect another bulb if they are on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj13-l2.qa129" accuracy="incorrect">the other bulb will not light.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj13-l2.qa130" accuracy="incorrect">there will be a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj13-l2.qa131" accuracy="incorrect">i don"t know.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj13-l2.qa132" accuracy="incorrect">there is a gap in the path of the bulb terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj14-l2.qa122" accuracy="correct">if the damaged bulb is in the same path as the other bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj14-l2.qa123" accuracy="correct">They are on the same paths.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj15-l2.qa143" accuracy="contradictory">the bulb will be burned out because the terminals</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj15-l2.qa144" accuracy="incorrect">not right now</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj15-l2.qa146" accuracy="incorrect">the bulb is contained in the bath</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj18-l2.qa112" accuracy="incorrect">A damaged bulb will affect another bulb when it breaks the closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj18-l2.qa113" accuracy="incorrect">A damaged bulb will affect another bulb when it creates a gap in the closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj18-l2.qa114" accuracy="incorrect">A damaged bulb will affect another bulb when it creates a gap in the other bulb"s closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj19-l2.qa142" accuracy="incorrect">if they are not contain  in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj19-l2.qa143" accuracy="incorrect">not contained in a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj19-l2.qa144" accuracy="contradictory">Bulb C is not contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj22-l2.qa128" accuracy="correct">if it is in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj23-l2.qa119" accuracy="correct">A damaged bulb affects another bulb when they are contained in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj24-l2.qa116" accuracy="correct">if they are in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj26-l2.qa135" accuracy="correct">if they are contained in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj29-l2.qa125" accuracy="incorrect">if both bulbs are contained within a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj30-l2.qa124" accuracy="correct">If it is on the only path of that bulb that contains the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj31-l2.qa125" accuracy="correct">if it is on a series with other bulbs</studentAnswer>
+    <studentAnswer count="4" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj31-l2.qa126" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj33-l2.qa123" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj34-l2.qa126" accuracy="correct">If they are contained in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj35-l2.qa127" accuracy="incorrect">If the other bulb is no longer contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj35-l2.qa128" accuracy="incorrect">If the damages bulb creates a gap and causes the other bulb to no longer be contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj35-l2.qa129" accuracy="incorrect">the bulb is contained in a cloed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj36-l2.qa117" accuracy="correct">if the damaged bulb is on the ame path as the undamaged bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj36-l2.qa118" accuracy="correct">if the damaged bulb is on the same path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj37-l2.qa113" accuracy="correct">if that bulb is in the same closed path as another bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj37-l2.qa114" accuracy="correct">if the first bulb is in a closed path with another bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj38-l2.qa116" accuracy="correct">a damaged bulb will affect another bulb if both bulbs are in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj39-l2.qa135" accuracy="incorrect">if a damaged or burned out bulb causes a gap in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj40-l2.qa127" accuracy="correct">a damaged bulb will affect another bulb when they are contained by the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj42-l2.qa116" accuracy="incorrect">if there is a gap in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj42-l2.qa117" accuracy="incorrect">if there is a gap in the path of the battery and the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj42-l2.qa118" accuracy="incorrect">Bulbs are contained in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj43-l2.qa126" accuracy="correct">if it is in it"s only path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj43-l2.qa127" accuracy="incorrect">if it is in the path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj43-l2.qa128" accuracy="incorrect">if it is contained in the circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj45-l2.qa113" accuracy="correct">if it is in the same path as the other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj45-l2.qa114" accuracy="correct">if both bulbs are in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj46-l2.qa130" accuracy="correct">if a damaged bulb is on the same closed path to the battery as another bulb, the other bulb will not turn on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj46-l2.qa131" accuracy="incorrect">Bulbs have to be contained in closed paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj46-l2.qa132" accuracy="incorrect">bulbs must contain battery in the path without a gap</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj46-l2.qa133" accuracy="incorrect">open switch and broken bulb are the same</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj47-l2.qa128" accuracy="correct">if they are along the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbj48-l2.qa117" accuracy="correct">a damaged/ burned out bulb will affect another bulb if they are contained in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb1-l2.qa104" accuracy="correct">When it is on the same closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb4-l2.qa103" accuracy="correct">if it is on the same closed path as the other bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb6-l2.qa103" accuracy="correct">If they are on the same pathway</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb7-l2.qa104" accuracy="correct">If it is on the same path with that bulb and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb9-l2.qa104" accuracy="correct">If the burnt-out bulb is on the same path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb10-l2.qa103" accuracy="correct">when it is in the same path "series"</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb11-l2.qa103" accuracy="correct">If the damaged bulb is in the same path as another bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer404" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb12-l2.qa103" accuracy="correct">when they are on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb13-l2.qa103" accuracy="correct">If the two bulbs are in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb15-l2.qa104" accuracy="incorrect">if it in the way of the path and creates a gap due to damage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb17-l2.qa105" accuracy="correct">if they are within the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb18-l2.qa103" accuracy="incorrect">if bulb A burns out</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb19-l2.qa103" accuracy="correct">if they are in the same path all the bulbs will go out</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb20-l2.qa103" accuracy="contradictory">When they break the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb21-l2.qa103" accuracy="incorrect">if they are on the same closed path as the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb22-l2.qa103" accuracy="incorrect">if in same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb25-l2.qa104" accuracy="correct">If they are in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb26-l2.qa103" accuracy="contradictory">The first bulb will necessarilly subsequent bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb27-l2.qa103" accuracy="contradictory">when it is in the same path as it"s own closed circuit to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb29-l2.qa104" accuracy="correct">when they are both on the same closed path and would cause a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb30-l2.qa103" accuracy="correct">when the damaged bulb creates a gap in another bulb"s circuit path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb31-l2.qa103" accuracy="contradictory">if the damaged lightbulb is contained in the closed circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb32-l2.qa103" accuracy="correct">If the bulb is on the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb34-l2.qa104" accuracy="correct">When the damaged bulb causes a gap in the closed path containing another bulb and a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb35-l2.qa105" accuracy="contradictory">if they are on the same circuit as the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb37-l2.qa104" accuracy="correct">when they are all on the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb38-l2.qa103" accuracy="correct">When there is no other closed path for the current to pass through with no gaps.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb39-l2.qa103" accuracy="correct">a damaged bulb will affect another bulb if they are in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb40-l2.qa103" accuracy="incorrect">if it interrupts the contained path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer402" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb41-l2.qa104" accuracy="contradictory">Only if the damaged/burned out bulb creates a gap for the other bulbs and they are not contained in a closed path to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer405" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q3.sbjb42-l2.qa103" accuracy="correct">when it is containe dby the same path with the battery</studentAnswer>
+  </studentAnswers>
+</question>

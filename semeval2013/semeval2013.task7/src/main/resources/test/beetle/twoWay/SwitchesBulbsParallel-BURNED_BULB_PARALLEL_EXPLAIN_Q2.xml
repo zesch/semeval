@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="BURNED_BULB_PARALLEL_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer353" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q2_ANS1">Bulbs A and C are still in closed paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer354" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q2_ANS1_OLD">Bulbs A and C are in a closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer355" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q2_ANS2">each bulb is in its own path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer356" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q2_ANS3">Bulb B is in a separate path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer354" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbj9-l2.qa87">bulb a will be in a closed path. bulb c will be in a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbj19-l2.qa110">Bulb B is in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer353" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbj23-l2.qa91">There is still a closed path that contains the battery, Bulb A, and Bulb C.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer353" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbjb5-l2.qa78">bulbs A and C will still be on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer356" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbjb22-l2.qa78">different path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer353" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q2.sbjb38-l2.qa78">Bulbs A and C will still have closed circuits with both terminals of the battery.</studentAnswer>
+  </studentAnswers>
+</question>

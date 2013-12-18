@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="OTHER_TERMINAL_STATE_EXPLAIN_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer137" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS1">Terminals 4, 5 and 6 are not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer138" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS2">Terminals 4, 5 and 6 are separated from the negative battery terminal by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer139" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS3">Terminals 4, 5 and 6 are connected to the positive battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer140" fileID="OTHER_TERMINAL_STATE_EXPLAIN_Q_ANS4">Terminals 4, 5 and 6 are not separated from the positive battery terminal by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj3-l1.qa143" accuracy="incorrect">becuase the other terminals are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj7-l1.qa138" accuracy="correct">terminal 4, terminal 5, and terminal 6 are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj8-l1.qa163" accuracy="correct">because they are connected to the positive terminal</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj9-l1.qa135" accuracy="correct">They are connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="6" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj10-l1.qa159" accuracy="correct">because they are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj11-l1.qa166" accuracy="correct">because those terminals are connected to the positive terminal of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa158" accuracy="incorrect">because of the gap in bulb b.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa159" accuracy="incorrect">because of the gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa160" accuracy="correct">the negative battery terminal is connected to bulb terminal 1,2 and 3 only.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa161" accuracy="correct">terminal 4. terminal 5 and terminal 6 are not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj15-l1.qa173" accuracy="incorrect">because they are in a closed path</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj15-l1.qa174" accuracy="incorrect">because they are connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj18-l1.qa137" accuracy="correct">The other terminals are only connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj18-l1.qa138" accuracy="correct">The other terminals are not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj18-l1.qa139" accuracy="correct">Terminals 4, 5, and 6 are only connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj19-l1.qa178" accuracy="correct">they are connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj22-l1.qa159" accuracy="correct">terminal 4, terminal 5, terminal 6 are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj22-l1.qa160" accuracy="correct">Terminal 4, terminal 5, and terminal 6 are connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj23-l1.qa139" accuracy="correct">Terminal 4, terminal 5, and terminal 6 is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa150" accuracy="incorrect">they have electricty passing through them</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa151" accuracy="incorrect">because of the gap in bulb B</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa152" accuracy="incorrect">terminal is connected to postive end of battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa153" accuracy="incorrect">your an idiot</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj26-l1.qa167" accuracy="incorrect">bulb b is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa151" accuracy="incorrect">there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa152" accuracy="incorrect">the electricity can"t pass through</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa153" accuracy="incorrect">there is a separation between the bulbs and the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj31-l1.qa145" accuracy="incorrect">because of the damaged bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj31-l1.qa147" accuracy="incorrect">because the bulb b is damaged and is connected to the terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj31-l1.qa148" accuracy="correct">4 5 and 6 are not connected to negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj33-l1.qa143" accuracy="correct">terminals 4,5, and 6 are connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj34-l1.qa136" accuracy="correct">They are not connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj35-l1.qa148" accuracy="incorrect">They are on the opposite side of the damaged bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj35-l1.qa149" accuracy="correct">The terminal is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj38-l1.qa134" accuracy="incorrect">there is a gap in the circuit that causes a gap between terminals 1,2,and 3 and 4,5,and 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj38-l1.qa135" accuracy="correct">there is a gap in the circuit. terminals 1,2, and 3 are connected to the negative terminal of the battery. terminals 4,5, and 6 are connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj39-l1.qa158" accuracy="incorrect">because only one of the bulb terminals is bad.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj39-l1.qa159" accuracy="incorrect">Because one of the bulb terminals is bad, and the other ones are good.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj39-l1.qa160" accuracy="incorrect">a terminal is connected to another terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj40-l1.qa156" accuracy="incorrect">the other terminals are connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj40-l1.qa157" accuracy="incorrect">terminals 3, 4, and 5 are connected to the positive battery terrminal.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj42-l1.qa151" accuracy="correct">Terminal 4, terminal 5 and terminal 6 are connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa140" accuracy="correct">beacuse they are connected to a positive batter terminal</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa141" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa142" accuracy="correct">the terminal is connected to a positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa143" accuracy="incorrect">...</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj46-l1.qa152" accuracy="incorrect">positively charged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj46-l1.qa153" accuracy="incorrect">terminal connected to positive charge</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbj47-l1.qa169" accuracy="incorrect">Because terminals 4, 5, and 6 are located closer to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb2-l1.qa129" accuracy="correct">Because they are connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb3-l1.qa137" accuracy="correct">They connect to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb4-l1.qa119" accuracy="correct">becasue the terminals 4,5, and 6 are connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb5-l1.qa128" accuracy="correct">terminal 4, terminal 5, and terminal 6 are connected to the positive terminal of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb7-l1.qa118" accuracy="correct">Because they are connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb9-l1.qa134" accuracy="incorrect">The A bulb is dead.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb10-l1.qa118" accuracy="incorrect">because they are connected to the positive end</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb19-l1.qa123" accuracy="incorrect">because there is a closed circuit after bulb b</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb20-l1.qa130" accuracy="correct">They are not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb22-l1.qa129" accuracy="incorrect">they are connected to both positive and negative battery terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb24-l1.qa125" accuracy="incorrect">+ releases current - recieves it?</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb25-l1.qa123" accuracy="incorrect">Because they are in the positive terminal, and aren"t directly touching the negative terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb26-l1.qa119" accuracy="correct">Terminal 4, terminal 5 and terminal 6 are connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb27-l1.qa118" accuracy="correct">terminals 4, 5, and 6 are connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb28-l1.qa123" accuracy="correct">They"re connected to a positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer137" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb29-l1.qa122" accuracy="incorrect">since there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb32-l1.qa122" accuracy="incorrect">Because they all are receiving voltage from positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer138" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb36-l1.qa118" accuracy="incorrect">because the broken bulb created a gap not allowing the current to flow through both.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb37-l1.qa118" accuracy="correct">4, 5, and 6 are connected to the positive side</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb38-l1.qa119" accuracy="correct">Because they are connected to the positive terminal of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer139" id="FaultFinding-OTHER_TERMINAL_STATE_EXPLAIN_Q.sbjb39-l1.qa120" accuracy="correct">Because they had voltage and were connected to the positive battery terminal.</studentAnswer>
+  </studentAnswers>
+</question>

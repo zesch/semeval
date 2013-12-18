@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY5" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer171" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS1">Terminal 5 and the positive terminal are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer172" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS2">Terminal 5 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer173" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS2A">There is no gap between terminal 5 and the positive terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer174" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS3">terminal 5 is not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer175" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS4">terminal 5 is separated by a gap from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer175.NEW" fileID="NONE">Terminal 5 and the positive battery terminal are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj38-l1.qa160">the positive terminal is connected to terminal 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj40-l1.qa188">terminal 5 and the positive terminal are connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb4-l1.qa140">same answer as for terminal 4 and the positive terminal</studentAnswer>
+  </studentAnswers>
+</question>

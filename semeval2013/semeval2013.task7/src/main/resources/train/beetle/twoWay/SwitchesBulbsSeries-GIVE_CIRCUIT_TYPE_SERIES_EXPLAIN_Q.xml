@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer416" fileID="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q_ANS1">A and C are in the same closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer416.1" fileID="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q_ANS1a">A and C are in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj3-l2.qa125" accuracy="correct">they are contained within the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj3-l2.qa126" accuracy="correct">bulb c and a are in the same path. and affect one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj3-l2.qa127" accuracy="correct">bulb c and a are contained in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj7-l2.qa129" accuracy="correct">damaging one turns off the other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj7-l2.qa130" accuracy="correct">if bulb a is damaged, bulb c turns off.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj8-l2.qa141" accuracy="correct">contained within the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj9-l2.qa131" accuracy="incorrect">bulbs a and c affect each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj9-l2.qa132" accuracy="incorrect">bulb a affects bulb c. bulb c affects bulb a.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj10-l2.qa135" accuracy="correct">they are both on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj10-l2.qa139" accuracy="correct">bulbs a b and c are on a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj11-l2.qa133" accuracy="incorrect">removing bulb a will affect bulb c</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj11-l2.qa134" accuracy="incorrect">bulb a affects bulb c</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj12-l2.qa142" accuracy="incorrect">they are on a path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj12-l2.qa143" accuracy="incorrect">they all affect each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj12-l2.qa144" accuracy="incorrect">bulbs a, b, and c are on a path with the battery</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj13-l2.qa150" accuracy="incorrect">if bulb a burns out if affects bulbs b and c.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj13-l2.qa152" accuracy="incorrect">bulbs a, b, and c are all in the same path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj14-l2.qa142" accuracy="incorrect">removing one bulb shuts off the other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj14-l2.qa143" accuracy="incorrect">the path is closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj15-l2.qa162" accuracy="correct">because they are in the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj15-l2.qa163" accuracy="incorrect">that is all</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj18-l2.qa128" accuracy="correct">Bulbs A and C are in the same closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj19-l2.qa161" accuracy="incorrect">the are on the same wire</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj19-l2.qa162" accuracy="incorrect">they are not parralel</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj19-l2.qa163" accuracy="correct">they have the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj22-l2.qa144" accuracy="correct">they are in the same closed path but not next to each other</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj23-l2.qa134" accuracy="correct">They are in the same path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj23-l2.qa136" accuracy="incorrect">That is basically what I said sir.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj24-l2.qa130" accuracy="incorrect">If one bulb is burns out, then they all stop</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj24-l2.qa131" accuracy="incorrect">If one bulb is removed, the others stop working</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj24-l2.qa133" accuracy="incorrect">removing one bulb shuts off the other</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj24-l2.qa135" accuracy="incorrect">i did</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj26-l2.qa153" accuracy="correct">because they are on the same closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj27-l2.qa144" accuracy="correct">they are contained in the same closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj28-l2.qa136" accuracy="incorrect">they are in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj29-l2.qa141" accuracy="incorrect">bulbs a and c are wired within a closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj29-l2.qa142" accuracy="correct">bulbs a and c are wired within the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj29-l2.qa144" accuracy="incorrect">both bulbs a and c are contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj30-l2.qa139" accuracy="incorrect">they are contained in the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj30-l2.qa140" accuracy="incorrect">kkkdfdadkjlf</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj30-l2.qa141" accuracy="incorrect">and the circut is closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj31-l2.qa144" accuracy="correct">they are in a line on the same closed path</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj31-l2.qa145" accuracy="correct">they are on the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj33-l2.qa136" accuracy="incorrect">bulbs A,B, and C are all on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj33-l2.qa137" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj34-l2.qa141" accuracy="correct">They are contained in the same closed path, so if one bulb goes out so do the others.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj34-l2.qa145" accuracy="correct">The lightbulbs are all contained in the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj35-l2.qa143" accuracy="correct">they are all contained in the same closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj36-l2.qa136" accuracy="incorrect">the bulbs are on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj36-l2.qa137" accuracy="incorrect">the bulbs are on the same path with the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj37-l2.qa129" accuracy="correct">they are in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj38-l2.qa131" accuracy="correct">the closed path contains bulb A, bulb B, bulb C, and a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj39-l2.qa152" accuracy="correct">They are contained in the same path. If one bulb goes out it will affect the other ones.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj39-l2.qa154" accuracy="correct">bulbs A and C are contained in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj40-l2.qa144" accuracy="incorrect">removing of damaging any of the bulbs will shut off the other bulbs.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj40-l2.qa145" accuracy="incorrect">i give up</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj43-l2.qa141" accuracy="correct">they are all connected in the same path to the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj43-l2.qa142" accuracy="incorrect">they are in a series of connections with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj43-l2.qa144" accuracy="correct">a and c are on the same closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj45-l2.qa130" accuracy="correct">removing a bulb will turn off another bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj46-l2.qa148" accuracy="correct">bulbs are on the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj47-l2.qa144" accuracy="correct">they are located on the same path and will affect each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj47-l2.qa145" accuracy="correct">bulbs A and C are located on the same path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb2-l2.qa119" accuracy="correct">They are on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb3-l2.qa123" accuracy="incorrect">they are teh begning and end of the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb4-l2.qa116" accuracy="incorrect">they can affect each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb6-l2.qa117" accuracy="correct">Because they are connected along the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb7-l2.qa117" accuracy="incorrect">Each bulb affects the other bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb9-l2.qa117" accuracy="correct">They are on the same path to the battery without interruption</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb10-l2.qa116" accuracy="correct">becuase there is only one path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb11-l2.qa116" accuracy="correct">If any of the 3 bulbs are damaged the other 2 bulbs would turn off because they are all within the same path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb13-l2.qa116" accuracy="correct">Bulb A and bulb C are in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb15-l2.qa117" accuracy="correct">they are on the same apth</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb16-l2.qa117" accuracy="correct">wired in same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb17-l2.qa118" accuracy="correct">They are all affected by one another along the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb21-l2.qa116" accuracy="incorrect">theya re connectted by another bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb22-l2.qa118" accuracy="incorrect">closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb24-l2.qa120" accuracy="correct">THE ARE ON THE SAME PATH</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb25-l2.qa118" accuracy="correct">They are all within the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb26-l2.qa116" accuracy="correct">They are on the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb29-l2.qa117" accuracy="incorrect">they affect one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb31-l2.qa116" accuracy="incorrect">bulb a and c are in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb34-l2.qa117" accuracy="incorrect">Bulb A and bulb C affect each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb35-l2.qa118" accuracy="incorrect">becuase breaking one  bulb then affects the ability of the others to light up.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb36-l2.qa116" accuracy="correct">if one is out the others will go out, they are in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb37-l2.qa117" accuracy="correct">They are all on the dame closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb38-l2.qa116" accuracy="correct">They are contained on the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb40-l2.qa116" accuracy="incorrect">they are not parallel</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb42-l2.qa116" accuracy="incorrect">removing either A or C will turn off the other bulb</studentAnswer>
+  </studentAnswers>
+</question>

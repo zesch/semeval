@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="TERMINAL_STATE_EXPLAIN_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why do you think those terminals and the negative battery terminal are in the same state?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer133" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS1">Terminals 1, 2 and 3 are connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer134" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS2">Terminals 1, 2 and 3 are not separated from the negative battery terminal by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer135" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS3">Terminals 1, 2 and 3 are not connected to the positive battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer136" fileID="TERMINAL_STATE_EXPLAIN_Q_ANS4">Terminals 1, 2 and 3 are separated from the positive battery terminal by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj3-l1.qa140" accuracy="correct">because neither of them are recieving current</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj3-l1.qa141" accuracy="incorrect">both are on the same side of the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj3-l1.qa142" accuracy="incorrect">the terminals are connected to each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj7-l1.qa135" accuracy="incorrect">there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj7-l1.qa136" accuracy="incorrect">there is a gap between the terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj9-l1.qa133" accuracy="contradictory">1, 2, and 3 have 0 volts. The negative side of the battery begins at 0 volts.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj10-l1.qa157" accuracy="correct">because bulbs are connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj10-l1.qa158" accuracy="incorrect">because they are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj11-l1.qa162" accuracy="correct">they are connected only to the negative side of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj11-l1.qa163" accuracy="incorrect">the terminals are on the same side as the negative side of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj11-l1.qa164" accuracy="correct">there is a gap, so the terminals are connected to the negative side of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj11-l1.qa165" accuracy="correct">the terminals are connedted to the negative terminal of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj12-l1.qa130" accuracy="incorrect">The damaged bulb B has left a gap in the path so the charge can not reach it</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj12-l1.qa132" accuracy="incorrect">The gap seperates the positive and negative charges</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj12-l1.qa133" accuracy="contradictory">Terminals 3 and 4 are seperated</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj13-l1.qa156" accuracy="contradictory">because they all have a 0.00 v</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj14-l1.qa155" accuracy="incorrect">Because there is a gap due to a damaged bulb.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj15-l1.qa171" accuracy="contradictory">because they have 0 voltz</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj15-l1.qa172" accuracy="incorrect">terminal is connected to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj18-l1.qa136" accuracy="correct">Those terminals are only connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj19-l1.qa176" accuracy="incorrect">becuase B is out</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj19-l1.qa177" accuracy="incorrect">the terminal is connected to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj22-l1.qa156" accuracy="incorrect">because there is a gap because bulb b is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj22-l1.qa157" accuracy="incorrect">there is a gap at bulb b</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj22-l1.qa158" accuracy="incorrect">because the gap provides separation to the terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj23-l1.qa137" accuracy="incorrect">There is no difference in electrical states.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj23-l1.qa138" accuracy="contradictory">A terminal is connected to a damaged bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj24-l1.qa149" accuracy="correct">they are not connected to postive terminal so no electrical difference</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj26-l1.qa164" accuracy="incorrect">they all read to 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa149" accuracy="incorrect">because they have the same voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj27-l1.qa150" accuracy="incorrect">because they are connected in the terminal</studentAnswer>
+    <studentAnswer count="2" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj28-l1.qa151" accuracy="contradictory">they are in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer134" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj29-l1.qa149" accuracy="correct">there is no gap between them</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj29-l1.qa150" accuracy="incorrect">don"t know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj30-l1.qa138" accuracy="incorrect">Because they all measure 0.00 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj30-l1.qa139" accuracy="correct">Because the are all connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj31-l1.qa144" accuracy="correct">they are connected to the negativer terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj33-l1.qa139" accuracy="incorrect">those terminals are on the same side as the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj33-l1.qa140" accuracy="contradictory">those terminals are closer to the negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj33-l1.qa141" accuracy="incorrect">idk</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj33-l1.qa142" accuracy="incorrect">connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj34-l1.qa135" accuracy="correct">Those terminals are only connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj35-l1.qa146" accuracy="incorrect">They had negative voltage.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj35-l1.qa147" accuracy="contradictory">The terminals are connected to a damaged bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj36-l1.qa151" accuracy="incorrect">1 2 and 3 are on thnegative side</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj36-l1.qa153" accuracy="incorrect">1 2 and 3 are connected t neative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj36-l1.qa154" accuracy="incorrect">terminal 1, terminal 2, and terminal 3 are connected o the negative battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj37-l1.qa130" accuracy="incorrect">because of the gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj37-l1.qa131" accuracy="incorrect">because of the gap in bulb b</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj38-l1.qa131" accuracy="contradictory">terminals 1,2, and 3 are in the same state as the negative battery terminal because they have the same size difference in electrical states.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj38-l1.qa132" accuracy="contradictory">terminals 1,2, and 3 are in the same state as the negative battery terminal because each has an equal difference in electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj38-l1.qa133" accuracy="correct">terminals 1,2,and 3 are connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj39-l1.qa156" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj39-l1.qa157" accuracy="contradictory">the terminal is connected to a bad bulb terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj40-l1.qa153" accuracy="incorrect">they are have 0 volts.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj40-l1.qa154" accuracy="incorrect">they all have 0 volts.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj40-l1.qa155" accuracy="contradictory">they are not connected to the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj42-l1.qa150" accuracy="incorrect">A terminal is connected to a bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj43-l1.qa145" accuracy="incorrect">they are on the same side of the incomplete circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj43-l1.qa146" accuracy="incorrect">those terminals are connected to the negative side of the circut</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa138" accuracy="contradictory">because they are negative</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj45-l1.qa139" accuracy="contradictory">the terminal is connected to the damaged bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer134" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj46-l1.qa149" accuracy="incorrect">before the gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj47-l1.qa166" accuracy="contradictory">They are located the closest to each other</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj47-l1.qa168" accuracy="contradictory">the negative battery terminal and terminals 1, 2, and 3 are located closest to each other</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj48-l1.qa134" accuracy="contradictory">because bulb a is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj48-l1.qa135" accuracy="incorrect">because bulb b is damaged so the path has a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbj48-l1.qa136" accuracy="incorrect">the path has a gap, so the circuit is incomplete</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb1-l1.qa122" accuracy="contradictory">The voltage has the same electrical state between any two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb2-l1.qa128" accuracy="incorrect">Because there is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb3-l1.qa136" accuracy="correct">They all connect to the negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb4-l1.qa118" accuracy="contradictory">because voltage is the difference between two terminals and those terminals were not connected in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb5-l1.qa127" accuracy="incorrect">because of the gap at bulb b</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb6-l1.qa120" accuracy="incorrect">I don"t know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb7-l1.qa117" accuracy="incorrect">The voltage size is 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb9-l1.qa133" accuracy="contradictory">Because the electrical states at terminals 4, 5, and 6 match that of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb10-l1.qa117" accuracy="incorrect">because the voltage was 0 and there is a gap between 3 and 4</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb11-l1.qa120" accuracy="incorrect">Because these terminals all had a reading of 0.0 volts</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb15-l1.qa119" accuracy="contradictory">because they"re at 0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb16-l1.qa119" accuracy="incorrect">they all have 0 volts</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb17-l1.qa121" accuracy="correct">They are only connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb18-l1.qa128" accuracy="incorrect">Because the voltage is the same.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer136" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb19-l1.qa122" accuracy="incorrect">because there is a gap in bulb b</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer134" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb20-l1.qa129" accuracy="incorrect">There is a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb21-l1.qa117" accuracy="contradictory">4,5,6</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb22-l1.qa128" accuracy="contradictory">they do not create a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb24-l1.qa124" accuracy="incorrect">all have the same voltage reading</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb25-l1.qa122" accuracy="contradictory">Because they all are reading that they have 0.00 voltage.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb26-l1.qa118" accuracy="contradictory">The closed circut is not allowing the difference between the positive and negative terminals of the battery to interect.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb28-l1.qa122" accuracy="incorrect">On the same side</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb29-l1.qa121" accuracy="incorrect">since a a gap does not affect the voltage of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb30-l1.qa120" accuracy="contradictory">The damaged bulb b creates a gap in the path so the negative battery terminal is not connected to the positive battery terminal at bulb ternimal 1, 2, or 3. this leaves the terminals and the negative battery terminal in the same state of 0.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb31-l1.qa117" accuracy="contradictory">because the terminals haven"t been affected by the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer134" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb34-l1.qa117" accuracy="contradictory">The terminals and the negative battery are in the same state because no voltage was measured.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb35-l1.qa118" accuracy="incorrect">because they both have a voltage of 0.0 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer135" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb36-l1.qa117" accuracy="incorrect">Because bulb B is damaged and does not allow the positive battery current to reach the other side.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb38-l1.qa118" accuracy="incorrect">Because they are connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb39-l1.qa119" accuracy="contradictory">Because they had no voltage.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb40-l1.qa118" accuracy="contradictory">Because they are at 0.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer133" id="FaultFinding-TERMINAL_STATE_EXPLAIN_Q.sbjb41-l1.qa120" accuracy="correct">Because the first 3 terminals are connected to the negative side of the battery.</studentAnswer>
+  </studentAnswers>
+</question>

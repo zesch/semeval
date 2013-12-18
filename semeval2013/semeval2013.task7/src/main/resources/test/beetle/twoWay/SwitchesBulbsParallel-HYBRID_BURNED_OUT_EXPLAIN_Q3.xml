@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="HYBRID_BURNED_OUT_EXPLAIN_Q3" module="SwitchesBulbsParallel" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer383" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q3_ANS1">If C burns out, then A and B are still in a closed path with the battery.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer385" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q3_ANS2">If C burns out, then A and B are still in a closed path.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer383" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q3.sbj38-l2.qa106">bulb a and bulb b are still in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer383" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q3.sbjb16-l2.qa95">can still be in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer383" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q3.sbjb18-l2.qa94">closed pathway with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q3.sbjb21-l2.qa94">seperate circuits</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer383" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q3.sbjb41-l2.qa95">Bulbs A and B are still contained in a closed path to the battery.</studentAnswer>
+  </studentAnswers>
+</question>

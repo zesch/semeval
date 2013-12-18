@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="CONDITIONS_FOR_BULB_TO_LIGHT" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>What are the conditions that are required to make a bulb light up?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer14" fileID="CONDITIONS_FOR_BULB_TO_LIGHT_ANS1">there is a closed path containing both the bulb and a battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer15" fileID="CONDITIONS_FOR_BULB_TO_LIGHT_ANS2">the bulb and the battery are in a closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer16" fileID="CONDITIONS_FOR_BULB_TO_LIGHT_ANS3">the circuit has a closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer17" fileID="CONDITIONS_FOR_BULB_TO_LIGHT_ANS4">there is a complete circuit</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer17.1" fileID="CONDITIONS_FOR_BULB_TO_LIGHT_ANS4.1">One terminal of the bulb has to be connected to one terminal of the battery, and the other terminal of the bulb has to be connected to the different terminal of the battery.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj3-l1.qa36" accuracy="correct">a complete circuit of electricty</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj3-l1.qa37" accuracy="incorrect">both the bulb and battery must have a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj3-l1.qa38" accuracy="incorrect">the battery should connect to the bulb at different terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj7-l1.qa37" accuracy="incorrect">closed path, connected to a battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj7-l1.qa40" accuracy="incorrect">battery is  in  a holder</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj8-l1.qa50" accuracy="incorrect">connection to a switch</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj8-l1.qa51" accuracy="incorrect">connection to a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj8-l1.qa52" accuracy="incorrect">closed circuit with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj9-l1.qa41" accuracy="correct">The battery and bulb need to be in a closed path together.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj9-l1.qa42" accuracy="correct">A battery and bulb in a closed path will light the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj9-l1.qa43" accuracy="correct">A battery should connect to a bulb in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj10-l1.qa43" accuracy="correct">the conditions are a battery and a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj10-l1.qa44" accuracy="incorrect">a battery and a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj11-l1.qa54" accuracy="incorrect">a battery connected to each side of the lightbulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj11-l1.qa55" accuracy="correct">a battery in a closed path with a lightbulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj12-l1.qa38" accuracy="correct">A closed path with a battery and bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj13-l1.qa44" accuracy="incorrect">a closed circuit with a positive and a negative connection.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj13-l1.qa45" accuracy="incorrect">a battery"s negative and positive connection to the light bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj14-l1.qa44" accuracy="incorrect">Both components need to be in closed paths.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj15-l1.qa60" accuracy="incorrect">a closed circuit path for the buld as well as a working battery and a closed circuit path for the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj15-l1.qa61" accuracy="incorrect">a working battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj18-l1.qa37" accuracy="correct">The bulb must be in a closed path. The bulb must be connected to both battery terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj18-l1.qa38" accuracy="correct">The bulb must be in a closed path. The light bulb terminals must be connected to both battery terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj18-l1.qa39" accuracy="correct">The light bulb must be in a closed path with a connected battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj19-l1.qa51" accuracy="incorrect">a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj19-l1.qa52" accuracy="incorrect">negative and positive output</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj19-l1.qa53" accuracy="correct">complete circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj22-l1.qa42" accuracy="incorrect">a connection to the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj22-l1.qa43" accuracy="incorrect">a component to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj22-l1.qa44" accuracy="incorrect">a closed component to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj23-l1.qa35" accuracy="correct">Both the light bulb and battery must be in a closed path circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj23-l1.qa36" accuracy="correct">Both the light bulb and battery must be in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj24-l1.qa37" accuracy="incorrect">terminals must connect to correct spots</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj24-l1.qa38" accuracy="incorrect">a closed path is required</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj24-l1.qa39" accuracy="incorrect">don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj24-l1.qa40" accuracy="incorrect">a batter is required</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj26-l1.qa48" accuracy="incorrect">a battery and a connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj26-l1.qa49" accuracy="incorrect">a bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj26-l1.qa50" accuracy="incorrect">a path , a bulb , and a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj27-l1.qa42" accuracy="incorrect">A light bulb must be connected to a battery on both ends.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj27-l1.qa44" accuracy="incorrect">They must be connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj28-l1.qa40" accuracy="incorrect">Closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj28-l1.qa41" accuracy="incorrect">Each end of the bulb must be connected to a differend end of the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj28-l1.qa42" accuracy="incorrect">Each circuit must have a connection.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj29-l1.qa47" accuracy="incorrect">right connections made to the right terminals</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj29-l1.qa49" accuracy="incorrect">battery  terminals match the bulb terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj30-l1.qa35" accuracy="incorrect">Both the battery and lightbulb in a closed circuit path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj30-l1.qa36" accuracy="incorrect">The battery and the light bulb are in a closed circuit path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj30-l1.qa37" accuracy="incorrect">The battery is in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj31-l1.qa38" accuracy="incorrect">close the path and match the terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj33-l1.qa39" accuracy="incorrect">closed paths from the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj34-l1.qa32" accuracy="incorrect">closed circuits</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj34-l1.qa33" accuracy="correct">closed paths around the light bulb and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj35-l1.qa39" accuracy="incorrect">There must be a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj35-l1.qa41" accuracy="incorrect">There must be a closed path and a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj36-l1.qa42" accuracy="incorrect">you have to have a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj36-l1.qa44" accuracy="incorrect">the battery should connect to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj37-l1.qa36" accuracy="correct">A battery and a bulb must be in a closed path together</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj38-l1.qa36" accuracy="correct">The battery and the bulb must be in a closed path together.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj39-l1.qa42" accuracy="incorrect">To make a bulb light up, there has to be a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj39-l1.qa43" accuracy="incorrect">I order to make a bulb light up, there has to be a battery and the right connections.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj39-l1.qa44" accuracy="incorrect">There has to be a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj39-l1.qa45" accuracy="incorrect">There has to be a closed circuit battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj40-l1.qa52" accuracy="incorrect">a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj42-l1.qa47" accuracy="incorrect">It must be in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj42-l1.qa48" accuracy="incorrect">It must be in a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj42-l1.qa49" accuracy="incorrect">It must be connected to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj43-l1.qa39" accuracy="incorrect">a full circut connected at both terminals of both components .</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj43-l1.qa40" accuracy="incorrect">a full circut that conects at both terminals of both components.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj43-l1.qa41" accuracy="incorrect">a full circut that conects at both terminals of the battery and at both terminals of the lightbulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj43-l1.qa43" accuracy="incorrect">a battery and a lightbulb that are connected at both terminals to one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj45-l1.qa32" accuracy="incorrect">closed paths</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj45-l1.qa33" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj45-l1.qa34" accuracy="incorrect">the buld and the battery must be connected at a circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj45-l1.qa35" accuracy="incorrect">bulb had a short circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj46-l1.qa41" accuracy="incorrect">positive and negative charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj46-l1.qa42" accuracy="incorrect">must be connected to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj46-l1.qa43" accuracy="incorrect">battery mut be closed circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj46-l1.qa44" accuracy="incorrect">battery must be contained in bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj47-l1.qa45" accuracy="incorrect">The battery must be connected to the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj48-l1.qa37" accuracy="incorrect">the bulb must be in a closed circuit with a battery, with one bulb terminal connected to the negative battery terminal, and the other bulb terminal connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbj48-l1.qa38" accuracy="correct">the bulb must be in a complete circuit with a battery, with one bulb terminal connected to the negative battery terminal, and the other bulb terminal connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb1-l1.qa32" accuracy="incorrect">Matching the positive charge with the right charge.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb3-l1.qa37" accuracy="incorrect">They have to be closed circuts</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb4-l1.qa32" accuracy="incorrect">battery and closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb5-l1.qa34" accuracy="correct">the battery and the bulb must be on a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb6-l1.qa32" accuracy="incorrect">It must be in a closed circuit with a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb7-l1.qa32" accuracy="correct">There must be a closed path for both the battery and bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb10-l1.qa32" accuracy="incorrect">the circuit needs to be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb11-l1.qa34" accuracy="correct">You needed both a battery and a blub with the same path, and the path must be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb12-l1.qa33" accuracy="incorrect">a closed circuit between a battery and bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb13-l1.qa32" accuracy="correct">A closed path with a battery and a bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb15-l1.qa34" accuracy="incorrect">battery must work. and connected to correct terminals on light bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb16-l1.qa32" accuracy="incorrect">A Battery and bulb in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb17-l1.qa34" accuracy="incorrect">Both Terminals of the bulb must be connected in a circuit with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb18-l1.qa33" accuracy="incorrect">A battery and a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb19-l1.qa34" accuracy="incorrect">a voltage with a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb20-l1.qa34" accuracy="incorrect">The bulb has to be connected to the positive and negative charge of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer16" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb21-l1.qa32" accuracy="incorrect">the circuit and bulb must be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb22-l1.qa43" accuracy="correct">a closed path between battery and light bulb, with the positive going to the positive output from the battery to the positive side of the bulb, and the negative output from the battery to the negative side of the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb24-l1.qa34" accuracy="incorrect">a battery must be present and a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb26-l1.qa32" accuracy="incorrect">A closed circut with both terminals being used by both the battery and the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb28-l1.qa36" accuracy="incorrect">Both terminals of the bulb need to have a power source</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb29-l1.qa34" accuracy="incorrect">a closed circuit containing a bulb and a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb30-l1.qa32" accuracy="incorrect">a closed path between the positive side of the battery and the negative side of the battery and the bottom of the bulb and the side of the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb31-l1.qa32" accuracy="incorrect">the bulb must be in a closed circuit with the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb32-l1.qa34" accuracy="incorrect">The light bulb must be connected to both sides of the battery and there must be a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb34-l1.qa32" accuracy="incorrect">Closed connection between the bulb and the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb36-l1.qa32" accuracy="incorrect">The conditions are that the bulb needs to be in a closed circuit with one of its ports connected to the positive side and one connected to the negative side of the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb37-l1.qa32" accuracy="incorrect">A closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer15" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb38-l1.qa32" accuracy="correct">The bulb and battery must be contained in closed paths.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb39-l1.qa32" accuracy="incorrect">A battery connected to a bulb on both sides in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer17.1" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb41-l1.qa33" accuracy="incorrect">A bulb can only light up if each of the 2 spots are connected to the batteries" negative component and positive component.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer14" id="SwitchesBulbsSeries-CONDITIONS_FOR_BULB_TO_LIGHT.sbjb42-l1.qa32" accuracy="incorrect">complete path including a battery and a bulb</studentAnswer>
+  </studentAnswers>
+</question>

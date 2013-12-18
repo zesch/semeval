@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="BULB_ONLY_EXPLAIN_WHY4" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer235" fileID="BULB_ONLY_EXPLAIN_WHY4_ANS1">Terminals 1 and 4 are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer236" fileID="BULB_ONLY_EXPLAIN_WHY4_ANS2">Terminals 1 and 4 are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer239" fileID="BULB_ONLY_EXPLAIN_WHY4_ANS2a">There is no gap between terminals 1 and 4</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer238" fileID="BULB_ONLY_EXPLAIN_WHY4_ANS3">Terminals 1 and 4 are connected and in the same electrical state</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer238.NEW" fileID="NONE">Terminals 1 and 4 are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="17" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj3-l1.qa210" accuracy="correct">terminal 1 is connected to terminal 4</studentAnswer>
+    <studentAnswer count="5" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj7-l1.qa201" accuracy="correct">they are connected</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj8-l1.qa246" accuracy="correct">they are connected to each other</studentAnswer>
+    <studentAnswer count="13" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj9-l1.qa205" accuracy="correct">terminal 1 is connected to terminal 4.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj10-l1.qa233" accuracy="correct">terminal one is connected to terminal four</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj12-l1.qa199" accuracy="correct">The terminal 1 is connected to terminal 4</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj13-l1.qa241" accuracy="incorrect">there was no gap between the positive battery terminal and terminal 1 and terminal 4.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj14-l1.qa227" accuracy="incorrect">Because they were both seperated.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj15-l1.qa249" accuracy="correct">because terminal 1 is directly connected to terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj19-l1.qa268" accuracy="correct">terminal 1 is connetced to terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj22-l1.qa230" accuracy="correct">tereminal 1 is connected to terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer238" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj24-l1.qa246" accuracy="incorrect">there is a difference in electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer238" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj24-l1.qa248" accuracy="incorrect">terminal 1 and terminal 4 are the same</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj27-l1.qa225" accuracy="incorrect">the terminal is connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj28-l1.qa223" accuracy="incorrect">i"m not sure</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj28-l1.qa224" accuracy="incorrect">there is a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj28-l1.qa225" accuracy="incorrect">there is a gap between terminal 1 and terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj28-l1.qa226" accuracy="incorrect">there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj30-l1.qa211" accuracy="correct">the terminals are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj33-l1.qa215" accuracy="correct">terminals are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj35-l1.qa226" accuracy="incorrect">Terminal 1 was connected to a negative terminal 4.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer236" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj36-l1.qa232" accuracy="correct">terminals 1 and 4 are not seperated by a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj39-l1.qa247" accuracy="incorrect">Terminal 1 is connected to terminal 2</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj39-l1.qa248" accuracy="incorrect">terminal 1 i connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj42-l1.qa234" accuracy="incorrect">A terminal is not connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj43-l1.qa216" accuracy="correct">terminal 1 and terminal 4 are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj45-l1.qa210" accuracy="correct">because they are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj46-l1.qa225" accuracy="incorrect">terminal 1 is seperate from terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbj48-l1.qa203" accuracy="correct">because they are both connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb2-l1.qa185" accuracy="incorrect">1 is connected to terminal 2.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb6-l1.qa177" accuracy="correct">Terminal one is connected to terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb10-l1.qa174" accuracy="incorrect">same reason as 2</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb11-l1.qa180" accuracy="correct">Because the two terminals are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb15-l1.qa176" accuracy="correct">terminal 1 and 4 connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer238" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb17-l1.qa178" accuracy="incorrect">They are both connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer239" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb19-l1.qa179" accuracy="incorrect">The positive battery terminal is separated by a gap from terminal 4.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb20-l1.qa187" accuracy="correct">Terminal 1 is connected to terminl 4.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb21-l1.qa175" accuracy="incorrect">no charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb24-l1.qa182" accuracy="incorrect">same as above</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb25-l1.qa179" accuracy="correct">Because they were connected within the same terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb29-l1.qa178" accuracy="correct">terminal 1is connected to terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb35-l1.qa175" accuracy="correct">Because terminal 1 is connected to terminal 4.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer235" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb37-l1.qa174" accuracy="correct">Terminal 1 is connected toterminal 4</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY4.sbjb41-l1.qa177" accuracy="incorrect">Terminal 1 is not connected to terminal 4.</studentAnswer>
+  </studentAnswers>
+</question>

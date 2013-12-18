@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="DAMAGED_BUILD_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer55" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS1">bulb B creates a gap</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer56" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS2">a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer57" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS3">there is a gap in a circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer58" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS4">there is an open path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer59" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer60" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS6">there is no closed path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj26-l1.qa109">gap in connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer58" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj40-l1.qa98">if bulb b is damaged, there will be no path from a to c.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb20-l1.qa82">If bulb B is damaged it creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer58" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb24-l1.qa77">no path through the bulb holder= open circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb35-l1.qa71">because that would create a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb41-l1.qa72">In order for bulbs A and C to work properly, they also need B to work properly because they are all connected to the same battery power.</studentAnswer>
+  </studentAnswers>
+</question>

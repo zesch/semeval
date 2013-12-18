@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="BULB_ONLY_EXPLAIN_WHY2" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer230" fileID="BULB_ONLY_EXPLAIN_WHY2_ANS1">Terminals 1 and 2 are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer231" fileID="BULB_ONLY_EXPLAIN_WHY2_ANS2">Terminals 1 and 2 are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer232" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY2_ANS2a">There is no gap between them</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer233" fileID="BULB_ONLY_EXPLAIN_WHY2_ANS3">Terminals 1 and 2 are connected and in the same electrical state</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer234" fileID="BULB_ONLY_EXPLAIN_WHY2_ANS2a">There is no gap between terminals 1 and 2</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer234.NEW" fileID="NONE">Terminals 1 and 2 are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="7" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj3-l1.qa209" accuracy="correct">terminal 1 is connected to terminal 2</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj7-l1.qa200" accuracy="correct">they are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj8-l1.qa244" accuracy="incorrect">Because terminal 1 and 2 are connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj8-l1.qa245" accuracy="contradictory">terminal 1 and 2 have the same difference in electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj9-l1.qa203" accuracy="incorrect">the voltage was 0 because they were on the same negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj9-l1.qa204" accuracy="incorrect">terminal 1 and 2 have the same voltage because there is a working bulb connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer232" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj10-l1.qa229" accuracy="contradictory">there is a gap between terminal one and two</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj10-l1.qa231" accuracy="contradictory">there is a gap between terminal one and two and the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj10-l1.qa232" accuracy="contradictory">the terminals are seperated from the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj12-l1.qa198" accuracy="correct">The terminal 1 is connected to terminal 2</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj13-l1.qa238" accuracy="contradictory">there was a gap between the positive battery terminal and terminal 1.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj13-l1.qa239" accuracy="contradictory">there was a gap between the positive battery terminal and terminal 2.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj13-l1.qa240" accuracy="contradictory">there was no gap between the positive battery terminal and terminal 1 and terminal 2.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj14-l1.qa226" accuracy="contradictory">Because they were both seperated.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer231" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj18-l1.qa197" accuracy="correct">Terminal 1 is connected to terminal 2.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj19-l1.qa264" accuracy="contradictory">terminal one is connected to the negative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj19-l1.qa265" accuracy="contradictory">terminal is connected to the negative battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj19-l1.qa266" accuracy="contradictory">there is a gap in terminal 1</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj22-l1.qa226" accuracy="incorrect">both terminals were connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj22-l1.qa227" accuracy="incorrect">a terminal is connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj22-l1.qa228" accuracy="contradictory">terminals are separated by a gap between the positive and the negative terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj22-l1.qa229" accuracy="contradictory">terminals are separated by a gay between the positive and negative terminals of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer231" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj23-l1.qa200" accuracy="correct">Terminal 1 is not seperated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj24-l1.qa241" accuracy="incorrect">there is not difference in eletcrical states</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj24-l1.qa243" accuracy="incorrect">ok</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj24-l1.qa244" accuracy="incorrect">terminal 1 and terminal 2 possess no difference</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj24-l1.qa245" accuracy="incorrect">Terminal has the same electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj26-l1.qa243" accuracy="incorrect">there was a gap from terminal 2 to terminal 6</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj26-l1.qa244" accuracy="incorrect">sfsf</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj26-l1.qa245" accuracy="incorrect">cd</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj26-l1.qa246" accuracy="incorrect">terminal 1 is connected to a battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj27-l1.qa223" accuracy="incorrect">i have no idea</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj27-l1.qa224" accuracy="incorrect">the terminal is connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj28-l1.qa222" accuracy="correct">the terminals are connected to each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj30-l1.qa209" accuracy="incorrect">Because there was no difference</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj31-l1.qa216" accuracy="correct">both of the terminals are connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj31-l1.qa217" accuracy="correct">terminal 1 and 2 are connected to the negtive terminal of the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj33-l1.qa214" accuracy="correct">the terminals are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj34-l1.qa201" accuracy="incorrect">They have the same voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj35-l1.qa225" accuracy="contradictory">Terminal 1 was connected to a negative terminal 2.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj36-l1.qa230" accuracy="contradictory">terminals 1 and 2 are seperated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer231" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj36-l1.qa231" accuracy="correct">terminals 1 and 2 are not seperated by a gap</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj37-l1.qa198" accuracy="incorrect">they are both connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj38-l1.qa202" accuracy="incorrect">there is no difference in electrical states</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj39-l1.qa244" accuracy="contradictory">because there is not circuits going through one</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj39-l1.qa245" accuracy="contradictory">There is not charge between them</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj40-l1.qa238" accuracy="contradictory">there was a gap between terminal 1 and terminal 2.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer232" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj40-l1.qa239" accuracy="correct">there is not a gap between terminal 1 and terminal 2.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj42-l1.qa233" accuracy="incorrect">A terminal is not connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj43-l1.qa215" accuracy="correct">terminal 1 and terminal 2 are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj45-l1.qa209" accuracy="correct">because they are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj47-l1.qa237" accuracy="contradictory">ht negative battery terminal is seperated by a gap from terminal 1 and 2</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj47-l1.qa238" accuracy="contradictory">The negative battery terminal is seperated by a gap from terminal 1 and 2</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbj48-l1.qa202" accuracy="correct">because they are both connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb1-l1.qa180" accuracy="correct">They are both connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb2-l1.qa184" accuracy="correct">They were connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb3-l1.qa196" accuracy="contradictory">there was a gap from terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb4-l1.qa175" accuracy="correct">they are connected to each other</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb5-l1.qa183" accuracy="contradictory">the terminals are separated from the positive battery terminal by a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb6-l1.qa176" accuracy="incorrect">I don"t know.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb7-l1.qa173" accuracy="incorrect">they are one the same negative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb9-l1.qa189" accuracy="correct">Terminal 1 and terminal 2 are connected to each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb10-l1.qa173" accuracy="contradictory">because there was two negative connections</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer232" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb11-l1.qa179" accuracy="correct">Because there is no gap between the terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb13-l1.qa175" accuracy="incorrect">Terminal 1 and terminal 2 are on the same side.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb15-l1.qa175" accuracy="correct">they are connected no gaps</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb16-l1.qa175" accuracy="incorrect">connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer234" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb19-l1.qa178" accuracy="incorrect">The positive battery terminal is separated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb20-l1.qa186" accuracy="contradictory">There is a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb21-l1.qa174" accuracy="contradictory">there is no charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb22-l1.qa184" accuracy="incorrect">Terminal 1 and terminal 2 are connected to the negative terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb24-l1.qa181" accuracy="incorrect">connectedtto - side</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb25-l1.qa178" accuracy="correct">Because they were connected within the same terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb26-l1.qa174" accuracy="incorrect">The are both connected the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb27-l1.qa173" accuracy="incorrect">there is a gap between terminals 1 and 2 from the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb30-l1.qa180" accuracy="incorrect">terminal 1 is connected to the negative terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb32-l1.qa177" accuracy="incorrect">Because they were both on the negative terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb34-l1.qa173" accuracy="incorrect">Terminal 1 and Terminal 2 are connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb35-l1.qa174" accuracy="contradictory">Because terminal 2 is connected to the positive terminal of the battery through a broken bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb36-l1.qa173" accuracy="incorrect">they both connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb37-l1.qa173" accuracy="incorrect">Becuae they are connected to the negative terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb38-l1.qa174" accuracy="contradictory">contained in the same circuit not connected to the opposite terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb39-l1.qa176" accuracy="contradictory">Because there is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb40-l1.qa174" accuracy="correct">Terminall 1 and terminal 2 are connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer233" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb41-l1.qa176" accuracy="incorrect">Because they were connected to the same thing.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer230" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY2.sbjb42-l1.qa176" accuracy="correct">They are connected.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="SWITCH_OPEN_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Why does an open switch impact a circuit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer46" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS1">the open switch creates a gap</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer47" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS2">a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer48" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS3">there is a gap in a circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer49" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS4">the path is not closed</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer51" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer52" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS6">there is an open path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj3-l1.qa79" accuracy="incorrect">it causes an open circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj3-l1.qa80" accuracy="correct">it causes the path to be open</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj7-l1.qa77" accuracy="correct">it opens the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj8-l1.qa96" accuracy="correct">Because the electricity will not flow through the wires if the circuit path is incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj8-l1.qa97" accuracy="correct">The bulbs will not be powered if the circuit path is incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj9-l1.qa75" accuracy="correct">The open switch makes the circuit incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj10-l1.qa96" accuracy="correct">it creates an open path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj11-l1.qa97" accuracy="incorrect">because it causes a short circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj11-l1.qa99" accuracy="incorrect">because it blocks the charge of the circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj11-l1.qa100" accuracy="incorrect">because the the circuit is complete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj13-l1.qa90" accuracy="incorrect">it creates a gap in the current.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj13-l1.qa91" accuracy="correct">it creates a gap int he circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj13-l1.qa92" accuracy="correct">it creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj14-l1.qa89" accuracy="correct">Because it creates a gap, which opens a path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj15-l1.qa107" accuracy="incorrect">i have no idea</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj15-l1.qa108" accuracy="incorrect">a switch creates power</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj15-l1.qa109" accuracy="incorrect">a switch creates a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj15-l1.qa110" accuracy="incorrect">a switch creates a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj18-l1.qa76" accuracy="incorrect">It breaks the closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj18-l1.qa78" accuracy="incorrect">A switch creates a break in the closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj18-l1.qa79" accuracy="correct">A switch creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj19-l1.qa99" accuracy="incorrect">because the path is short</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj19-l1.qa101" accuracy="incorrect">makes  a short circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj22-l1.qa93" accuracy="incorrect">because there is no closed path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj22-l1.qa94" accuracy="incorrect">because there is no closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj23-l1.qa77" accuracy="correct">It prevents the path from being closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj23-l1.qa78" accuracy="incorrect">It is not a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer48" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj23-l1.qa80" accuracy="correct">There is a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj24-l1.qa86" accuracy="correct">makes it an open path rather then closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj26-l1.qa98" accuracy="incorrect">it closes the pathway</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj26-l1.qa99" accuracy="incorrect">effects the connection from battery to bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj26-l1.qa100" accuracy="incorrect">creates a connection</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj26-l1.qa101" accuracy="incorrect">creates a circuit?</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj27-l1.qa86" accuracy="incorrect">Because the electricity can"t pass through</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer48" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj27-l1.qa87" accuracy="correct">there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj29-l1.qa91" accuracy="incorrect">because all the terminals are connected to other terminals, an open switch disrupts that.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj29-l1.qa92" accuracy="correct">because an open switch creates a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj30-l1.qa78" accuracy="incorrect">It turns off all the bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj30-l1.qa79" accuracy="correct">It creates a gap in the circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj31-l1.qa82" accuracy="correct">the path is not closed anymore</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj33-l1.qa77" accuracy="correct">it does"nt make the circuit complete anymore</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj33-l1.qa78" accuracy="incorrect">the paths of the circuit are no longer complete</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj33-l1.qa79" accuracy="incorrect">the path is complete</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj34-l1.qa73" accuracy="correct">The open switch makes the path open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj35-l1.qa80" accuracy="incorrect">It stops the flow of electricity.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj35-l1.qa81" accuracy="correct">It makes the circuit incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj36-l1.qa83" accuracy="incorrect">the switch opens the closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj36-l1.qa84" accuracy="correct">the switch opens the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj37-l1.qa71" accuracy="incorrect">the voltage does not reach all the components</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer48" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj37-l1.qa72" accuracy="incorrect">the gap in the circuit causes the circuit to be an open circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj38-l1.qa74" accuracy="incorrect">It makes the circuit an incomplete path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj38-l1.qa75" accuracy="correct">the circuit is no longer complete when the switches are open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj39-l1.qa92" accuracy="incorrect">Because it opens the connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj39-l1.qa93" accuracy="incorrect">Because it stops the battery from being connected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj39-l1.qa94" accuracy="incorrect">It creates a short circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj40-l1.qa90" accuracy="correct">an open switch causes a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj42-l1.qa89" accuracy="correct">The path is not closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj43-l1.qa85" accuracy="correct">an open switch incompletes the circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj43-l1.qa86" accuracy="correct">an open switch creates an incomplete circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj45-l1.qa73" accuracy="correct">because it creates a gap which in turn created an open path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj45-l1.qa74" accuracy="correct">open switch creates a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj46-l1.qa86" accuracy="incorrect">brings he flow of electricity</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj46-l1.qa87" accuracy="incorrect">charges the bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj46-l1.qa88" accuracy="incorrect">switch creates circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj47-l1.qa93" accuracy="incorrect">Because it decides whether the bulb will be lit or not</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer48" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj47-l1.qa94" accuracy="incorrect">Because if the gap is open the bulb will not go on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj48-l1.qa76" accuracy="correct">because it creates a gap, thus the circuit becomes incomplete</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb1-l1.qa63" accuracy="incorrect">The are connected to the same closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb2-l1.qa70" accuracy="incorrect">Because the voltage does not reach the bulbs.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb3-l1.qa70" accuracy="incorrect">It cuts the current from the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb5-l1.qa73" accuracy="incorrect">the current cannot pass an open switch</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb6-l1.qa63" accuracy="incorrect">Because the bulb is not longer in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb7-l1.qa63" accuracy="correct">There must be a closed path, and an open switch makes it not closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb9-l1.qa66" accuracy="correct">Because the path between the battery and the light bulb is not closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb10-l1.qa63" accuracy="incorrect">because it opens the circuit, therefore the circuit is not closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb11-l1.qa65" accuracy="correct">And open switch breaks the closed path, which is essential to function properly</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb12-l1.qa64" accuracy="incorrect">it breaks the closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb13-l1.qa64" accuracy="correct">An open switch means the circuit is not a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb15-l1.qa65" accuracy="incorrect">it cuts the flow of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb17-l1.qa65" accuracy="correct">it opens the closed path of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb18-l1.qa72" accuracy="incorrect">Because the battery runs in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb19-l1.qa68" accuracy="incorrect">because it opens the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb21-l1.qa63" accuracy="incorrect">any open swith does no allow the bulbs to turn on</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb22-l1.qa74" accuracy="incorrect">the currunt is blocked off</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb25-l1.qa65" accuracy="correct">It creates a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb26-l1.qa63" accuracy="incorrect">If a switch is open, the circut is no longer closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb27-l1.qa63" accuracy="correct">it creates a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb28-l1.qa67" accuracy="incorrect">An open switch stops the energy flow</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb29-l1.qa66" accuracy="correct">When a switch is open the circuit is no longer complete</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb31-l1.qa63" accuracy="incorrect">because they are in a series, because a closed circuit acts together.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb32-l1.qa65" accuracy="incorrect">Because it stops the flow of one side of a battery from reaching the other light bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb34-l1.qa63" accuracy="incorrect">An open switch interrupts the flow of the current.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb35-l1.qa63" accuracy="correct">It breaks the closed pathway that the bulbs require to work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb37-l1.qa63" accuracy="correct">There is no closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb39-l1.qa63" accuracy="incorrect">Because the current can not reach the bulb if the circuit is open.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb40-l1.qa63" accuracy="incorrect">Then the bulb and battery will not be in a contained circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer49" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb41-l1.qa64" accuracy="incorrect">An open switch impacts a circuit because it causes the path to be closed, therefore the connection cannot be made.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb42-l1.qa64" accuracy="correct">because it changes the path from closed to open</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer418" fileID="GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2_ANS1">A and C are in different paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer419" fileID="GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2_ANS2">A and C are not in the same path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer420" fileID="GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2_ANS3">A and C are in different paths</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer421" fileID="GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2_ANS4">A and C are not in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj15-l2.qa167">you are stupid</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj19-l2.qa169">bulb A is contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj23-l2.qa142">BULB A IS IN A DIFFERENT PATH FROM BULB B AND BULB C.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj28-l2.qa143">open paths</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj40-l2.qa149">i give up.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbj47-l2.qa149">Bulb A and bulb C are contained within different closed paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer421" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbjb11-l2.qa119">Bulbs A, B, and C are not contained within the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbjb18-l2.qa119">it is</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbjb19-l2.qa121">because they are all in a different path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer421" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbjb31-l2.qa119">because they are not in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer420" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_PARALLEL_EXPLAIN_Q2.sbjb35-l2.qa121">because the bulbs are on their own closed pathways</studentAnswer>
+  </studentAnswers>
+</question>

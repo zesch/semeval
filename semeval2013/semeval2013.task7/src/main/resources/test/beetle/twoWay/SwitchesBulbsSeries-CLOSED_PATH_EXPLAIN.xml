@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="CLOSED_PATH_EXPLAIN" module="SwitchesBulbsSeries" stype="PREDICT" qtype="Q_EXPLAIN_SPECIFIC">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer7" fileID="CLOSED_PATH_EXPLAIN_ANS1">In both circuits there is a closed path containing both the a and a battery</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj3-l1.qa23" answerMatch="answer7" count="1">In these diagrams the bulbs are in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj7-l1.qa22" answerMatch="answer7" count="1">both are closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj7-l1.qa23" answerMatch="answer7" count="1">both have closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj8-l1.qa30" answerMatch="answer7" count="1">Both 1 and 3 have closed circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj8-l1.qa31" answerMatch="answer7" count="1">1 and 3 have both a bulb and a battery in a closed circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj9-l1.qa26" answerMatch="answer7" count="1">In 1 and 3, they are complete circuits. The others are not fully closed circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj9-l1.qa27" answerMatch="answer7" count="1">In 1 and 3, they are closed paths. The others are not fully closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj10-l1.qa25" count="1">bulb 1 and 3 will light up</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj10-l1.qa26" answerMatch="answer7" count="1">they will light up because they are on a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj11-l1.qa24" answerMatch="answer7" count="1">the bulb is in a closed path, meaning that it is connected to the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj11-l1.qa25" answerMatch="answer7" count="1">the bulb is in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj12-l1.qa22" answerMatch="answer7" count="1">The bulbs are in closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj12-l1.qa23" answerMatch="answer7" count="1">The paths are closed for the bulbs</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj13-l1.qa26" count="1">because all circuits are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj13-l1.qa27" count="1">because all three circuits are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj14-l1.qa28" count="1">I chose 4 because neither component was in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj14-l1.qa29" count="1">Diagram 4 will light up because there are no closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj15-l1.qa36" count="1">because</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj15-l1.qa37" answerMatch="answer7" count="1">because the bulb is in a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj18-l1.qa24" answerMatch="answer7" count="1">The bulbs are in closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj19-l1.qa33" answerMatch="answer7" count="1">they are closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj19-l1.qa34" answerMatch="answer7" count="2">the path is closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj22-l1.qa25" count="1">because it is across from the connection</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj22-l1.qa26" count="1">because it is centered</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj23-l1.qa22" answerMatch="answer7" count="1">Diagram 1 and have both a battery and light bulb in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj24-l1.qa24" answerMatch="answer7" count="1">they are closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj26-l1.qa27" answerMatch="answer7" count="1">closed path and there is a battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj27-l1.qa27" answerMatch="answer7" count="1">Because they are all on closed path circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj27-l1.qa28" answerMatch="answer7" count="1">Because they all have closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj28-l1.qa24" answerMatch="answer7" count="1">They have closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj28-l1.qa25" answerMatch="answer7" count="1">The paths are closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj29-l1.qa28" count="1">they are not in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj29-l1.qa29" count="1">4</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj29-l1.qa30" count="1">bulb 4 will light up</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj30-l1.qa22" answerMatch="answer7" count="1">1 is a closed circut. 3 is a closed circut.  In 5, the battery is closed and the light bulb is connected.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj30-l1.qa23" answerMatch="answer7" count="1">In 1 and 3, both the light bulb and battery are in a closed path. In 5, the battery is in the closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj30-l1.qa24" answerMatch="answer7" count="1">The battery and light bulb are in a closed path in circuts 1 and 3.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj31-l1.qa24" answerMatch="answer7" count="1">it is a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj33-l1.qa26" count="1">in diagrams 1,2, and 3 the lightbulbs are each closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj33-l1.qa27" answerMatch="answer7" count="1">in diagrams 1,2 and 3 the lightbulbs each have closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj34-l1.qa22" answerMatch="answer7" count="1">the bulbs are all in a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj35-l1.qa24" count="1">They are in a closed circiut and receiving electricity.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj35-l1.qa25" answerMatch="answer7" count="1">It is a closed path so the bulbs are receiving electricity and will light up.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj36-l1.qa25" answerMatch="answer7" count="1">because it is a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj36-l1.qa26" answerMatch="answer7" count="1">1 and 3 are both closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj37-l1.qa22" answerMatch="answer7" count="1">the voltage from the battery will reach the bulb and then travels back to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj37-l1.qa23" answerMatch="answer7" count="1">the battery in problem 1 will have the voltage reach the battery and have it travel back to itself</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj38-l1.qa22" answerMatch="answer7" count="1">In diagrams 1 and 3 the battery and bulb are in a closed path together.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj39-l1.qa25" answerMatch="answer7" count="1">I think the bulb will light up because they are all in closed circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj39-l1.qa26" answerMatch="answer7" count="1">I think that the bulb will light up because they are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj40-l1.qa34" answerMatch="answer7" count="1">the batteries and bulbs in circuit 1 and 3 are in closed circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj40-l1.qa35" answerMatch="answer7" count="1">the batteries and bulbs are connected by wires in circuit 1 and 3.they and closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj42-l1.qa25" answerMatch="answer7" count="1">They are the only ones in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj42-l1.qa26" answerMatch="answer7" count="1">They are the only ones without gaps in a circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj43-l1.qa24" count="1">they all create a full circut</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj45-l1.qa22" answerMatch="answer7" count="1">closed paths exist</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj46-l1.qa25" answerMatch="answer7" count="1">Paths are closed for both.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj47-l1.qa30" answerMatch="answer7" count="1">Because in diagrams 1, 2, and 3 the bulb is in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj48-l1.qa23" answerMatch="answer7" count="1">in circuits 1, 2, and 3, each has a battery in a holder, connected to a lightbulb in a holder recieving electricity from the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbj48-l1.qa24" answerMatch="answer7" count="1">Circuits 1 and 3 are closed circuits and I believe the bulbs will light up. Circuit 2 has a bettery connected to a bulb in a closed circuit and I believe it will light up as well.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb1-l1.qa22" answerMatch="answer7" count="1">In a closed path, the battery will ignite the bulb to light up.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb2-l1.qa22" count="1">1, 2, 3, and 5.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb3-l1.qa24" answerMatch="answer7" count="1">They are the only ones where the bulb and battery are both connected.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb4-l1.qa22" answerMatch="answer7" count="1">Both 1 and 3 are in a closed path with a battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb5-l1.qa24" answerMatch="answer7" count="1">diagrams 1 and 3 are the only two circuits in which both the battery and the bulb are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb6-l1.qa22" answerMatch="answer7" count="1">Both the bulbs in one and three are in a closed circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb7-l1.qa22" answerMatch="answer7" count="1">The bulbs are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb9-l1.qa24" answerMatch="answer7" count="1">The bulb and the battery are in a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb10-l1.qa22" answerMatch="answer7" count="1">because both the light bulb and the battery are in a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb11-l1.qa24" answerMatch="answer7" count="1">Diagrams 1 and 3 are the only closed paths that contain both the blub and the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb12-l1.qa22" answerMatch="answer7" count="1">Each battery has a wire connecting it to a bulb</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb13-l1.qa22" answerMatch="answer7" count="1">In diagrams 1 and 3 the battery and the bulb are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb15-l1.qa24" answerMatch="answer7" count="1">because they are both in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb16-l1.qa22" answerMatch="answer7" count="1">The battery or bulb is in a closed path, so it should light up.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb17-l1.qa24" answerMatch="answer7" count="1">Both battery and bulb are in a closed circuit in diagrams 1 and 5</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb18-l1.qa22" answerMatch="answer7" count="1">because both 1 and 3 have a closed circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb19-l1.qa22" answerMatch="answer7" count="1">both ppath 1 and path have both the batery and the bulb on a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb20-l1.qa24" answerMatch="answer7" count="1">1, and 3 are the only closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb21-l1.qa22" answerMatch="answer7" count="1">All of them have closed circuits around the bulbs</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb22-l1.qa24" answerMatch="answer7" count="1">The bulb in 1 and 3 will recieve both a positive and negative charge in teh closed circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb24-l1.qa24" answerMatch="answer7" count="1">they are all closed circuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb25-l1.qa22" answerMatch="answer7" count="1">All components are closed in circuits 1 and 3.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb26-l1.qa22" answerMatch="answer7" count="1">Diagrams 1 and 3 are the only circuts that have both their bulbs and batteries in the same closed circut.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb27-l1.qa22" answerMatch="answer7" count="1">the paths are closed to the bulb and the battery in diagrams 1 and 3</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb28-l1.qa26" answerMatch="answer7" count="1">Only in circuits 1 and 3 are the bulb and the battery in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb29-l1.qa22" answerMatch="answer7" count="1">they both contain closed circuits for both the battery and the light bulb</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb30-l1.qa22" count="1">Bulb 1 is in a closed path and bulb 2 is in a closed path connected with a wire  and bulb 3 is in a closed path and bulb 5 is in a closed path connected with a wire.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb31-l1.qa22" answerMatch="answer7" count="1">In 1 and 3 the battery and bulb are in a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb32-l1.qa24" count="1">because they are the only circuits with closed paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb34-l1.qa22" answerMatch="answer7" count="1">1 is a closed path. 3 is a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb35-l1.qa22" answerMatch="answer7" count="1">It looks to me that only one contact is being connected to the "-" on the battery. The bulb and the battery"s other contacts are not on a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb36-l1.qa22" answerMatch="answer7" count="1">both the battery and the bulb are closed in diagram 1 and 3, while the others have one or more open circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb37-l1.qa22" answerMatch="answer7" count="1">The circuits are closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb38-l1.qa22" answerMatch="answer7" count="1">The components in both diagrams are complete.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb39-l1.qa22" answerMatch="answer7" count="1">1 and 3 are both in closed circuits.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb40-l1.qa22" count="1">In both 4 and 5 the bulb is open.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb41-l1.qa23" count="1">I feel like if the circuit is open, like in diagrams 2 and 4, then the bulbs are able to connect to the batteries to light up. If the circuit is closed, then the passageway is closed off from the battery to the bulb, so there is no connection able to be made.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-CLOSED_PATH_EXPLAIN.sbjb42-l1.qa22" answerMatch="answer7" count="1">both the bulb and the battery must be in a closed path</studentAnswer>
+  </studentAnswers>
+</question>

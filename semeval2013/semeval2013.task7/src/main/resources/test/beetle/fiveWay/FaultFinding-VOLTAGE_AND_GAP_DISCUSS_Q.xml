@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_AND_GAP_DISCUSS_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer191" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS1">the bulb is damaged</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer192" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS2">the terminals are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer193" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS3">there is a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer194" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS4">the terminals are separated by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="5" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj8-l1.qa210">there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj14-l1.qa195">kjflkgjg</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj24-l1.qa204">the bulb prior to when the reading jumps to 1.5 is damanged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj26-l1.qa207">that the terminals are connected to a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj30-l1.qa178">There is a gap.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb1-l1.qa153">The terminal is connected to a different terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb19-l1.qa151">that the terminal on one side is connected and the other is not connected</studentAnswer>
+  </studentAnswers>
+</question>

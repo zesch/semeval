@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY6" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer176" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS1">Terminal 6 and the positive terminal are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer177" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS2">Terminal 6 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer178" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS2A">There is no gap between terminal 6 and the positive terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer179" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS3">terminal 6 is not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer180" fileID="VOLTAGE_GAP_EXPLAIN_WHY6_ANS4">terminal 6 is separated by a gap from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer180.NEW" fileID="NONE">Terminal 6 and the positive battery terminal are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="21" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj3-l1.qa170" accuracy="correct">Terminal 6 is connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj8-l1.qa194" accuracy="correct">terminal 6 is connected to a positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj9-l1.qa164" accuracy="correct">the positive battery terminal is connected to terminal 6.</studentAnswer>
+    <studentAnswer count="22" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj11-l1.qa191" accuracy="correct">terminal 6 is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj12-l1.qa159" accuracy="correct">The positive battery terminal is connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj18-l1.qa162" accuracy="correct">Terminal 6 is only connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj22-l1.qa186" accuracy="incorrect">a terminal is connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj23-l1.qa161" accuracy="correct">The positive batery terminal is connected to terminal 6.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj24-l1.qa186" accuracy="incorrect">you guys would get more honest feedback and answers if you didnt make this so boring and repeatdly ask the same questions. its not like your testing elementary school kids</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer179" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj24-l1.qa187" accuracy="incorrect">I get a voltage reading of 0 for terminal 6 and the postive terminal because their is not current flowing, no electricity, the path is open. the negative terminal of batter is not connected meaning the bulb will not light because there is 0 voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer179" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj24-l1.qa188" accuracy="correct">the terminal is not connected to negative end of battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj24-l1.qa189" accuracy="correct">terminal 6 is connected to postive end of battery and the voltage meter</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj24-l1.qa190" accuracy="incorrect">thats what i said, for a computer your a dumb***</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer177" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj26-l1.qa196" accuracy="correct">the positive terminal is not seperated by a gap from terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj31-l1.qa176" accuracy="correct">terminal 6 is connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer178" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj35-l1.qa177" accuracy="correct">There was no gap between terminal 6 and the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj38-l1.qa161" accuracy="correct">the positive terminal is connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj40-l1.qa189" accuracy="correct">terminal 6 and the  positive terminal are connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj43-l1.qa174" accuracy="correct">the positive battery terminal and terminal 6 are connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj46-l1.qa184" accuracy="correct">terminal 6 is connected to positive battery terminal</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbj47-l1.qa193" accuracy="correct">terminal 6 is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb2-l1.qa151" accuracy="correct">Terminal 6 is connected to the posititve battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb3-l1.qa161" accuracy="correct">Terminal 6 is connected to the positve battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb10-l1.qa140" accuracy="incorrect">for the same reason as 3</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb15-l1.qa142" accuracy="incorrect">no gap; connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb18-l1.qa152" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb21-l1.qa140" accuracy="incorrect">gap in 6</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb24-l1.qa148" accuracy="incorrect">no clue</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb25-l1.qa145" accuracy="incorrect">It was on the wrong side.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb28-l1.qa145" accuracy="correct">terminal 6 and the positive terminal are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb32-l1.qa144" accuracy="correct">Terminal 6 is connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer176" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY6.sbjb38-l1.qa141" accuracy="correct">Terminal 6 was only connected to the positive terminal.</studentAnswer>
+  </studentAnswers>
+</question>

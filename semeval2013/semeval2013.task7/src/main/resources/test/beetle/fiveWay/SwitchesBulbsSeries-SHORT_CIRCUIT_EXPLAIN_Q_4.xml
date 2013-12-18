@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="SHORT_CIRCUIT_EXPLAIN_Q_4" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Explain why circuit 4 is not a short circuit.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer25" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4_A">Circuit 4 has no closed paths</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer26" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4_B">The battery in 4 is not in a closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer27" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4_C">There is no closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer28" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4_D">the battery is in an open path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer28" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_4.sbj8-l1.qa66">Because the path is open</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_4.sbj11-l1.qa72">circuit 4 is a short circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer26" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_4.sbj31-l1.qa56">battery is not on a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer27" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_4.sbj34-l1.qa45">there are no closed paths</studentAnswer>
+  </studentAnswers>
+</question>

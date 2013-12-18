@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="BURNED_BULB_SERIES_Q2" module="SwitchesBulbsSeries" stype="QUESTION" qtype="Q_EXPLAIN_SPECIFIC">
+  <questionText>Why did it happen?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer339" fileID="BURNED_BULB_SERIES_Q2_ANS1">damaged bulb A creates a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer340" fileID="BURNED_BULB_SERIES_Q2_ANS2">there is a gap in a circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer341" fileID="BURNED_BULB_SERIES_Q2_ANS3">B and C were no longer in a closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer342" fileID="BURNED_BULB_SERIES_Q2_ANS4">there is an open path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer343" fileID="BURNED_BULB_SERIES_Q2_ANS4A">there are no closed paths</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer344" fileID="BURNED_BULB_SERIES_Q2_ANS5">there is an incomplete circuit</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer345" fileID="BURNED_BULB_SERIES_Q2_ANS2A">a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj3-l2.qa78" answerMatch="answer340" count="1">because there was a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj7-l2.qa81" answerMatch="answer341" count="1">bulbs b and  c were not contained in a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj8-l2.qa83" answerMatch="answer339" count="1">because a damaged bulb creates a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj9-l2.qa79" answerMatch="answer339" count="1">bulb a was damaged. bulb a caused a gap in the path. bulbs b and c were no longer in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj10-l2.qa84" answerMatch="answer339" count="1">because it created a gap in the connnection</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj10-l2.qa85" answerMatch="answer339" count="1">because lightbulb a created a gap in the connnection</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj11-l2.qa81" answerMatch="answer340" count="1">becasue there was a gap created in the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj12-l2.qa87" answerMatch="answer340" count="1">the path had a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj13-l2.qa90" answerMatch="answer340" count="1">there was a gap in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj14-l2.qa84" answerMatch="answer339" count="1">because it created a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj14-l2.qa85" answerMatch="answer340" count="1">because there was a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj15-l2.qa95" answerMatch="answer344" count="1">because the circuit was open</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj15-l2.qa96" count="1">the switches will be on closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj15-l2.qa97" count="1">the switch is contained in an open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj18-l2.qa79" answerMatch="answer340" count="2">There was a gap in the circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj19-l2.qa102" answerMatch="answer342" count="1">because it was open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj19-l2.qa103" answerMatch="answer342" count="1">because bulb a was in a open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj22-l2.qa85" answerMatch="answer340" count="2">because there was a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj23-l2.qa85" answerMatch="answer342" count="1">The path was no longer closed.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj24-l2.qa81" answerMatch="answer340" count="1">there is a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj26-l2.qa84" answerMatch="answer340" count="1">the break in the closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj26-l2.qa85" answerMatch="answer343" count="1">the closed path and the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj26-l2.qa86" answerMatch="answer343" count="1">no path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj27-l2.qa85" answerMatch="answer339" count="3">it created a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj27-l2.qa86" answerMatch="answer339" count="1">bulb a being burnt out created a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj28-l2.qa85" answerMatch="answer342" count="1">open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj29-l2.qa87" answerMatch="answer341" count="1">bulbs a, b and c are contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj29-l2.qa88" answerMatch="answer339" count="1">a gap was created in the closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj29-l2.qa89" answerMatch="answer340" count="1">a gap was created in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj30-l2.qa90" answerMatch="answer340" count="1">there was a gap in the circut</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj31-l2.qa92" count="1">a b and c are in series</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj33-l2.qa88" answerMatch="answer339" count="2">it created a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj33-l2.qa89" answerMatch="answer339" count="1">lightbulb A created a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj34-l2.qa90" answerMatch="answer341" count="1">Bulb B and C were no longer contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj35-l2.qa88" answerMatch="answer344" count="1">The damaged bulb made the path incomplete</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj35-l2.qa89" answerMatch="answer344" count="1">the damaged bulb made the circuit incomplete</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj36-l2.qa80" answerMatch="answer340" count="1">there is a gap in the path to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj36-l2.qa81" answerMatch="answer345" count="2">there is a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj37-l2.qa81" answerMatch="answer340" count="1">because there was a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj38-l2.qa79" answerMatch="answer339" count="1">the damaged bulb made a gap in the closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj39-l2.qa96" answerMatch="answer339" count="1">Because it caused a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj39-l2.qa97" answerMatch="answer339" count="1">Bulb A caused a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj40-l2.qa92" answerMatch="answer339" count="1">bulb a  created a gap in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj42-l2.qa85" answerMatch="answer342" count="1">The path was not closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj43-l2.qa82" answerMatch="answer339" count="1">bulb a created a gap in the path to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj43-l2.qa83" answerMatch="answer339" count="1">a gap was created by bulb a</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj46-l2.qa92" answerMatch="answer343" count="1">broke the closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj46-l2.qa93" answerMatch="answer342" count="1">broken bulb a caused path to open</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj47-l2.qa88" answerMatch="answer344" count="1">because the circuit is damaged</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj47-l2.qa89" answerMatch="answer339" count="1">bulb a is damaged and that effects bulbs b and c</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbj48-l2.qa83" answerMatch="answer339" count="1">because damaged bulb A created a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb1-l2.qa73" answerMatch="answer341" count="1">All the bulbs are on the same closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb3-l2.qa76" count="1">I dont know</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb4-l2.qa72" answerMatch="answer339" count="1">the damaged bulb created a gap in the closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb5-l2.qa72" answerMatch="answer340" count="1">there was a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb6-l2.qa72" answerMatch="answer344" count="1">It broke the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb7-l2.qa73" answerMatch="answer342" count="1">Broke the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb9-l2.qa73" answerMatch="answer340" count="1">There was a gap in the path between bulbs B and C and the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb10-l2.qa72" answerMatch="answer343" count="1">because there is not a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb11-l2.qa72" answerMatch="answer339" count="1">The damaged bulb created a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb12-l2.qa72" answerMatch="answer339" count="1">because a damaged bulb a creates a gap in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb13-l2.qa72" answerMatch="answer340" count="1">There was a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb17-l2.qa73" answerMatch="answer339" count="1">Bulb A burned out and caused a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb18-l2.qa72" answerMatch="answer340" count="1">there were gaps</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb19-l2.qa72" answerMatch="answer339" count="1">because that creates a gapp in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb20-l2.qa72" answerMatch="answer341" count="1">Because when one bulb goes, the rest of the bulbs go out.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb21-l2.qa72" answerMatch="answer341" count="1">they are all on the same path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb22-l2.qa72" answerMatch="answer340" count="1">gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb24-l2.qa76" answerMatch="answer340" count="1">break in the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb25-l2.qa73" answerMatch="answer344" count="1">The were in the same circuit.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb26-l2.qa72" answerMatch="answer344" count="1">Bulb A was no longer completing the circut.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb27-l2.qa72" answerMatch="answer339" count="1">it created a gap in the circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb28-l2.qa72" answerMatch="answer343" count="1">There wasn"t a closed path anymore</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb29-l2.qa73" answerMatch="answer345" count="1">ther is a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb30-l2.qa72" answerMatch="answer339" count="1">the damaged bulb a created a gap in the path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb31-l2.qa72" answerMatch="answer344" count="1">because the closed circuit had been damaged.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb32-l2.qa72" count="1">Because bulb A caused a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb35-l2.qa74" answerMatch="answer342" count="1">becuase the closed path was opened by a broken bulb A.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb36-l2.qa72" answerMatch="answer342" count="1">it created a short circuit and n open path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb37-l2.qa73" answerMatch="answer342" count="1">It damaged the path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb38-l2.qa72" answerMatch="answer340" count="1">The closed circuit was interrupted by a gap.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb39-l2.qa72" answerMatch="answer340" count="1">because there was a gap in the circuit at bulb A.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb40-l2.qa72" answerMatch="answer340" count="1">there was a gap</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb41-l2.qa73" answerMatch="answer339" count="1">Because the damaged bulb A created a gap for bulbs B and C to get to the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsSeries-BURNED_BULB_SERIES_Q2.sbjb42-l2.qa72" answerMatch="answer339" count="1">because bulb A was damaged, a gap was created and the path was no longer closed</studentAnswer>
+  </studentAnswers>
+</question>

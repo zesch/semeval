@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="HYBRID_BURNED_OUT_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="PREDICT" qtype="Q_EXPLAIN_SPECIFIC">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer378" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q2_ANS1">If B burns out, then there is still a closed path with the battery that contains A and C.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer380" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q2_ANS2">If B burns out, then there is still a closed path that contains A and C.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj3-l2.qa98" answerMatch="answer378" count="1">because they will still be contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj7-l2.qa101" answerMatch="answer378" count="1">there is a closed path that contains the battery, bulb a, and bulb c</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj8-l2.qa108" answerMatch="answer380" count="1">not in the same path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj9-l2.qa103" answerMatch="answer378" count="1">bulbs a and c will still be conained in closed paths with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj10-l2.qa106" answerMatch="answer378" count="1">bulbs a and c are on a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj11-l2.qa104" answerMatch="answer380" count="1">bulb b does not create a gap in the path of bulb a and bulb c</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj11-l2.qa105" answerMatch="answer380" count="1">bulb b does not create a gap in the path of bulbs a and c.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj11-l2.qa106" count="1">bulb a and bulb c will light up.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj12-l2.qa109" answerMatch="answer378" count="1">Bulbs C and A will still be on closed paths with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj13-l2.qa112" answerMatch="answer380" count="1">bulb b is not in the same path of bulbs a and c</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj14-l2.qa108" count="1">Because Bulb b is not on a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj15-l2.qa128" count="1">because i said so</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj18-l2.qa100" answerMatch="answer378" count="2">bulbs a and c will still be in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj19-l2.qa125" answerMatch="answer380" count="1">they are in different paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj22-l2.qa108" count="2">l</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj23-l2.qa106" answerMatch="answer378" count="1">Bulb A, Bulb C, and the battery are in a closed path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj24-l2.qa103" answerMatch="answer380" count="1">they are in closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj26-l2.qa112" count="1">there is no pathway</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj26-l2.qa113" count="1">h</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj27-l2.qa112" answerMatch="answer380" count="1">bulbs a and c have their own closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj27-l2.qa113" answerMatch="answer380" count="2">closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj29-l2.qa112" answerMatch="answer380" count="1">bulbs a and c are not in closed path with bulb b</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj30-l2.qa112" answerMatch="answer378" count="1">Bulb A and C are on closed paths containing the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj31-l2.qa114" answerMatch="answer380" count="1">because a and c are on a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj33-l2.qa110" answerMatch="answer378" count="1">bulb B is not contained in the same closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj34-l2.qa114" answerMatch="answer380" count="1">Bulbs A and C will still be contained in a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj35-l2.qa112" answerMatch="answer378" count="1">bulb a is no longer contained in a closed path with the battery. bulb c is still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj36-l2.qa104" answerMatch="answer380" count="1">there is a closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj37-l2.qa101" answerMatch="answer378" count="1">bulb a will still be in a closed path with the battery. bulb c will still be in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj38-l2.qa104" answerMatch="answer378" count="1">bulb a and bulb c are still in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj39-l2.qa119" answerMatch="answer378" count="1">Bulbs A and C are still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj40-l2.qa113" answerMatch="answer378" count="1">bulb b and c are still on a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj40-l2.qa114" answerMatch="answer378" count="1">bulb and and c are still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj42-l2.qa105" answerMatch="answer378" count="1">there is a closed path that contains the battery and bulb a and bulb c</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj43-l2.qa109" answerMatch="answer378" count="1">bulb a and bulb c are still contained in closed paths with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj46-l2.qa119" answerMatch="answer378" count="1">Bulb A and bulb C are still contained in closed paths with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj47-l2.qa112" answerMatch="answer378" count="1">Bulb A and C are still contained in closed paths with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbj48-l2.qa103" answerMatch="answer378" count="1">bulbs a and c will still be contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb1-l2.qa93" answerMatch="answer380" count="1">It is on a separate path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb2-l2.qa94" answerMatch="answer380" count="1">There is a closed path to the bulbs.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb3-l2.qa96" count="1">it is close enought to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb4-l2.qa92" answerMatch="answer378" count="1">A and C are on their own contained path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb5-l2.qa92" answerMatch="answer378" count="1">bulbs a and c are still on a closed path containing the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb6-l2.qa92" answerMatch="answer380" count="1">A and C remain on a closed circuit</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb7-l2.qa93" answerMatch="answer378" count="1">They have another closed ppath to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb9-l2.qa93" answerMatch="answer380" count="1">Bulbs A and C are still contained in closed paths to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb10-l2.qa92" answerMatch="answer380" count="1">because a and c are in series and b is in parallel</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb11-l2.qa92" answerMatch="answer378" count="1">Bulb A and C are still contained within a closed path and connected to a battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb12-l2.qa92" answerMatch="answer378" count="1">bulb a and bulb c would be contained in a closed path with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb13-l2.qa92" answerMatch="answer378" count="1">There will still be a closed path containin bulb A, bulb C and the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb15-l2.qa93" answerMatch="answer378" count="1">still connected to battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb16-l2.qa93" answerMatch="answer380" count="1">same path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb17-l2.qa94" answerMatch="answer380" count="1">There is still a closed path for bulb A and C</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb18-l2.qa92" answerMatch="answer378" count="1">They are still in a closed pathway with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb19-l2.qa92" answerMatch="answer380" count="1">there is still a path for the 2 bulbs</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb20-l2.qa92" answerMatch="answer380" count="1">Bulb A and C will still be in a contained path.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb21-l2.qa92" count="1">seperate curcuits</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb22-l2.qa92" answerMatch="answer380" count="1">not contained inthe same path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb24-l2.qa96" answerMatch="answer380" count="1">SEPARATE PATHS</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb25-l2.qa93" answerMatch="answer380" count="1">They are all in separate paths.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb26-l2.qa92" answerMatch="answer380" count="1">Bulbs A and C will still be a part of a complete circut.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb27-l2.qa92" answerMatch="answer378" count="1">they are still conatined in a closed circuit with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb28-l2.qa92" answerMatch="answer380" count="1">Bulbs A and C are on a separate closed path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb29-l2.qa93" answerMatch="answer380" count="1">B would not cause a gap for either A or C</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb30-l2.qa92" answerMatch="answer378" count="1">bulbs a and c are both still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb31-l2.qa92" answerMatch="answer378" count="1">because bulb a and c would still be in a complete circuit with the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb32-l2.qa92" count="1">they have closed paths</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb34-l2.qa93" answerMatch="answer378" count="1">Bulb A and bulb C are still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb35-l2.qa94" answerMatch="answer378" count="1">Bulb b is on a seperate pathway from A and C which are still connected to the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb36-l2.qa92" answerMatch="answer380" count="1">B does not effect the paths of the other 2, they are still closed</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb37-l2.qa93" answerMatch="answer378" count="1">seperate paths connected to the battery</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb38-l2.qa92" answerMatch="answer378" count="1">Bulbs A and C will still be contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb39-l2.qa92" answerMatch="answer380" count="1">bulbs a and c will still be in a closed path, even if bulb B burns out.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb40-l2.qa92" answerMatch="answer380" count="1">bulbs a and c will still have a direct path</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb41-l2.qa93" answerMatch="answer378" count="1">Bulbs A and C will be on because they still have a direct closed path to the battery.</studentAnswer>
+    <studentAnswer id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q2.sbjb42-l2.qa92" answerMatch="answer380" count="1">they are still on a closed circuit with the battery</studentAnswer>
+  </studentAnswers>
+</question>

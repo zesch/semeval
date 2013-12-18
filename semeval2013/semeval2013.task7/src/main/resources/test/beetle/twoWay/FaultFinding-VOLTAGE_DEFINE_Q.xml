@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_DEFINE_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>What is voltage?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer244" fileID="VOLTAGE_DEFINE_Q_ANS1">Voltage is the difference in electrical states between two terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj10-l1.qa239">electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj13-l1.qa245">a measurement of electricity between a positive and negative terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj15-l1.qa253">the measurement of power</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj23-l1.qa206">The difference in electrical state between terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj26-l1.qa254">god</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj27-l1.qa231">the measurement of electricity</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj33-l1.qa219">tell answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj34-l1.qa208">The difference in electrical state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj38-l1.qa207">the difference is electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj42-l1.qa240">The difference in the terminals of a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb6-l1.qa180">The difference between the positive and negative side</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb9-l1.qa193">Voltage is the difference between the electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb17-l1.qa181">The difference between the electrical states of two terminals</studentAnswer>
+  </studentAnswers>
+</question>

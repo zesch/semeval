@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="SHORT_CIRCUIT_EXPLAIN_Q_2" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Explain why circuit 2 is not a short circuit.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer22" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS2">The battery in 2 is not in a closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer23" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS3">there is no closed path containing the battery</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer24" fileID="SHORT_CIRCUIT_EXPLAIN_Q_ANS4">the battery is in an open path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj9-l1.qa52">Only one side of the battery is connected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj24-l1.qa61">bulb is connected to same terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj27-l1.qa60">Because the battery is not completely connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj37-l1.qa46">the positive and negative ends of battery 2 are not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer22" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbj39-l1.qa58">Circuit 2 is not a short circuit because there is a bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer24" id="SwitchesBulbsSeries-SHORT_CIRCUIT_EXPLAIN_Q_2.sbjb34-l1.qa41">The closed path is only contains the negative side of the battery and the bulb.</studentAnswer>
+  </studentAnswers>
+</question>

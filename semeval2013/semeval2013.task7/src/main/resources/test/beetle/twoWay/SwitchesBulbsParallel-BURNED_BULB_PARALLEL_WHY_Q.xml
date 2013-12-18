@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="BURNED_BULB_PARALLEL_WHY_Q" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Why didn^t bulbs A and C go out after bulb B burned out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer366" fileID="BURNED_BULB_PARALLEL_WHY_Q_ANS1">Bulbs A and C are still contained in closed paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer367" fileID="BURNED_BULB_PARALLEL_WHY_Q_ANS2">Bulbs A and C are still in closed paths</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer368" fileID="BURNED_BULB_PARALLEL_WHY_Q_ANS3">B is not in their paths</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer369" fileID="BURNED_BULB_PARALLEL_WHY_Q_ANS4">A, B and C are in different paths</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbj15-l2.qa119">because yyou are retarded</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer368" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbj29-l2.qa107">bulbs a and c were not in a closed path with bulb b</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbj31-l2.qa109">a and c are in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer369" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbjb16-l2.qa88">because they are in seperate paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer368" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbjb19-l2.qa87">because bulb b is not in the same path as the other bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer367" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_WHY_Q.sbjb40-l2.qa87">They had a direct contained path</studentAnswer>
+  </studentAnswers>
+</question>

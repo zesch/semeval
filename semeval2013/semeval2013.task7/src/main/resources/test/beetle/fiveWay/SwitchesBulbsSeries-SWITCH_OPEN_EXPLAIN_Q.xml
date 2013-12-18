@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="SWITCH_OPEN_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Why does an open switch impact a circuit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer46" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS1">the open switch creates a gap</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer47" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS2">a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer48" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS3">there is a gap in a circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer49" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS4">the path is not closed</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer51" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer52" fileID="SWITCH_OPEN_EXPLAIN_Q_ANS6">there is an open path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj8-l1.qa98">A switch creates electricity</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj8-l1.qa99">I don"t know.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer51" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj18-l1.qa77">It causes the path to be incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj19-l1.qa100">the path is open instead of closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj24-l1.qa87">it makes the path open</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbj29-l1.qa90">because everything is connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer52" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb4-l1.qa63">it opens up the closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb16-l1.qa65">The electrical current can"t get to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb20-l1.qa74">An open switch makes a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb24-l1.qa65">prevents the circuit from being closed and current from traveling through it</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb30-l1.qa63">An open switch creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer46" id="SwitchesBulbsSeries-SWITCH_OPEN_EXPLAIN_Q.sbjb36-l1.qa63">it cuts the electrical current that is needed to light up the light bulb. It needs to be connected on both sides and if one is disconnected then the bulb won"t light up.</studentAnswer>
+  </studentAnswers>
+</question>

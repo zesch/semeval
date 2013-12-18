@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="SWITCH_TABLE_EXPLAIN_Q1" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>When switch X was closed and switch Y was open, why was bulb A on?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer319" fileID="SWITCH_TABLE_EXPLAIN_Q1_ANS1">Bulb A was still contained in the same closed path with the battery.</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer319.1" fileID="SWITCH_TABLE_EXPLAIN_Q1_ANS1a">Bulb A is still contained in a closed path with the battery and switch X.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer320" fileID="SWITCH_TABLE_EXPLAIN_Q1_ANS2">there is no path containing both switch Y and bulb A</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer321" fileID="SWITCH_TABLE_EXPLAIN_Q1_ANS3">Switch Y and bulb A are not in the same closed path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj12-l2.qa62">It is on a complete path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj14-l2.qa61">because it was contained in a closed path to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj14-l2.qa62">The battery is conatined in the same path as the bulb.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj15-l2.qa68">there was a gap in therefdjkjreajfjhkldec</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj18-l2.qa60">Bulb a was in a closed path with a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319.1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj29-l2.qa66">bulb a and switch z are contained in a closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319.1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbj37-l2.qa59">it does not affect bulb a. switch x does affect bulb a. switch x was closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbjb4-l2.qa54">it was on a closed path and connected to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319.1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbjb20-l2.qa54">Bulb A is in the path of switch x.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbjb34-l2.qa55">Bulb A was in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbjb35-l2.qa55">Because it"s path was closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer319" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q1.sbjb41-l2.qa55">Bulb A was on because the path was closed from bulb A to the battery.</studentAnswer>
+  </studentAnswers>
+</question>

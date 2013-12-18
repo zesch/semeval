@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="DAMAGED_BULB_EXPLAIN_2_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Why does a damaged bulb impact a circuit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer64" fileID="DAMAGED_BULB_EXPLAIN_2_Q_ANS1">a damaged bulb creates a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer66" fileID="DAMAGED_BULB_EXPLAIN_2_Q_ANS3">there is a gap in the circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer67" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS4">there is an open path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer68" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS4A">there is no closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer69" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj3-l1.qa97" accuracy="correct">a damaged bulb causes a gap at the blub</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj3-l1.qa99" accuracy="contradictory">a bulb creates a closed path and if the bulb is damaged so is the path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj7-l1.qa93" accuracy="correct">it creates a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj8-l1.qa116" accuracy="incorrect">I am not sure</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj8-l1.qa117" accuracy="correct">Because it opens the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj9-l1.qa93" accuracy="correct">The damaged bulb creates a gap in the path.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj11-l1.qa118" accuracy="correct">because it creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj12-l1.qa88" accuracy="correct">A damaged bulb creates a gap in the path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj13-l1.qa111" accuracy="correct">it creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj14-l1.qa105" accuracy="correct">Because a damaged bulb has a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj14-l1.qa106" accuracy="correct">Because a damaged bulb will have a gap.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj14-l1.qa107" accuracy="contradictory">Because a bulb creates electricity.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj14-l1.qa109" accuracy="correct">Because it has a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer68" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj15-l1.qa126" accuracy="correct">because the path is no longer closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj19-l1.qa120" accuracy="incorrect">it interupts the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj19-l1.qa121" accuracy="incorrect">no path for the circuits</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj19-l1.qa122" accuracy="contradictory">the path is closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj19-l1.qa125" accuracy="correct">when the bulb is burned out there is no path through the bulb holder</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj22-l1.qa111" accuracy="correct">because there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj24-l1.qa104" accuracy="correct">it makes an open path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj26-l1.qa117" accuracy="incorrect">gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj27-l1.qa103" accuracy="correct">it creates a ga</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj28-l1.qa105" accuracy="correct">damages the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj28-l1.qa106" accuracy="correct">It damages the path between bulbs</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj28-l1.qa107" accuracy="contradictory">The bulb takes away the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj28-l1.qa108" accuracy="correct">The path is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj29-l1.qa108" accuracy="correct">damaged bulb creates a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj30-l1.qa95" accuracy="correct">There is a gap in the circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer68" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj31-l1.qa98" accuracy="correct">the path is not closed anymore</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj33-l1.qa95" accuracy="correct">a damage bulb creates a gap in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj34-l1.qa90" accuracy="correct">It opens the path</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj35-l1.qa98" accuracy="correct">It creates a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj36-l1.qa101" accuracy="contradictory">there is a gap in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj36-l1.qa103" accuracy="correct">there is a gap in the path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj37-l1.qa89" accuracy="correct">it causes a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj38-l1.qa91" accuracy="correct">when a bulb is damaged it creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj39-l1.qa114" accuracy="correct">Because it creates a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer68" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj42-l1.qa105" accuracy="correct">The path will not be closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj43-l1.qa103" accuracy="correct">a damaged bulb creates a break in the circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj43-l1.qa104" accuracy="correct">a damaged bulb does not complete the circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj43-l1.qa105" accuracy="correct">a damaged bulb does not make a connecton so the circut is not complete</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj45-l1.qa91" accuracy="contradictory">always</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj45-l1.qa92" accuracy="correct">when the damaged bulb creates a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj46-l1.qa104" accuracy="contradictory">stops charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj47-l1.qa116" accuracy="incorrect">Becuase the damaged bulb damages the path in which is was connecte to</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj47-l1.qa118" accuracy="incorrect">If the bulb is damaged in the same circuit as the other bulbs, the other bulbs will not work because the circuit went out</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj47-l1.qa119" accuracy="contradictory">a bulb creates light</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj48-l1.qa93" accuracy="correct">because it creates a gap, so the circuit becomes incomplete</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb1-l1.qa79" accuracy="contradictory">It is in the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb2-l1.qa87" accuracy="correct">It createad a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb3-l1.qa94" accuracy="incorrect">I dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb4-l1.qa79" accuracy="correct">it creates a gap in the closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb5-l1.qa89" accuracy="correct">it creates a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb6-l1.qa79" accuracy="contradictory">It breaks the circuit flow between the battery and the bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer68" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb7-l1.qa79" accuracy="correct">Stops the path from being closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb9-l1.qa82" accuracy="correct">Because the path between the battery and the light bulb is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer68" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb10-l1.qa79" accuracy="contradictory">because it makes it not a closed circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb11-l1.qa81" accuracy="contradictory">It does not impact a circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb12-l1.qa82" accuracy="correct">When a bulb is damaged it creates a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb13-l1.qa80" accuracy="correct">A damaged bulb creates a gap.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb15-l1.qa81" accuracy="correct">creates a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb16-l1.qa81" accuracy="correct">it creates a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb19-l1.qa84" accuracy="correct">because that created a gep in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb20-l1.qa90" accuracy="correct">It creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb21-l1.qa79" accuracy="contradictory">it blocks the flow of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb25-l1.qa81" accuracy="incorrect">There is no connection between the ... circuits.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb26-l1.qa79" accuracy="correct">A damaged bulb no longer completes the circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb28-l1.qa83" accuracy="correct">A damaged bulb creates a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb29-l1.qa82" accuracy="correct">there is a gap in the circuit where there is a damaged bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb30-l1.qa79" accuracy="correct">a damaged bulb creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer67" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb31-l1.qa79" accuracy="contradictory">because the circuit acts like a single unit. It creates an open path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb32-l1.qa81" accuracy="contradictory">It creates a gap, so no electricity from the battery can flow to the other bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb34-l1.qa79" accuracy="contradictory">A damaged bulb disrupts the flow of the current.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb36-l1.qa79" accuracy="contradictory">it creates a gap that doesn"t allow the electrical current flow to to the other bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb38-l1.qa80" accuracy="correct">It makes the circuit incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb39-l1.qa80" accuracy="correct">Because there is a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb40-l1.qa79" accuracy="correct">There will be a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb41-l1.qa80" accuracy="contradictory">A damanged bulb impacts a circuit because the pathway is blocked.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_DIFF_DISCUSS_1_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer186" fileID="VOLTAGE_DIFF_DISCUSS_1_Q_ANS1">the terminals are connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer187" fileID="VOLTAGE_DIFF_DISCUSS_1_Q_ANS2">the terminals are not separated by a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer188" fileID="VOLTAGE_DIFF_DISCUSS_1_Q_ANS2A">there is no gap between the terminals</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer188.1" fileID="VOLTAGE_DIFF_DISCUSS_1_Q_ANS3">The terminals are in the same state.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="6" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj8-l1.qa201">there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj8-l1.qa202">A bulb creates a gap between itself and the battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj8-l1.qa203">give me a hint</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj12-l1.qa166">There is no voltage between the two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj22-l1.qa191">they are in different states</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj29-l1.qa184">they are not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer186" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj29-l1.qa185">they are connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer186" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj31-l1.qa186">the bulb terminal and the battery terminal are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj33-l1.qa176">the terminal is connected to the negative voltage terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj33-l1.qa177">tell me the answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer188.1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj38-l1.qa167">there is no difference between the elactrical states and also that there is a gap in the curcuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer188.1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj38-l1.qa169">the terminals are separated by a gap and the battery terminal and bulb terminal are on the same side of the gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbj45-l1.qa174">there is a damaged bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer186" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbjb1-l1.qa150">There is a short circuit between the connection of the bulb terminal and a battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer186" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbjb11-l1.qa147">That the bulb is connected to the positive end of the terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer186" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbjb15-l1.qa146">that they are connected; no gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer188.1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbjb26-l1.qa145">They share an electrical state.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer188.1" id="FaultFinding-VOLTAGE_DIFF_DISCUSS_1_Q.sbjb42-l1.qa147">The two terminals are in the same electrical state.</studentAnswer>
+  </studentAnswers>
+</question>

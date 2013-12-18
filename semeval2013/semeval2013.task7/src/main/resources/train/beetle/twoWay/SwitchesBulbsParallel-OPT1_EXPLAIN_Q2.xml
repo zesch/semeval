@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="OPT1_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="QUESTION">
+  <questionText>Why not?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer333" fileID="OPT1_EXPLAIN_Q2_ANS1">there is still a closed path containing Switch Z, Switch X, Bulbs A and C and the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer334" fileID="OPT1_EXPLAIN_Q2_ANS1_OLD">there is a path containing A, C, Z and the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer335" fileID="OPT1_EXPLAIN_Q2_ANS2">there is a path containing A, C, Z and X</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer336" fileID="OPT1_EXPLAIN_Q2_ANS3">There is a path containing A</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer337" fileID="OPT1_EXPLAIN_Q2_ANS4">Bulb A is still in a closed path with the battery</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj3-l2.qa72" accuracy="correct">because there is an alternate path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj3-l2.qa73" accuracy="correct">there is still a closed path between bulb a and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer334" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj3-l2.qa74" accuracy="correct">there is a closed path, with switch z,  that contains bulb a and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj7-l2.qa74" accuracy="correct">bulb a is in a closed path without switch y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj7-l2.qa75" accuracy="correct">there is a closed path that contains bulb a and does not contain switch y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj7-l2.qa76" accuracy="incorrect">there is a closed path that contains bulb and a battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj8-l2.qa78" accuracy="incorrect">because bulb a is not in the path of switch y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj9-l2.qa73" accuracy="incorrect">because x and z could be closed and it will work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj9-l2.qa74" accuracy="incorrect">because x and z could be closed and bulb a will work.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj9-l2.qa75" accuracy="incorrect">bulb a will light when it is in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj10-l2.qa77" accuracy="correct">bulb a is on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj10-l2.qa80" accuracy="incorrect">switch y is contained within a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj11-l2.qa75" accuracy="correct">because bulb a is in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj11-l2.qa77" accuracy="correct">because switch y is not conatined in the closed path of bulb a and the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer334" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj12-l2.qa81" accuracy="incorrect">Bulb a can be lit with a closed path when switch z is closed</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj12-l2.qa82" accuracy="correct">bulb a is still in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj13-l2.qa83" accuracy="incorrect">because switch x is open.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj13-l2.qa84" accuracy="incorrect">it is not in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj13-l2.qa85" accuracy="correct">switch y is not in the same path as bulb a.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj13-l2.qa86" accuracy="correct">switch y is not in the same path of bulb a.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj14-l2.qa77" accuracy="incorrect">Because it is not in the same path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj15-l2.qa86" accuracy="incorrect">i dotn knwo"r[foldf;hoglbkrd</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj15-l2.qa87" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj15-l2.qa88" accuracy="incorrect">th ebatter</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj15-l2.qa89" accuracy="incorrect">switch z is contained in the same terminal as the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj18-l2.qa74" accuracy="correct">Bulb a is in a closed path with a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj18-l2.qa75" accuracy="correct">If switch x and switch z are closed, bulb A is in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj19-l2.qa96" accuracy="incorrect">its a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj19-l2.qa97" accuracy="correct">its contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj19-l2.qa98" accuracy="incorrect">switch z is contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer334" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj22-l2.qa79" accuracy="incorrect">it is in a closed path with the battery</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj22-l2.qa80" accuracy="incorrect">l</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj23-l2.qa81" accuracy="correct">Bulb A is in a different path than switch Y.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj24-l2.qa75" accuracy="incorrect">there is another path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj24-l2.qa76" accuracy="correct">Switch Y and bulb A do not have to be in same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj26-l2.qa78" accuracy="correct">because it is not in the closed path with bulb a</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj27-l2.qa79" accuracy="incorrect">because it has another closed path it can use</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj27-l2.qa80" accuracy="incorrect">there is an alternate closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj27-l2.qa81" accuracy="incorrect">switch z contains a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj28-l2.qa77" accuracy="correct">bulb a is in a closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj28-l2.qa78" accuracy="incorrect">complete circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj28-l2.qa79" accuracy="incorrect">battery, switch, bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj28-l2.qa80" accuracy="correct">bulb a and c are contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj29-l2.qa80" accuracy="correct">bulb a is in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer334" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj29-l2.qa82" accuracy="correct">switch z is contained in a closed path with bulb a and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj30-l2.qa84" accuracy="incorrect">it can take a different path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj30-l2.qa85" accuracy="incorrect">The circuit is closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj30-l2.qa86" accuracy="correct">It still contains the battery and is on a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj31-l2.qa84" accuracy="correct">because bulb A is in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj31-l2.qa87" accuracy="incorrect">switch z is contained on a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj33-l2.qa84" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj34-l2.qa83" accuracy="incorrect">Switch Z can be closed instead</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj34-l2.qa84" accuracy="incorrect">There is another path through Switch Z</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj34-l2.qa85" accuracy="correct">Bulb A and C are contained in a closed path with the  battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj35-l2.qa82" accuracy="incorrect">Because it is not in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj35-l2.qa83" accuracy="incorrect">it is not in the same path as the bulb and battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj35-l2.qa84" accuracy="incorrect">it is not in the same path with the bulb and battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj36-l2.qa74" accuracy="incorrect">switch z could be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj36-l2.qa76" accuracy="incorrect">switch z is contained in a closed path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj37-l2.qa76" accuracy="correct">because bulb a can still be in a closed path with the battery if switch z is closed and switch x is closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj38-l2.qa73" accuracy="correct">if switch z is closed it can make a closed path that contains bulb a and the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj39-l2.qa91" accuracy="incorrect">They are on different series</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj39-l2.qa92" accuracy="correct">Bulb A is on a different path than switch Y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj40-l2.qa86" accuracy="correct">bulb a is in a closed path with the battery without passing through switch y.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj40-l2.qa87" accuracy="incorrect">bulb a is in a closed circuit with the battery without the y switch.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj40-l2.qa88" accuracy="incorrect">i give up</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj42-l2.qa79" accuracy="incorrect">There is still a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj42-l2.qa80" accuracy="incorrect">Y is not needed for bulb a to light</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj42-l2.qa81" accuracy="correct">there is a closed path with the battery and bulb a</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj43-l2.qa74" accuracy="incorrect">beacuse there is a complete path without switch y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj43-l2.qa75" accuracy="correct">beacuse there is a complete circut without y being involved</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj43-l2.qa76" accuracy="incorrect">there is a complete path to the battery without y</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj43-l2.qa77" accuracy="incorrect">switch z is closed so it still creates a complete path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj45-l2.qa74" accuracy="correct">Because bulb A has two different paths that can keep it in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj45-l2.qa75" accuracy="correct">bulb A will be on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj45-l2.qa76" accuracy="incorrect">they are not on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj46-l2.qa85" accuracy="incorrect">because it is not in the path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj46-l2.qa86" accuracy="incorrect">switch y is not in the path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj46-l2.qa87" accuracy="correct">switch y is not on the same path to the battery as bulb a</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj46-l2.qa88" accuracy="incorrect">switch y is not on the same path to battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj47-l2.qa83" accuracy="incorrect">because switch x can be closed and y can be open and A will light</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj47-l2.qa84" accuracy="correct">bulb a is connected to 2 different paths and either one would light up a if they were closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbj48-l2.qa79" accuracy="incorrect">Bulb A is in two different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb1-l2.qa69" accuracy="incorrect">The bulb and the switch are not on the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb2-l2.qa70" accuracy="incorrect">Because it is still in line with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb3-l2.qa72" accuracy="incorrect">its not effecting the current to switch A</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb4-l2.qa68" accuracy="correct">bulb A is on a closed path with switches X and Z, so as long as those are closed the bulb can light up</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb5-l2.qa68" accuracy="correct">true. bulb a will light if switches X and Z are closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb6-l2.qa68" accuracy="correct">As long as X and Z are closed A will light</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb7-l2.qa69" accuracy="incorrect">Because it can go through switch Z</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb9-l2.qa68" accuracy="correct">Because bulb A will still be contained on a closed path to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb10-l2.qa68" accuracy="incorrect">because bulb a can go through the other path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb11-l2.qa68" accuracy="correct">Switch Z will still create a closed path from the bulb and the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb12-l2.qa68" accuracy="correct">bulb a can have a closed path with the battery through switch z</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb13-l2.qa68" accuracy="correct">Because it can still make a closed path with switch X and Z.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb15-l2.qa69" accuracy="correct">x has to be closed. Y is not in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer334" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb16-l2.qa68" accuracy="incorrect">you can close switch Z and it will have light</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb17-l2.qa68" accuracy="correct">It is still contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer336" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb18-l2.qa68" accuracy="correct">becasue it can be in another closed pathway</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb19-l2.qa68" accuracy="incorrect">because switch z can be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb20-l2.qa68" accuracy="correct">Bulb A is in the path with switch X.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb21-l2.qa68" accuracy="correct">it is on its own closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb22-l2.qa68" accuracy="incorrect">switch Z can be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb24-l2.qa72" accuracy="incorrect">can complete the path by having z be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb25-l2.qa69" accuracy="incorrect">It is not in the same path as bulb A.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb26-l2.qa68" accuracy="correct">If Z is closed, A is still part of a complete circut.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb27-l2.qa68" accuracy="incorrect">if switches X and Z are closed it will complete the closed circuit for bulb A</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb28-l2.qa68" accuracy="incorrect">Switch X can still form a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb29-l2.qa68" accuracy="incorrect">because it can have complete circuit if Zis closed and Y is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb30-l2.qa68" accuracy="incorrect">bulb a is in a complete circuit with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb31-l2.qa68" accuracy="incorrect">because the negative current can transfer through switch z</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb32-l2.qa68" accuracy="incorrect">It receives current from switche Z.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer337" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb34-l2.qa69" accuracy="incorrect">Because bulb A is connected to another path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb35-l2.qa69" accuracy="incorrect">becuase it can follow that path that switch Z is on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb36-l2.qa68" accuracy="correct">if x and z are closed then it will create a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb37-l2.qa68" accuracy="incorrect">i don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb39-l2.qa68" accuracy="correct">because bulb A can still be in a closed pathway through bulb C and switch Z</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb40-l2.qa68" accuracy="incorrect">because it can travel by bulb c</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer335" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb41-l2.qa69" accuracy="incorrect">Because switch Y and Z are also connected to bulb A.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer333" id="SwitchesBulbsParallel-OPT1_EXPLAIN_Q2.sbjb42-l2.qa68" accuracy="incorrect">the bulb could be lit by having switch X and switch Z closed.</studentAnswer>
+  </studentAnswers>
+</question>

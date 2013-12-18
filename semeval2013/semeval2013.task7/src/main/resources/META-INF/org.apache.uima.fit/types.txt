@@ -1,0 +1,2 @@
+classpath*:desc/type/AssessmentTypes.xml
+classpath*:desc/type/StudentAssessmentTypes.xml

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_INCOMPLETE_CIRCUIT_2_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>Why?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer246" fileID="VOLTAGE_INCOMPLETE_CIRCUIT_2_Q_ANS1">A battery uses a chemical reaction to maintain different electrical states at the terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj8-l1.qa254">because the circuit does not effect the voltage</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj8-l1.qa256">a battery uses electricity</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj12-l1.qa207">The battery is not damaged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj13-l1.qa251">the battery has a positive and a negative chemical reaction.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj15-l1.qa257">because there is a difference in the electrical state between the two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj24-l1.qa258">some things never change</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj27-l1.qa237">the battery still has it"s chemical reaction</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj30-l1.qa222">idk</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj31-l1.qa228">because the electrical state difference is still there</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj43-l1.qa224">it always has the same voltage</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbj45-l1.qa219">the battery has an electrical state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb31-l1.qa179">because voltage remains with complete and incomplete circuits. because the terminals are not connected to each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb35-l1.qa181">because battery voltage is a constant</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb40-l1.qa180">there would be a greater difference</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer246" id="FaultFinding-VOLTAGE_INCOMPLETE_CIRCUIT_2_Q.sbjb41-l1.qa182">Because the battery is filled with its own chemical reactions.</studentAnswer>
+  </studentAnswers>
+</question>

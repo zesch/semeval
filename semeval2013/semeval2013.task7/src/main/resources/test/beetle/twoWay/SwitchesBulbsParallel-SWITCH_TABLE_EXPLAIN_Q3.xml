@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="SWITCH_TABLE_EXPLAIN_Q3" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Under what circumstances will a switch affect a bulb?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer325" fileID="SWITCH_TABLE_EXPLAIN_Q3_ANS1">When the switch and the bulb are contained in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="5" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj3-l2.qa60">If the bulb and the switch are contained in the same path, then the switch affects the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj19-l2.qa82">when there is a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj26-l2.qa66">a bulb is contained in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj36-l2.qa62">the switch will affect the bulb if it is on the path with the bulb to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj38-l2.qa59">if a bulb is in a closed path with a battery and a switch, the switch will affect the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj42-l2.qa64">if a switch is open and the path is not closed, the bulb will be off. if the switch is closed and the path is closed, the bulb will be on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj45-l2.qa61">when the switch is in the same path as the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbj46-l2.qa71">a switch will effect a bulb if it is in the same path as the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbjb4-l2.qa56">if the switch is open, the bulb will be off. if the switch is closed the bulb will be on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbjb9-l2.qa56">When a switch is on the same path as the battery and the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer325" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q3.sbjb15-l2.qa57">if it opens a gap</studentAnswer>
+  </studentAnswers>
+</question>

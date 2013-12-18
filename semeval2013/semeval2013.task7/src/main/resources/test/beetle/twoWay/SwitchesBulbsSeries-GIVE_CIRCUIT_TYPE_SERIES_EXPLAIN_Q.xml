@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer416" fileID="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q_ANS1">A and C are in the same closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer416.1" fileID="GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q_ANS1a">A and C are in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj14-l2.qa139">Because they are on the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj23-l2.qa135">Bulb A, B, and C are contained in the same path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj34-l2.qa144">The buls are contained in the same closed path.  Removing one bulb will shut off the other.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj38-l2.qa129">if bulb B was damaged, bulb A and bulb C  would be off</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj38-l2.qa130">if one bulb was damaged, the other bulbs would be off.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj39-l2.qa153">bulbs A and C are contained in the same path. If Bulb A goes out, bulb C is affected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj40-l2.qa143">removing or damaging one bulb will shut off the other bulbs.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj43-l2.qa143">they are all on the same path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbj48-l2.qa133">they are contained in the same closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb5-l2.qa116">bulb a is connected to bulb b and bulb c. if bulb a is damaged, it will affect bulbs b and c.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb12-l2.qa118">when one bulb is removed or damaged it affects the other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb18-l2.qa116">they will affect eachother</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb19-l2.qa118">because there is no other path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer416.1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb30-l2.qa116">bulbs a, b, and c are all affected by one another.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-GIVE_CIRCUIT_TYPE_SERIES_EXPLAIN_Q.sbjb41-l2.qa117">If bulb A was removed, it  wouldn"t affect bulb C.</studentAnswer>
+  </studentAnswers>
+</question>

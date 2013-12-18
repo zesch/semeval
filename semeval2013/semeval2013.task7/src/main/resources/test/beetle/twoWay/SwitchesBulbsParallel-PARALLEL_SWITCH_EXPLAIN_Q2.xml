@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="PARALLEL_SWITCH_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Why was bulb C off when switch Z was open?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer299" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS1">Bulb C was no longer in a closed path with the battery</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer300" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS1A">There was no longer a closed path containing Bulb C and the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer301" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS1_OLD">there is a path containing Z and C. The open switch Z creates a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer302" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS2">there is a path containing Z and C. Opening of switch Z causes the path to be open</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer303" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS3">there is a path containing both Z and C</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer304" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS4">a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer305" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS5A">Bulb C was not in a closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer306" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS5B">Bulb C was in no closed path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer307" fileID="PARALLEL_SWITCH_EXPLAIN_Q2_ANS5">There are no closed paths</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer300" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj3-l2.qa45">bulb c was in an open path with the battery</studentAnswer>
+    <studentAnswer count="5" answerMatch="answer299" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj7-l2.qa45">bulb c is not contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer299" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj9-l2.qa46">bulb c was not in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer305" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj19-l2.qa58">path for bulb c was open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer302" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj24-l2.qa47">switch z makes the path incomplete</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj29-l2.qa49">bulb c is still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer303" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbj46-l2.qa54">bulb c is contained in the path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer299" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbjb16-l2.qa43">it was not in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbjb18-l2.qa43">idk</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer299" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q2.sbjb41-l2.qa43">Because bulb C is contained in an opened path with the battery, which turns it off.</studentAnswer>
+  </studentAnswers>
+</question>

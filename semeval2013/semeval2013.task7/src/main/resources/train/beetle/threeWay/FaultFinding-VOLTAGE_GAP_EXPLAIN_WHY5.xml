@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY5" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer171" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS1">Terminal 5 and the positive terminal are connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer172" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS2">Terminal 5 and the positive terminal are not separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer173" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS2A">There is no gap between terminal 5 and the positive terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer174" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS3">terminal 5 is not connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer175" fileID="VOLTAGE_GAP_EXPLAIN_WHY5_ANS4">terminal 5 is separated by a gap from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer175.NEW" fileID="NONE">Terminal 5 and the positive battery terminal are in the same electrical state</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj3-l1.qa168" accuracy="correct">terminal 5 is connected ot the positive battery terminal</studentAnswer>
+    <studentAnswer count="18" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj3-l1.qa169" accuracy="correct">Terminal 5 is connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj9-l1.qa162" accuracy="incorrect">the positive battery terminal is connected to terminal 4.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj9-l1.qa163" accuracy="correct">the positive battery terminal is connected to terminal 5.</studentAnswer>
+    <studentAnswer count="21" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj11-l1.qa190" accuracy="correct">terminal 5 is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj12-l1.qa158" accuracy="correct">The positive battery terminal is connected to terminal 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj18-l1.qa161" accuracy="correct">Terminal 5 is only connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj22-l1.qa185" accuracy="incorrect">a terminal is connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj24-l1.qa184" accuracy="correct">terminal  is connected to postive battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj24-l1.qa185" accuracy="correct">terminal 5 is connected to postive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer172" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj26-l1.qa195" accuracy="correct">the positive terminal is not seperated by a gap from terminal 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer173" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj28-l1.qa177" accuracy="incorrect">there is no gap between the positive battery terminal and terminal 4</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer173" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj28-l1.qa178" accuracy="correct">there is no gap between the positive battery terminal and terminal 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj31-l1.qa175" accuracy="correct">terminal 5 is connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj33-l1.qa169" accuracy="correct">terminal 5 is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer172" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj34-l1.qa159" accuracy="correct">There is no gap between the positive terminal and terminal 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer173" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj35-l1.qa176" accuracy="correct">There was no gap between terminal 5 and the positive terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj39-l1.qa194" accuracy="correct">terminal 5 is connected ot the positive battert terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj43-l1.qa173" accuracy="correct">the positive battery terminal and terminal 5 are connected</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbj46-l1.qa183" accuracy="correct">terminal 5 is connected to positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb2-l1.qa150" accuracy="correct">Terminal 5 is connected to the postitive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb3-l1.qa160" accuracy="correct">Terminal 5 is connected to the postive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb6-l1.qa142" accuracy="correct">Terminal five is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb10-l1.qa139" accuracy="contradictory">for the same reason as 3</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb12-l1.qa145" accuracy="correct">Terminal 5 is connected to teh positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer172" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb15-l1.qa141" accuracy="incorrect">no gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb18-l1.qa151" accuracy="incorrect">i dont  know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb21-l1.qa139" accuracy="contradictory">gap in 5</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb22-l1.qa150" accuracy="correct">Termminal 5 is connected to teh positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb24-l1.qa147" accuracy="incorrect">no clue</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb25-l1.qa144" accuracy="contradictory">Because. It was on the wrong side.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb26-l1.qa140" accuracy="correct">Terminal 5 is connected to the positive bettery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb34-l1.qa139" accuracy="incorrect">Terminal 5 and the positive battery terminal are in the same state.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb38-l1.qa140" accuracy="correct">Terminal 5 was only connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer171" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY5.sbjb41-l1.qa142" accuracy="incorrect">Terminal 4 is connected to the positive battery terminal.</studentAnswer>
+  </studentAnswers>
+</question>

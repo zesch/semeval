@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3" module="SwitchesBulbsParallel" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer428" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3_ANS1">B and C are in the same path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer429" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3_ANS2">B and C are in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer428" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbj8-l2.qa150">conatined within the same path as the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer428" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbj28-l2.qa151">closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer429" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbj29-l2.qa153">bulbs b and c are contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer429" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbjb3-l2.qa131">they are contained in the same path as each other</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer429" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbjb4-l2.qa124">they are on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbjb19-l2.qa126">because the outcome of the bulb will affect the other</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer429" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbjb30-l2.qa124">bulbs b and c are contained in the same closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer428" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q3.sbjb34-l2.qa125">Bulb B and bulb C are contained in the same closed path with the battery.</studentAnswer>
+  </studentAnswers>
+</question>

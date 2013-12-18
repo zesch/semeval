@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer423" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS1">A and C are in different paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer424" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS2">A and C are not in the same path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer425" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS3">A and C are in different paths</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer426" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS4">A and C are not in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="2" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj3-l2.qa133" accuracy="correct">bulb a and c are contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="7" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj7-l2.qa136" accuracy="correct">Bulb A and Bulb C are contained in different paths with the battery.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj8-l2.qa148" accuracy="correct">contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj9-l2.qa139" accuracy="correct">bulbs a and c are contained in different paths with the battery.</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj10-l2.qa145" accuracy="correct">bulbs a and c are contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj11-l2.qa143" accuracy="correct">bulbs a and c are containe din diffrent paths with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj11-l2.qa144" accuracy="correct">bulb a and bulb b are containe4d in different paths with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj11-l2.qa145" accuracy="correct">bulb a and bulb c are contained in different paths with the bttery.</studentAnswer>
+    <studentAnswer count="7" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj12-l2.qa152" accuracy="correct">Bulb A and bulb C are contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj13-l2.qa158" accuracy="incorrect">bulbs b and c are contiained in the the same path with the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj13-l2.qa159" accuracy="incorrect">bulbs b and c are contained in the same closed path.</studentAnswer>
+    <studentAnswer count="3" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj13-l2.qa160" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj13-l2.qa161" accuracy="incorrect">i dont know.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer426" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj14-l2.qa150" accuracy="correct">They are not contained on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj15-l2.qa170" accuracy="correct">because bulbs A and C are contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj19-l2.qa172" accuracy="contradictory">Bulb A and Bulb C are contained in the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj19-l2.qa173" accuracy="contradictory">the same paths that are parralell to one another</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer426" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj22-l2.qa150" accuracy="correct">they are not in the same closed path</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj24-l2.qa143" accuracy="correct">seperate paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj24-l2.qa144" accuracy="correct">different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj24-l2.qa145" accuracy="correct">Bulb C is contained in a different path then bulb A</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj26-l2.qa159" accuracy="correct">they are on seperate closed paths</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj31-l2.qa153" accuracy="contradictory">bulb a and c are on a different path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj31-l2.qa155" accuracy="contradictory">bulb a and c are contained on the same path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj31-l2.qa157" accuracy="contradictory">the battery is contained in a closed path wit bulb a and c</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer426" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj34-l2.qa152" accuracy="correct">Bulb A and Bulb C are not contained in the same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj35-l2.qa152" accuracy="correct">bulb a and c are contained in different paths with the same battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj36-l2.qa144" accuracy="correct">the bulbs are conained in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj39-l2.qa160" accuracy="correct">bulbs A and C are on different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj40-l2.qa152" accuracy="correct">the bulbs are contained in diffrent closed pathes.</studentAnswer>
+    <studentAnswer count="4" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj42-l2.qa141" accuracy="correct">they are contained in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj46-l2.qa154" accuracy="correct">bulb a and bulb c are on different closed paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj47-l2.qa152" accuracy="correct">Bulb A and bulb C are contaiend in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb1-l2.qa123" accuracy="correct">Bulb A and C are contained in different paths with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer424" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb2-l2.qa125" accuracy="contradictory">They are on different paths than the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb3-l2.qa129" accuracy="correct">A and C are contained in different paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb4-l2.qa122" accuracy="correct">they are contained in different paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb5-l2.qa122" accuracy="correct">they are contained on different paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb7-l2.qa123" accuracy="correct">They are on different closed paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb10-l2.qa122" accuracy="correct">because they have different paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb13-l2.qa122" accuracy="correct">Blub A and bulb C are contained in different paths with the same battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb15-l2.qa123" accuracy="correct">they are on diiferent paths</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb16-l2.qa123" accuracy="correct">they are in different closed paths</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb18-l2.qa122" accuracy="correct">they are in different paths with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb19-l2.qa124" accuracy="incorrect">because the outcome of the bulb will not affect each other</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb22-l2.qa124" accuracy="contradictory">yes</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb24-l2.qa126" accuracy="incorrect">DIFFERENT PATHS</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb25-l2.qa124" accuracy="correct">They are on separate paths.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb26-l2.qa122" accuracy="correct">Bulb A and bulb C are contained in difference paths with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer426" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb29-l2.qa123" accuracy="correct">they are no on same pathway</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb31-l2.qa122" accuracy="contradictory">bulb a and c are in different circuits</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb35-l2.qa124" accuracy="incorrect">I accounted for B when it wasn"t pertinant to the question</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb38-l2.qa122" accuracy="correct">They are contained in different paths with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer426" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb39-l2.qa122" accuracy="correct">bulbs A and C are not contained in the same closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb40-l2.qa122" accuracy="contradictory">they are connected int he same closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb42-l2.qa122" accuracy="correct">they are each contained in different closed paths with the battery</studentAnswer>
+  </studentAnswers>
+</question>

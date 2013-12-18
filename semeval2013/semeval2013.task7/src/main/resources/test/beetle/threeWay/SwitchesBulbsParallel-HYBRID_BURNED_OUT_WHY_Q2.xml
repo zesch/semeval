@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="HYBRID_BURNED_OUT_WHY_Q2" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>Why do both bulbs A and B stay on when bulb C is burned out?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer396" fileID="HYBRID_BURNED_OUT_WHY_Q2_ANS1">If C burns out then A and B are still in a closed path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer397" fileID="HYBRID_BURNED_OUT_WHY_Q2_ANS1_OLD">There is a closed path with A and B that C is not in.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer398" fileID="HYBRID_BURNED_OUT_WHY_Q2_ANS1A">If C is damaged, A and B are still in a closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer400" fileID="HYBRID_BURNED_OUT_WHY_Q2_ANS2">A and B have their own path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer401" fileID="HYBRID_BURNED_OUT_WHY_Q2_ANS3">There is still a closed path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer396" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbj11-l2.qa117">because bulb a and b are still contained in the closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer401" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbj19-l2.qa139">contain in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer397" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbj26-l2.qa129">because bulb c is not contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbj37-l2.qa111">bulb a and bulb c are still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer396" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbj37-l2.qa112">bulb a and bulb b are still contained in closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer396" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbjb1-l2.qa103">They are contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer401" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbjb2-l2.qa105">There is still a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer396" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbjb9-l2.qa103">They were still contained on closed paths to battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer400" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbjb10-l2.qa102">because c is in parallel</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer398" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_WHY_Q2.sbjb39-l2.qa102">becuase bulbs A and B are still in a closed path.</studentAnswer>
+  </studentAnswers>
+</question>

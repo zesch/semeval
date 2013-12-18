@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_GENERIC" id="DAMAGED_BULB_EXPLAIN_2_Q" module="SwitchesBulbsSeries" stype="QUESTION">
+  <questionText>Why does a damaged bulb impact a circuit?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer64" fileID="DAMAGED_BULB_EXPLAIN_2_Q_ANS1">a damaged bulb creates a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer66" fileID="DAMAGED_BULB_EXPLAIN_2_Q_ANS3">there is a gap in the circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer67" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS4">there is an open path</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer68" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS4A">there is no closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer69" fileID="DAMAGED_BUILD_EXPLAIN_2_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj3-l1.qa98">if a bulb is damaged the path is opned at that bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer64" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj10-l1.qa112">because it creates a gap</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer66" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbj46-l1.qa105">there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb24-l1.qa85">doesnt allow for current to run through the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer69" id="SwitchesBulbsSeries-DAMAGED_BULB_EXPLAIN_2_Q.sbjb37-l1.qa79">It destroys the path way</studentAnswer>
+  </studentAnswers>
+</question>

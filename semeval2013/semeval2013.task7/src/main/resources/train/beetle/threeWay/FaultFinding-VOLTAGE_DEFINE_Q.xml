@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_DEFINE_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>What is voltage?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer244" fileID="VOLTAGE_DEFINE_Q_ANS1">Voltage is the difference in electrical states between two terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj3-l1.qa213" accuracy="incorrect">is the difference between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj3-l1.qa214" accuracy="incorrect">is the difference between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj3-l1.qa215" accuracy="incorrect">the is a difference in the terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj3-l1.qa216" accuracy="correct">is the difference in electrial stat between terminals</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj7-l1.qa204" accuracy="correct">the difference in electrical states between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj8-l1.qa250" accuracy="correct">the difference in the electrical states of the positive and negative terminals of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj8-l1.qa251" accuracy="correct">the measurement between the electrical states of the positive and negative terminals of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj8-l1.qa252" accuracy="incorrect">electricity difference between the battey"s positive and negative terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj9-l1.qa208" accuracy="contradictory">a measurement of current and flowing the a source.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj9-l1.qa209" accuracy="contradictory">a measurement of current flowing through a source.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj9-l1.qa210" accuracy="incorrect">a difference between the electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj10-l1.qa238" accuracy="incorrect">the difference between the positive and negative terminals of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj10-l1.qa240" accuracy="incorrect">the difference of electrical states in a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj10-l1.qa241" accuracy="incorrect">the difference in electricity between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj11-l1.qa231" accuracy="correct">teh difference of electrical states between two terminals</studentAnswer>
+    <studentAnswer count="5" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj12-l1.qa203" accuracy="incorrect">The difference between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj12-l1.qa205" accuracy="incorrect">Two terminals that have different electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj13-l1.qa244" accuracy="incorrect">a measurement of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj13-l1.qa246" accuracy="incorrect">the different in the positive terminal and negative terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj13-l1.qa247" accuracy="contradictory">the difference between the electrical state of the positive terminal and the negative terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj14-l1.qa230" accuracy="contradictory">voltage is the measure of electrical charges in a component.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj14-l1.qa231" accuracy="contradictory">voltage is the amount of electrical charge within a component.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj14-l1.qa232" accuracy="incorrect">voltage is the difference between tow terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj15-l1.qa252" accuracy="contradictory">the measurement of power of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj15-l1.qa254" accuracy="contradictory">the difference in connections between terminals</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj15-l1.qa255" accuracy="correct">the difference in electrical state between two terminals</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj18-l1.qa201" accuracy="correct">The difference in electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj19-l1.qa275" accuracy="incorrect">the difference in batteries</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj19-l1.qa276" accuracy="incorrect">difference between the baterry and termnial</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj19-l1.qa277" accuracy="contradictory">the difference in the electrical state between the battery and terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj22-l1.qa236" accuracy="incorrect">voltage is the difference between states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj22-l1.qa237" accuracy="incorrect">it is the difference between the electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj22-l1.qa238" accuracy="correct">voltage is the difference in the electrical states between the terminals</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj23-l1.qa204" accuracy="incorrect">The difference in electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj23-l1.qa205" accuracy="incorrect">The measurement in difference of the electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj24-l1.qa253" accuracy="correct">measurement of the difference in electrical states between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj26-l1.qa252" accuracy="contradictory">the measurment of power to a source of energy</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj26-l1.qa253" accuracy="contradictory">the power of the terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj26-l1.qa255" accuracy="incorrect">gods state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj28-l1.qa229" accuracy="contradictory">the difference between electrical charges of battery terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj28-l1.qa230" accuracy="contradictory">the difference of chemical signals between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj28-l1.qa231" accuracy="contradictory">the difference between electrical charges in a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj28-l1.qa232" accuracy="incorrect">terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj29-l1.qa222" accuracy="contradictory">the difference in electricity created by chemical reactions between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj30-l1.qa216" accuracy="incorrect">The difference between the two ends of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj30-l1.qa218" accuracy="contradictory">different chemical output</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj30-l1.qa219" accuracy="incorrect">Difference between the electrical state of the two ends of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj31-l1.qa223" accuracy="contradictory">potential difference</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj31-l1.qa224" accuracy="contradictory">difference in eletricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj31-l1.qa225" accuracy="contradictory">potential difference between 2 terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj31-l1.qa226" accuracy="correct">difference in electrical state between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj33-l1.qa218" accuracy="incorrect">the difference between the positive and negative measurements of power</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj34-l1.qa207" accuracy="contradictory">The difference in electrical charge between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj35-l1.qa231" accuracy="incorrect">Voltage is the difference between the positive terminal and negative terminal in a battery.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj35-l1.qa232" accuracy="correct">Voltage is the difference in electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj36-l1.qa235" accuracy="contradictory">the amount of volts</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj36-l1.qa236" accuracy="contradictory">the distance between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj36-l1.qa237" accuracy="incorrect">the difference between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj37-l1.qa204" accuracy="incorrect">a difference between two terminals with a measurement</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj37-l1.qa205" accuracy="incorrect">a difference is electrical states between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj38-l1.qa209" accuracy="correct">voltage is the difference in electrical states between two terminals of a circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj38-l1.qa210" accuracy="correct">the difference in electrical states of two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj39-l1.qa252" accuracy="contradictory">The difference betweej two terminals that are not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj39-l1.qa253" accuracy="contradictory">The difference between two terminals that produces and electrical state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj40-l1.qa244" accuracy="incorrect">voltage is the diffrence between states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj40-l1.qa246" accuracy="incorrect">voltage is the diffrence in electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj40-l1.qa247" accuracy="correct">volatge is the diffrence in electrical state between two terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj43-l1.qa219" accuracy="contradictory">a measure of electric power</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj43-l1.qa220" accuracy="contradictory">a measure of the strength of electricity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj43-l1.qa221" accuracy="contradictory">the difference in size between two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj45-l1.qa213" accuracy="incorrect">the measurement of the difference between two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj45-l1.qa214" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj45-l1.qa215" accuracy="incorrect">...</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj45-l1.qa216" accuracy="incorrect">the measurement of the difference between two terminals in an electric state</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj46-l1.qa232" accuracy="contradictory">distance between terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj46-l1.qa233" accuracy="contradictory">energy between terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj46-l1.qa234" accuracy="contradictory">difference between paths of terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj46-l1.qa235" accuracy="incorrect">negative and positive difference</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj47-l1.qa246" accuracy="contradictory">the amount of power a battery emits</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj47-l1.qa247" accuracy="contradictory">the difference in power a battery emits</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj47-l1.qa248" accuracy="contradictory">the difference in an electrical state a battery has</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj48-l1.qa206" accuracy="correct">the difference between two different terminal"s electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbj48-l1.qa207" accuracy="correct">voltage is a reading of the difference in electrical states between two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb1-l1.qa184" accuracy="contradictory">Voltage is the charge given when two terminals are connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb2-l1.qa188" accuracy="incorrect">The difference between the terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb3-l1.qa200" accuracy="contradictory">0.0</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb5-l1.qa187" accuracy="correct">voltage is the difference in the electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb7-l1.qa177" accuracy="incorrect">difference in electrical states of terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb10-l1.qa177" accuracy="contradictory">0</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb11-l1.qa183" accuracy="contradictory">The measure of electritcy across a power source</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb12-l1.qa183" accuracy="contradictory">0.0 volts</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb15-l1.qa179" accuracy="contradictory">measure of electicity</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb16-l1.qa179" accuracy="contradictory">difference between two electrical currents</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb18-l1.qa190" accuracy="contradictory">Voltage is the difference in electrical states between a bulb terminal and a battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb19-l1.qa182" accuracy="contradictory">the amount of electricity in a batery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb20-l1.qa190" accuracy="contradictory">The amount of charge.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb21-l1.qa178" accuracy="contradictory">electrucal charge</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb22-l1.qa188" accuracy="contradictory">voltage is the differance between the 2 terminals of a batter"s state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb24-l1.qa185" accuracy="contradictory">measure of electrical current?</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb25-l1.qa182" accuracy="contradictory">Voltage is how much energy is going on inside a battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb26-l1.qa178" accuracy="correct">The difference is electrical states between two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb27-l1.qa177" accuracy="contradictory">the difference in charges of two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb28-l1.qa182" accuracy="incorrect">the difference in electrical states</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb29-l1.qa181" accuracy="incorrect">voltage is the difference between positive and negative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb30-l1.qa184" accuracy="incorrect">the difference between 2 terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb31-l1.qa177" accuracy="contradictory">voltage is a property of batteries. voltage is the difference between electrical currents in two terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb34-l1.qa177" accuracy="incorrect">The measured difference between two electrical states.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb35-l1.qa179" accuracy="contradictory">The difference in charge between the two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb36-l1.qa177" accuracy="contradictory">the measurement of the electrical current that occurs when the chemicals are mixed together.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb37-l1.qa177" accuracy="contradictory">The amount of electric being put out</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb38-l1.qa178" accuracy="contradictory">The electrical difference between the two terminals of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb39-l1.qa180" accuracy="incorrect">the difference between terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb40-l1.qa178" accuracy="incorrect">voltage is the difference in the states of the terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb41-l1.qa180" accuracy="incorrect">The measure between 2 different terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb42-l1.qa180" accuracy="correct">measure of the difference between the elecrical states of two terminals.</studentAnswer>
+  </studentAnswers>
+</question>

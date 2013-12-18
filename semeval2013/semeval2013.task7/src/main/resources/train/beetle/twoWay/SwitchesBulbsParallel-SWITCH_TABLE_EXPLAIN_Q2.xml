@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="SWITCH_TABLE_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>When switch X was open and switch Y was closed, why were bulbs B and C on?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer322" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS1">Bulb B and Bulb C were still contained in the same closed path with the battery.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer323" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS2">no path containing both the switch X and either bulb B or bulb C</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer324" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS3">There is a path with B and C that does not include X</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="2" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj3-l2.qa59" accuracy="correct">because bulb b and c were still in a closed path with the battery</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj7-l2.qa59" accuracy="correct">bulbs b and c were contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj8-l2.qa65" accuracy="correct">Bulb B and C were still contained in a closed path with tthe battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj9-l2.qa60" accuracy="correct">bulbs b and c were in a closed paty with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj10-l2.qa63" accuracy="correct">because bulbs b and c are on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj11-l2.qa61" accuracy="correct">because bulbs b and c are in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj12-l2.qa64" accuracy="correct">Bulbs B and C are still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer323" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj13-l2.qa69" accuracy="correct">switch x is not in the same path as bulbs b and c.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer323" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj13-l2.qa70" accuracy="correct">switch x is not in the same path of bulbs b and c.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj14-l2.qa63" accuracy="correct">Because bulb B and C were contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj15-l2.qa69" accuracy="correct">because bulbs b and c were still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj18-l2.qa61" accuracy="correct">Bulbs b and c were in a closed path with a battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj19-l2.qa79" accuracy="incorrect">Bulb X was still contained in a closed path withy the batteyr</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj19-l2.qa80" accuracy="correct">Bulb B and C was stilled contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj22-l2.qa65" accuracy="correct">bulb b and bulb c were still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj23-l2.qa65" accuracy="incorrect">Bulb A and bulb C are in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj23-l2.qa66" accuracy="correct">Bulb B and bulb C are in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer324" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj24-l2.qa62" accuracy="incorrect">switch X does not effect bulbs B and C</studentAnswer>
+    <studentAnswer count="4" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj26-l2.qa63" accuracy="correct">bulbs b and c were still contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj28-l2.qa62" accuracy="correct">they were in a closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj29-l2.qa67" accuracy="correct">bulbs b and c and switch y are contained in a closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj30-l2.qa71" accuracy="correct">Bulb B and C were in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj31-l2.qa69" accuracy="correct">bulb b and c are on a  closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj33-l2.qa70" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj34-l2.qa69" accuracy="correct">Bulb B and C were contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj35-l2.qa67" accuracy="correct">Bulb B and C were in a closed path with a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj37-l2.qa62" accuracy="correct">bulb c was still contained in a closed path with the battery. bulb b was still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj38-l2.qa57" accuracy="correct">bulbs b and c were in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj39-l2.qa76" accuracy="correct">Bulbs b and C were still on a closed path with the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj40-l2.qa70" accuracy="correct">bulb b and c were still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj42-l2.qa63" accuracy="correct">there was a closed path with the battery and bulbs b and c</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj43-l2.qa59" accuracy="correct">because they were in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj47-l2.qa69" accuracy="correct">because bulbs b and c were contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj48-l2.qa63" accuracy="correct">Because bulbs B and C were contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb1-l2.qa55" accuracy="correct">Bulbs B and C are still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb2-l2.qa56" accuracy="correct">They were still contained in the path with the battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb3-l2.qa59" accuracy="incorrect">they were futher away from the connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb4-l2.qa55" accuracy="correct">both bulbs were still on a closed path connected to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb5-l2.qa55" accuracy="correct">bulbs b and c were still contained on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb6-l2.qa55" accuracy="incorrect">B and C were still contained in a closed circuit with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb7-l2.qa56" accuracy="correct">They were contained in a closed path</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb9-l2.qa55" accuracy="correct">Bulbs B and C were still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb10-l2.qa55" accuracy="incorrect">because they are still in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb12-l2.qa55" accuracy="incorrect">bulb b and bulb c were in a closed circuit with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb15-l2.qa56" accuracy="incorrect">no gaps</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb16-l2.qa55" accuracy="correct">they were in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb17-l2.qa55" accuracy="correct">they were contained within a closed path with the battery</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb18-l2.qa55" accuracy="incorrect">yes</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb21-l2.qa55" accuracy="correct">they were still on closed paths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb22-l2.qa55" accuracy="correct">iBulbs ba nd C were stil contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb24-l2.qa59" accuracy="incorrect">b and c were in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb25-l2.qa56" accuracy="correct">They were in the same path as switch Y.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer324" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb27-l2.qa55" accuracy="incorrect">switch X does not affect the closed circuit of bulbs B and C</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb29-l2.qa55" accuracy="correct">because B and C were still on a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb32-l2.qa55" accuracy="incorrect">Because B and C were in closed paths.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb34-l2.qa56" accuracy="incorrect">Bulbs B and C were in a closed circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb36-l2.qa55" accuracy="correct">Bulb b and c was still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb38-l2.qa55" accuracy="correct">Bulbs B and C werer still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb39-l2.qa55" accuracy="correct">because bulbs B and C were still in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb41-l2.qa56" accuracy="correct">Bulbs B and C were on because they were still contained in a closed path with the battery.</studentAnswer>
+  </studentAnswers>
+</question>

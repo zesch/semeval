@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_AND_GAP_DISCUSS_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer191" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS1">the bulb is damaged</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer192" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS2">the terminals are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer193" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS3">there is a gap</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer194" fileID="VOLTAGE_AND_GAP_DISCUSS_Q_ANS4">the terminals are separated by a gap</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj3-l1.qa179" accuracy="correct">that the bulb between those terminals is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj7-l1.qa170" accuracy="contradictory">the terminals go from not being connected to being connected to each other.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj7-l1.qa171" accuracy="contradictory">it means the bulb terminal is connected to the battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj7-l1.qa172" accuracy="incorrect">i do not know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj10-l1.qa193" accuracy="correct">the terminals are not connected to eachother</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj11-l1.qa200" accuracy="correct">it means that the bulb terminal is not connected to the battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj12-l1.qa170" accuracy="correct">There is a gap between the two bulb terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj13-l1.qa204" accuracy="contradictory">it is receiving voltage from the battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj13-l1.qa205" accuracy="contradictory">there is no gap between the battery terminal and the bulb terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj13-l1.qa206" accuracy="incorrect">i don"t know.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj14-l1.qa194" accuracy="contradictory">There is no connection between the bulb terminal and the battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj14-l1.qa196" accuracy="incorrect">jdkjgkfjg</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj15-l1.qa211" accuracy="correct">the terminals went from being connected to not being connected to eachother</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj15-l1.qa212" accuracy="incorrect">leave me alone i got it right</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj15-l1.qa213" accuracy="contradictory">the difference is damged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj15-l1.qa214" accuracy="contradictory">the difference is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj18-l1.qa169" accuracy="correct">There is a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj19-l1.qa225" accuracy="contradictory">it is connected to the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj19-l1.qa226" accuracy="contradictory">the bulb is connected to the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj22-l1.qa194" accuracy="correct">the terminals are not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj23-l1.qa172" accuracy="correct">That is where the bulb is damaged.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj24-l1.qa201" accuracy="contradictory">the terminal is connected to a closed path</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj24-l1.qa202" accuracy="contradictory">terminal is connected to battery and bulb will light</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj24-l1.qa203" accuracy="contradictory">Bulb was damanged when reading was zero, if the reading moves to 1.5, it means you are now at a point in the circuit or path in which there is no gap and the voltage reading is giving the difference in electrical state of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj24-l1.qa205" accuracy="incorrect">wow</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj26-l1.qa208" accuracy="incorrect">ut</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj26-l1.qa209" accuracy="contradictory">the terminal is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj26-l1.qa210" accuracy="correct">bulb is damaged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj27-l1.qa191" accuracy="contradictory">the terminals are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj27-l1.qa192" accuracy="incorrect">i don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj28-l1.qa188" accuracy="incorrect">the the bulb terminal disconnected from the battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj28-l1.qa189" accuracy="incorrect">the terminal is not connected to the battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj28-l1.qa190" accuracy="incorrect">the terminal is separated from the battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj33-l1.qa182" accuracy="contradictory">you are moving from negative to positive</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj33-l1.qa183" accuracy="incorrect">tell me the answer</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj35-l1.qa188" accuracy="contradictory">There was a positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj35-l1.qa189" accuracy="contradictory">The bulb terminal and battery terminal are connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj35-l1.qa190" accuracy="contradictory">The bulb terminal and battery positive or negativeterminal are connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj35-l1.qa191" accuracy="contradictory">The bulb terminal is connected to a positive or negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj36-l1.qa197" accuracy="contradictory">the terminals are connected to each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj37-l1.qa169" accuracy="correct">that bulb is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj38-l1.qa172" accuracy="contradictory">It means that the terminal that you moved to is not connected to the terminal of the battery you are connected to</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj38-l1.qa173" accuracy="contradictory">it means that the terminal is not connected to the battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj39-l1.qa210" accuracy="correct">The terminals are not connected anymore</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj40-l1.qa200" accuracy="correct">The terminals are disconnected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj40-l1.qa202" accuracy="correct">there terminals are separated by a gap when the voltage jumps from 0 to 1.5.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj42-l1.qa187" accuracy="correct">The terminals are not connected to each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj43-l1.qa185" accuracy="correct">that you have found where the connection stops</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj43-l1.qa186" accuracy="correct">that you have found the bulb that is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj45-l1.qa179" accuracy="correct">you have found the gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj46-l1.qa192" accuracy="correct">gap in between</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj47-l1.qa203" accuracy="contradictory">negative to positive terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj47-l1.qa204" accuracy="contradictory">the bulb is connected from a negative terminal to a positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj47-l1.qa205" accuracy="contradictory">the gap jumps from negative to positive</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj47-l1.qa206" accuracy="contradictory">the gap inbetween the terminals tells whether the bulb is connected to a positive or negative terminal</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbj48-l1.qa175" accuracy="correct">that the bulb is damaged</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb2-l1.qa157" accuracy="contradictory">That there is a closed circuit.</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb3-l1.qa168" accuracy="correct">that they are no longer connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb4-l1.qa147" accuracy="correct">the terminals have gone from being connected to each other to not being connected to each other - there is a gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb5-l1.qa156" accuracy="contradictory">the terminals are no longer separated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb6-l1.qa149" accuracy="correct">The bulbs were connected and now they are not.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb7-l1.qa146" accuracy="correct">There"s a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb9-l1.qa162" accuracy="correct">You have reached a point where the terminals are not connected to each other.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb10-l1.qa146" accuracy="correct">that there is a gap and you found the nonfunctional light bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb12-l1.qa152" accuracy="correct">The is a gap between those two terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb13-l1.qa148" accuracy="incorrect">I do not know.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb16-l1.qa148" accuracy="contradictory">it is not the bulb that is damaged</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb17-l1.qa150" accuracy="correct">There is a gap in between the terminals.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb18-l1.qa158" accuracy="contradictory">they are connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb20-l1.qa158" accuracy="contradictory">The terminals are connected.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb21-l1.qa146" accuracy="contradictory">an electrical surge</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb22-l1.qa157" accuracy="contradictory">its connected to both the positive and negative terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb24-l1.qa154" accuracy="contradictory">current is present</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb25-l1.qa151" accuracy="contradictory">You have crossed into opposing terminal territory.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb26-l1.qa147" accuracy="correct">You found the broken bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb27-l1.qa146" accuracy="correct">that is where the gap is in the circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb28-l1.qa151" accuracy="contradictory">the terminals have gone from being connected to not being connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb29-l1.qa150" accuracy="correct">there is a gap between them</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb30-l1.qa151" accuracy="correct">there is a gap at that terminal, and the terminals are not connected at that point.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb31-l1.qa146" accuracy="contradictory">the latest bulb terminal is connected to the battery terminal, while the other is not</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb34-l1.qa146" accuracy="incorrect">There is a difference in electrical states.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb35-l1.qa147" accuracy="contradictory">You are closing the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb36-l1.qa146" accuracy="contradictory">that is where the gab is or the short circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer194" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb37-l1.qa146" accuracy="incorrect">The terminals are connected to the opposite side of the battery</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb38-l1.qa147" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer193" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb39-l1.qa148" accuracy="correct">That there is a gap in the terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb40-l1.qa147" accuracy="correct">That means they are now unconnected.There is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer192" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb41-l1.qa149" accuracy="correct">That when the voltage reading is zero, the terminals are connected, when the voltage reading is 1.5, the terminals are not connected. It jumps from connected to not connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer191" id="FaultFinding-VOLTAGE_AND_GAP_DISCUSS_Q.sbjb42-l1.qa149" accuracy="correct">the bulb is damaged</studentAnswer>
+  </studentAnswers>
+</question>

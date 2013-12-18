@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="VOLTAGE_GAP_EXPLAIN_WHY1" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer154" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS1">Terminal 1 and the positive terminal are separated by the gap</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer155" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS2">Terminal 1 and the positive terminal are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer156" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS3">terminal 1 is connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer157" fileID="VOLTAGE_GAP_EXPLAIN_WHY1_ANS4">terminal 1 is not separated from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer157.NEW" fileID="NONE">terminal 1 and the positive battery terminal are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj7-l1.qa156">there is a gap between terminal 1 and the positive terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj15-l1.qa194">because i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer155" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj18-l1.qa157">Terminal 1 is not connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj34-l1.qa153">The positive terminal has a 1.5 V charge and terminal one has a 0.00 V</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer154" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj35-l1.qa169">There was a gap between terminal 1 and the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj36-l1.qa176">the bulb isnt connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj42-l1.qa168">Terminal 1 is connected to the positive terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbj45-l1.qa160">because the meter measures the difference between the two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb4-l1.qa136">because terminal 1 is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb5-l1.qa145">the leads of the voltmeter were reversed. therefore, the voltages were also reversed.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb24-l1.qa143">because you are measuring the + current</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb26-l1.qa136">Because terminal 1 is connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb35-l1.qa136">Because the voltage of the battery on the closed circuit is the same as the batterys original voltage.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer156" id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY1.sbjb38-l1.qa136">Because terminal 1 was connected to the negative terminal of the battery</studentAnswer>
+  </studentAnswers>
+</question>

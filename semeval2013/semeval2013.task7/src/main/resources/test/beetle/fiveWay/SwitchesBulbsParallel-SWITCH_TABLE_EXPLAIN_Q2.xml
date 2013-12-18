@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="SWITCH_TABLE_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>When switch X was open and switch Y was closed, why were bulbs B and C on?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer322" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS1">Bulb B and Bulb C were still contained in the same closed path with the battery.</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer323" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS2">no path containing both the switch X and either bulb B or bulb C</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer324" fileID="SWITCH_TABLE_EXPLAIN_Q2_ANS3">There is a path with B and C that does not include X</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj36-l2.qa60">bulbs b and c are contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbj45-l2.qa60">Bulbs B and C were still in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer323" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb35-l2.qa56">Becuase the dots allowed bulb A and switch X to be bypassed and still form a closed pathway.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer322" id="SwitchesBulbsParallel-SWITCH_TABLE_EXPLAIN_Q2.sbjb37-l2.qa55">Blub B ab=nd C were still contained in a closed path with the battery</studentAnswer>
+  </studentAnswers>
+</question>

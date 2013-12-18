@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="HYBRID_BURNED_OUT_EXPLAIN_Q1" module="SwitchesBulbsParallel" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer371" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q1_ANS1">If bulb A burns out, B and C are no longer in a closed path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer373" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q1_ANS1B">If bulb A burns out, there is no longer a closed path containing B, C and the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer375" fileID="HYBRID_BURNED_OUT_EXPLAIN_Q1_ANS3">If bulb A burns out, neither B nor C is in a closed path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q1.sbj15-l2.qa123">because the paths will still be closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q1.sbj19-l2.qa123">they are in different paths</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer375" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q1.sbj23-l2.qa103">There is a gap in the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer375" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q1.sbj34-l2.qa112">Bulbs B and C will no longer be contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer375" id="SwitchesBulbsParallel-HYBRID_BURNED_OUT_EXPLAIN_Q1.sbjb35-l2.qa92">becuase bulb a breaks the pathway for all bulbs to the battery.</studentAnswer>
+  </studentAnswers>
+</question>

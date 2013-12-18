@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="PARALLEL_SWITCH_EXPLAIN_Q3" module="SwitchesBulbsParallel" stype="EVALUATE">
+  <questionText>What role does the path play in determining whether or not a switch affects a bulb?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer310" fileID="PARALLEL_SWITCH_EXPLAIN_Q3_ANS1A">If a bulb and a switch are in the same path the switch affects the bulb</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer312" fileID="PARALLEL_SWITCH_EXPLAIN_Q3_ANS3">The switch and the bulb have to be in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj7-l2.qa46" accuracy="correct">if the switch is contained in the path with the bulb, the switch affects the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj7-l2.qa47" accuracy="correct">the switch must be contained in a path with the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj8-l2.qa48" accuracy="incorrect">if it is closed, the bulb will be on. If it is open the bulb will be off</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj8-l2.qa49" accuracy="incorrect">If the switch is open, the path will be closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj8-l2.qa50" accuracy="incorrect">idk</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj9-l2.qa47" accuracy="incorrect">the path must be closed for a bulb to be on.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj9-l2.qa48" accuracy="incorrect">the path must bring the voltage to the bulb.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj9-l2.qa49" accuracy="incorrect">the path must be closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj10-l2.qa49" accuracy="incorrect">the path must be closed with the battery and the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj10-l2.qa50" accuracy="incorrect">the path must contain a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj10-l2.qa51" accuracy="incorrect">a bulb must be contained in a closed path with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj11-l2.qa48" accuracy="incorrect">the bulb has to be conatined in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj12-l2.qa50" accuracy="correct">A switch affects a bulb only on the same path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj12-l2.qa51" accuracy="incorrect">where the switch is in path determines whether it affects the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj12-l2.qa52" accuracy="correct">A bulb is contained in a path with the switch</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj13-l2.qa54" accuracy="incorrect">if it is a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj13-l2.qa55" accuracy="correct">if the switch is contained within the same path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj13-l2.qa56" accuracy="incorrect">if the switch is contained in a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj14-l2.qa47" accuracy="incorrect">If it remains a closed path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj15-l2.qa54" accuracy="incorrect">because the path has to be open</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj15-l2.qa55" accuracy="incorrect">the relationship between the path and the bulb has to be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj15-l2.qa56" accuracy="incorrect">a switch is contained in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj18-l2.qa47" accuracy="incorrect">A switch affects a bulb when it is in a closed path with a battery.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj18-l2.qa48" accuracy="incorrect">I don"t know what else to tell you.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj18-l2.qa49" accuracy="correct">A switch contained in a closed bath with a bulb and a battery will affect the bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj18-l2.qa50" accuracy="correct">A switch contained in a closed path with a bulb and a battery will affect the bulb.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj19-l2.qa60" accuracy="incorrect">the path opens the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj19-l2.qa61" accuracy="incorrect">when the switches are closed the path flows</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj19-l2.qa62" accuracy="incorrect">the bulb is contained in an closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj22-l2.qa49" accuracy="incorrect">if they are closed or open</studentAnswer>
+    <studentAnswer count="2" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj22-l2.qa50" accuracy="incorrect">l</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj23-l2.qa50" accuracy="incorrect">The path has to be closed in order for the bulb to be on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj23-l2.qa51" accuracy="incorrect">The path may not connect a bulb to the switch.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj23-l2.qa52" accuracy="incorrect">The switch determines whether the path is open or closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj23-l2.qa53" accuracy="incorrect">If the path contains the switch, the bulb is affected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj24-l2.qa49" accuracy="incorrect">if the path is open or closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj26-l2.qa48" accuracy="incorrect">the path passes the energy through the switch</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj26-l2.qa49" accuracy="incorrect">the switch is contained in a path and then it is contained in a closed cercuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj26-l2.qa50" accuracy="incorrect">a bulb is contained in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj27-l2.qa49" accuracy="incorrect">if the switch it is in the closed path, then it affects the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj27-l2.qa50" accuracy="correct">if the switch is included in the bulb"s closed path, then the switch being open will affect the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj28-l2.qa50" accuracy="incorrect">battery and bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj28-l2.qa51" accuracy="incorrect">open switch</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj29-l2.qa51" accuracy="incorrect">no role</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj29-l2.qa52" accuracy="incorrect">there is no path when a switch is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj29-l2.qa53" accuracy="incorrect">the path only determines if a bulb is off when the switch is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj29-l2.qa54" accuracy="incorrect">if the bulb is contained within the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj30-l2.qa56" accuracy="incorrect">The path must be closed and contain the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj30-l2.qa57" accuracy="incorrect">The bulb must be in a closed pathway containing the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj30-l2.qa58" accuracy="correct">The switch is contained in the pathway of the bulb and the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj31-l2.qa54" accuracy="incorrect">the path has to be closed for the bulb to light up</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj31-l2.qa55" accuracy="incorrect">fuck you</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj31-l2.qa56" accuracy="incorrect">i dont know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj33-l2.qa54" accuracy="incorrect">if the path is closed with the battery, the switch doesnt affect it</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj33-l2.qa55" accuracy="incorrect">tell answer</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj34-l2.qa56" accuracy="incorrect">The switch is contained in the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj35-l2.qa55" accuracy="incorrect">If there is an open switch in the path, the bulb will not be on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj35-l2.qa56" accuracy="correct">The bulb is contained in a path with an open switch</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj36-l2.qa46" accuracy="correct">if the bulb is on the same path as the switch</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj36-l2.qa48" accuracy="correct">the switch affects the bulb if it is on the same path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj37-l2.qa46" accuracy="incorrect">bulbs will be affected by switches that are in the path to the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj37-l2.qa47" accuracy="incorrect">bulbs will be affected by switches that are in the path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj39-l2.qa59" accuracy="incorrect">If the path is not closed, the switch will not affect the bbulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj39-l2.qa60" accuracy="incorrect">The path has to be closed in order for a switch to affect a bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj39-l2.qa61" accuracy="incorrect">If the switch is open, the path is not closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj40-l2.qa54" accuracy="incorrect">if a path is connected to an oen switch, the bulb will be off.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj40-l2.qa55" accuracy="incorrect">if the path is connected to an open switch, the bulb will be off.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj40-l2.qa56" accuracy="incorrect">i give up.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj42-l2.qa50" accuracy="incorrect">If the path is not closed then a bulb will not be on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj42-l2.qa51" accuracy="incorrect">The path must be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj43-l2.qa46" accuracy="incorrect">the path has to be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj43-l2.qa47" accuracy="correct">the switch has to be within a closed path with the bulb and battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj45-l2.qa47" accuracy="incorrect">it can be either closed or open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj45-l2.qa48" accuracy="incorrect">the switch being open or closed determines if the path is closed or not</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj46-l2.qa55" accuracy="incorrect">bulbs must be in a closed path with the battery in order to work</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj46-l2.qa56" accuracy="incorrect">bulb is contained in closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj46-l2.qa57" accuracy="incorrect">switch is closed to make a closed path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj47-l2.qa54" accuracy="incorrect">it depends on whether its an open or closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj47-l2.qa55" accuracy="incorrect">the switch has to be located within a closed path for the bulb to go on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj48-l2.qa49" accuracy="correct">A switch will affect the bulb if they are contained in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj48-l2.qa50" accuracy="correct">A switch will affect any bulb that is in the same path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbj48-l2.qa51" accuracy="correct">A bulb with an open switch in it"s path cannot turn on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb1-l2.qa44" accuracy="correct">The bulb has to be in the same closed path as the battery which is connected to the switch.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb2-l2.qa45" accuracy="incorrect">It determines whether or not the light bulbs will turn on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb4-l2.qa44" accuracy="incorrect">the path a bulb is on determines whether or not a switch affects a bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb5-l2.qa44" accuracy="incorrect">a switch must be closed to create a closed path circuit. a bulb will turn on if it is on a closed path. a bulb will not turn on if it is on an open circuit or if a switch is open.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb6-l2.qa44" accuracy="incorrect">The path determines if the bulb will turn on or not</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb7-l2.qa44" accuracy="incorrect">Path must be complete for bulb to be on. If switch is open, it breaks the path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb9-l2.qa44" accuracy="incorrect">The path to the battery must be closed, so the switch must be closed in order for the bulb to be on.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb10-l2.qa44" accuracy="incorrect">if there is a closed path the light bulb will light and if it is cut off it will not light</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb12-l2.qa44" accuracy="incorrect">the path must be closed in order for the bulb to be lit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb13-l2.qa44" accuracy="incorrect">A closed path with a battery enables the bulb to be on.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb15-l2.qa44" accuracy="incorrect">depends on whether it is before or after the bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb16-l2.qa44" accuracy="incorrect">a large one, if it is closed it will light up but if it is open it will not</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb18-l2.qa44" accuracy="incorrect">it does</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb19-l2.qa44" accuracy="incorrect">it closes the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb20-l2.qa44" accuracy="incorrect">When switch is open it creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb21-l2.qa44" accuracy="incorrect">if a path has an open ciricuit, all bulbs on the path will be off</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb22-l2.qa44" accuracy="incorrect">if the switch is in the path is can affect the light bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb24-l2.qa47" accuracy="incorrect">if the path is open the bulb will be off</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb26-l2.qa44" accuracy="incorrect">If the path contains is closed with a battery, the bulb will light up.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb27-l2.qa44" accuracy="incorrect">if a switch is not in a bulbs closed circuit then it will not affect the bulb</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb28-l2.qa44" accuracy="incorrect">Energy flows through the path so if there"s a gap, there"s no energy</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb30-l2.qa44" accuracy="correct">if the switch is contained in the same path as the bulb and battery, it must be closed for the bulb to be connected.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb31-l2.qa44" accuracy="correct">if the switch is in a closed path with the lightbulb it must be closed for the lightbulb to be on</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb32-l2.qa44" accuracy="incorrect">If a switch is connected to a bulb it will still work.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb34-l2.qa45" accuracy="incorrect">A bulb in a closed path is not affected if the switch is closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb35-l2.qa45" accuracy="incorrect">If the path is unbroken by the switch then the switch will not have an affect</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb36-l2.qa44" accuracy="incorrect">it the switch is blocking the battery it effects it if not then it doesnt matter.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb37-l2.qa44" accuracy="incorrect">I don"t know</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb38-l2.qa44" accuracy="incorrect">If the switch is in front of the path of a light bulb or not.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb39-l2.qa44" accuracy="incorrect">if the path is closed, the bulbs will remain on.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer310" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb41-l2.qa45" accuracy="incorrect">If the path is directly connected to the battery, then the switch affects a bulb.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer312" id="SwitchesBulbsParallel-PARALLEL_SWITCH_EXPLAIN_Q3.sbjb42-l2.qa44" accuracy="correct">the switch has to be contained in the same path as the bulb and the battery</studentAnswer>
+  </studentAnswers>
+</question>

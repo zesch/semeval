@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="BULB_ONLY_EXPLAIN_WHY6" module="FaultFinding" stype="EVALUATE">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer240" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS1">Terminals 1 and 6 are separated by the gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer241" fileID="BULB_C_VOLTAGE_EXPLAIN_WHY6_ANS2">Terminals 1 and 6 are not connected</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer242" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS3">Terminals 1 and 6 are not connected and so in different electrical states</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer243" fileID="BULB_ONLY_EXPLAIN_WHY6_ANS4">There is a gap between terminals 1 and 6</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer243.NEW" fileID="NONE">Terminals 1 and 6 are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="4" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj3-l1.qa211" accuracy="correct">there is a gap between terminal 1 and terminal 6</studentAnswer>
+    <studentAnswer count="3" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj7-l1.qa202" accuracy="correct">they are not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj8-l1.qa247" accuracy="correct">they are seperated by a gap from bulb C</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj8-l1.qa248" accuracy="correct">they are seperated by a gap</studentAnswer>
+    <studentAnswer count="9" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj9-l1.qa206" accuracy="correct">terminal 1 is not connected to terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj10-l1.qa234" accuracy="incorrect">terminal one is seperated from terminal six</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj10-l1.qa235" accuracy="incorrect">terminal one is connected to the positve battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj10-l1.qa236" accuracy="correct">terminal one is not connected to terminal six</studentAnswer>
+    <studentAnswer count="10" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj11-l1.qa229" accuracy="correct">terminal 1 is not connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj12-l1.qa200" accuracy="correct">The terminal 1 is seperated from terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj12-l1.qa201" accuracy="incorrect">Terminal 6 is connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj13-l1.qa242" accuracy="incorrect">there is a gap between the positive battery terminal and terminal 1 and terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj14-l1.qa228" accuracy="correct">Because terminal 1 is not connected to terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj15-l1.qa250" accuracy="correct">because there is a gap in the connection between terminal 1 and terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj19-l1.qa269" accuracy="incorrect">terminal is connected to terminal 6</studentAnswer>
+    <studentAnswer count="6" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj19-l1.qa270" accuracy="incorrect">terminal 1 is connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj19-l1.qa271" accuracy="incorrect">terminal 6 is connected to terminal 1</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj19-l1.qa272" accuracy="incorrect">terminal 6 has  gap</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj22-l1.qa233" accuracy="incorrect">l</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer242" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj24-l1.qa249" accuracy="incorrect">difference in electrial state</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj24-l1.qa250" accuracy="incorrect">terminal 6 is connected to postive terminal of battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj27-l1.qa226" accuracy="incorrect">there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj27-l1.qa229" accuracy="correct">the terminals are separated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj30-l1.qa212" accuracy="incorrect">because there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj30-l1.qa213" accuracy="incorrect">connected to positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj30-l1.qa214" accuracy="incorrect">positve battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj31-l1.qa220" accuracy="incorrect">terminal 1 is connected to the negative terminal and terminal 6 is connected to the positive terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj31-l1.qa221" accuracy="incorrect">terminal 1 is connected to the negative battery terminal and terminal 6 is connected to the positive battery terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj34-l1.qa204" accuracy="correct">The terminals are not connected</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj35-l1.qa227" accuracy="incorrect">Terminal 1 was connected to a positive terminal 6.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj35-l1.qa228" accuracy="incorrect">Terminal 1 was connected to a positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj36-l1.qa233" accuracy="correct">terminals 1 and 6 are seperated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj42-l1.qa235" accuracy="incorrect">A terminal is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj42-l1.qa236" accuracy="incorrect">A terminal is not connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj42-l1.qa237" accuracy="incorrect">A terminal is not connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj43-l1.qa217" accuracy="correct">terminal 1 and terminal 6 are seperated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj45-l1.qa211" accuracy="correct">a gap separates terminal 1 from terminal 6</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj46-l1.qa227" accuracy="correct">terminal 1 is seperate from terminal 6</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj46-l1.qa228" accuracy="incorrect">terminal 1 is conected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj46-l1.qa229" accuracy="incorrect">terminal 1 is connected to negative</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbj48-l1.qa204" accuracy="correct">because they are separated by a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb1-l1.qa182" accuracy="incorrect">Terminal 6 is connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb4-l1.qa177" accuracy="correct">there is a gap between them - not connected</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb5-l1.qa185" accuracy="incorrect">terminal 6 is connected to the positive terminal of the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb6-l1.qa178" accuracy="correct">Terminal one is not connected to terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb7-l1.qa175" accuracy="incorrect">there"s a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb10-l1.qa175" accuracy="incorrect">because there is a positive and negative connections</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb11-l1.qa181" accuracy="correct">There is a gap between the two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb16-l1.qa177" accuracy="incorrect">they are connected to different terminals</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb19-l1.qa180" accuracy="incorrect">it closes the circuit</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb21-l1.qa176" accuracy="incorrect">1s connected to 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb22-l1.qa186" accuracy="correct">there is a gap seperating terminal 1 from terminal 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb24-l1.qa183" accuracy="incorrect">connected tpo positive sie= circuit complete</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb25-l1.qa180" accuracy="correct">Because they are not connected within the same terminal.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb26-l1.qa176" accuracy="correct">There is a gap between terminal 1 and terminal 6.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb27-l1.qa175" accuracy="correct">there is a gap between terminals 1 and 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer241" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb29-l1.qa179" accuracy="correct">terminal 1 and terminal 6 are not connected, there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb31-l1.qa175" accuracy="correct">because there is a gap between terminal 1 and terminal 6.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb35-l1.qa176" accuracy="incorrect">Because terminal 1 and 6 are connceted to the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb36-l1.qa175" accuracy="incorrect">Terminal 1 is connected to terminal 6 which is on the other side of the short circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb40-l1.qa176" accuracy="correct">There is a gap between 1 and 6</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer243" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb41-l1.qa178" accuracy="correct">Terminal 1 is not connected to terminal 6 because there is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer240" id="FaultFinding-BULB_ONLY_EXPLAIN_WHY6.sbjb42-l1.qa178" accuracy="correct">they are separated by a gap.</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="DESCRIBE_GAP_LOCATE_PROCEDURE_Q" module="FaultFinding" stype="QUESTION" qtype="Q_EXPLAIN_GENERIC">
+  <questionText>Finally, consider finding a burned out light bulb in a long string of lights. One approach would be to place one lead of the multimeter on a battery terminal and then move the other lead systematically, one light bulb terminal at a time. How would you know when you have found the burned out bulb?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer263" fileID="DESCRIBE_GAP_LOCATE_PROCEDURE_Q_ANS1">When there is a change in voltage you have found the damaged bulb</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer265" fileID="DESCRIBE_GAP_LOCATE_PROCEDURE_Q_ANS3">the bulb with non-zero voltage reading between two terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj3-l1.qa223" answerMatch="answer263" count="1">when the reading of the multimeter changes</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj7-l1.qa212" answerMatch="answer263" count="1">the voltage would change</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj8-l1.qa260" count="1">0 v</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj8-l1.qa261" count="1">when the meter reads that it has 0 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj8-l1.qa262" answerMatch="answer263" count="3">there is a change in voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj9-l1.qa219" answerMatch="answer263" count="1">There will be a difference between voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj9-l1.qa220" answerMatch="answer263" count="1">There will be an electrical state change between two terminals.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj9-l1.qa221" answerMatch="answer263" count="1">there will be a change in voltage between two terminals.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj10-l1.qa250" answerMatch="answer263" count="1">when the multimeter measures 0 volts</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj11-l1.qa240" answerMatch="answer263" count="1">where the voltage changes</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj11-l1.qa241" answerMatch="answer263" count="1">there is a change in the voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj12-l1.qa213" answerMatch="answer263" count="1">When the voltage indicates the place where an electrical state changes due to a damaged bulb</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj12-l1.qa214" answerMatch="answer265" count="1">voltage indicates the place where an electrical state changes from non-zero to zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj13-l1.qa254" count="1">there would be 0.00 v</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj13-l1.qa255" count="1">there would be a reading of 0.00 v between the positive battery terminal and the bulb terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj13-l1.qa256" answerMatch="answer263" count="1">there is a change in voltage between the battery terminal and the bulb terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj14-l1.qa239" count="1">when the voltage reads 0.00 v</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj14-l1.qa240" count="1">0.00 v</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj14-l1.qa241" count="1">the voltage is 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj15-l1.qa264" count="1">because the voltage will be 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj18-l1.qa208" answerMatch="answer263" count="1">When the voltage reading changes from 0 V to 1.5 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj18-l1.qa209" answerMatch="answer263" count="1">You have found the burned out bulb when the voltage reading changes.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj19-l1.qa286" answerMatch="answer263" count="1">by measuring the voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj19-l1.qa288" answerMatch="answer263" count="1">the voltage will indicate where the electrical state has changed due to the damaged bulb</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj22-l1.qa247" count="1">by testing the voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj22-l1.qa248" count="1">read the voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj22-l1.qa249" count="1">l</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj23-l1.qa214" answerMatch="answer263" count="1">You would have a voltage measurement.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj23-l1.qa215" answerMatch="answer263" count="1">There would be a measurement of voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj23-l1.qa216" answerMatch="answer263" count="1">There would be a voltage reading where the bulb is burned out.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj23-l1.qa217" answerMatch="answer263" count="1">There is a change in electrical states.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj24-l1.qa263" count="1">reading would be zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj24-l1.qa264" count="2">voltage would be 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj26-l1.qa263" count="1">when the voltage shows 0.00v on the meter</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj26-l1.qa264" count="1">when the voltage shows 0 in the meter that is connected to the terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj26-l1.qa265" answerMatch="answer263" count="1">there is a change in voltage on the meter from the terminals</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj27-l1.qa241" answerMatch="answer263" count="1">there would be a voltage reading</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj27-l1.qa242" answerMatch="answer265" count="1">the voltage would not be 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj28-l1.qa240" answerMatch="answer263" count="2">there would be a change in voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj29-l1.qa232" count="1">when the multimeter reads a voltage of 0 v</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj29-l1.qa233" count="1">dont know</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj29-l1.qa234" answerMatch="answer263" count="1">when the multimeter reads a change in electrical state</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj29-l1.qa235" answerMatch="answer263" count="1">when the multimeter reads a change in voltage to non-zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj30-l1.qa227" answerMatch="answer263" count="2">When there is a difference in voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj30-l1.qa228" answerMatch="answer263" count="3">When the voltage changes</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj31-l1.qa234" count="3">i dont know</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj33-l1.qa224" count="1">it will be the first to have a 0.00 V level</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj33-l1.qa225" count="1">tell answer</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj35-l1.qa241" count="1">Yes.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj35-l1.qa242" count="1">If the bulb was off.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj35-l1.qa243" count="1">If the bulb indicating a break in the voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj36-l1.qa245" answerMatch="answer263" count="1">when the electrical state changes</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj37-l1.qa215" answerMatch="answer263" count="1">when the electrical state changed</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj38-l1.qa219" answerMatch="answer265" count="1">when the multimeter reads a non-zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj38-l1.qa220" answerMatch="answer263" count="1">When you find the damaged bulb the multimeter will read something other than zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj39-l1.qa262" answerMatch="answer265" count="1">when the reading becomes 1.50 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj39-l1.qa263" count="1">?</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj39-l1.qa264" answerMatch="answer263" count="1">the voltage number changes to 0.0 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj40-l1.qa257" count="1">the voltage will be 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj40-l1.qa259" count="1">i give up.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj42-l1.qa250" count="1">When the voltage is 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj42-l1.qa251" count="1">The bulb has a bad connection</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj43-l1.qa230" answerMatch="answer263" count="1">the volts would no longer be at zero</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj43-l1.qa231" count="1">the bulb would work</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj46-l1.qa244" count="1">voltage would be 1.5</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj47-l1.qa256" count="1">is the voltage is 0.00 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj47-l1.qa257" count="1">if the voltage is 0.00 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj48-l1.qa214" answerMatch="answer263" count="1">When the reading jumps from 0 to 1.5 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj48-l1.qa215" answerMatch="answer265" count="1">When the reading on the multimeter is not 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbj48-l1.qa216" answerMatch="answer263" count="1">When there is a change in the voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb1-l1.qa188" answerMatch="answer263" count="1">When you receive a meter reading of 0 volts.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb2-l1.qa192" count="1">The voltage reading will be 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb3-l1.qa204" count="1">It wont light up?</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb4-l1.qa183" answerMatch="answer265" count="1">when the multimeter reads a voltage other than 0v.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb5-l1.qa191" answerMatch="answer265" count="1">the reading on the voltmeter would no longer b3 0.0 volts</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb6-l1.qa184" answerMatch="answer263" count="1">When the voltage changes from 0 to 1.5</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb7-l1.qa181" answerMatch="answer265" count="1">When the voltage is greater than 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb9-l1.qa197" answerMatch="answer263" count="1">The meter will show a difference in voltage between the battery terminal and the light bulb terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb10-l1.qa181" answerMatch="answer263" count="1">when the multimeter jumps from 0 to 1.5 volts</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb11-l1.qa187" answerMatch="answer263" count="1">When there is a change in voltage meter</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb12-l1.qa187" answerMatch="answer263" count="1">when the voltage measures 1.5 volts</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb13-l1.qa183" answerMatch="answer263" count="1">When the voltage changes from 1.5 to 0.0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb15-l1.qa183" count="1">when you find voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb16-l1.qa183" answerMatch="answer263" count="1">the voltage would vary</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb17-l1.qa185" answerMatch="answer263" count="1">When you register a voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb18-l1.qa194" count="1">idk</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb19-l1.qa186" answerMatch="answer263" count="1">when you find the terminal that is not connected</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb20-l1.qa194" count="1">Where there is a 0.0 voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb21-l1.qa182" answerMatch="answer263" count="1">the voltage will change</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb22-l1.qa192" count="1">it has no voltage</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb24-l1.qa189" count="1">when it reads 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb25-l1.qa186" count="1">You will get a reading of 0.00 voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb26-l1.qa182" answerMatch="answer263" count="1">When I observe a change in the voltage.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb27-l1.qa181" answerMatch="answer265" count="1">when the multimeter shows a difference in volts between the two terminals</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb28-l1.qa186" answerMatch="answer263" count="1">when you have a charge other than 0 V</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb29-l1.qa185" answerMatch="answer263" count="1">when the voltages changes to zero at a specific terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb30-l1.qa188" answerMatch="answer263" count="1">the voltage would change, showing a gap where the burned out bulb is.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb32-l1.qa185" count="1">When the voltage changes to 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb34-l1.qa181" answerMatch="answer263" count="1">When the voltage jumps from 1.5 to 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb35-l1.qa183" answerMatch="answer265" count="1">When the meter has a voltage reading other than 0.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb36-l1.qa181" answerMatch="answer263" count="1">depeneding on if you hook the meter to the positive or negative side it would change to either have volts or not where ever the change is shows where the damaged bulb is.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb37-l1.qa181" answerMatch="answer263" count="1">The meter will read 0 volts</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb38-l1.qa182" answerMatch="answer265" count="1">Voltage will be indicated on the voltmeter.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb39-l1.qa184" answerMatch="answer263" count="1">When the voltage changes.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb40-l1.qa182" answerMatch="answer263" count="1">the burned out light bulb would be when there is a difference inthe electrical states.</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb41-l1.qa184" answerMatch="answer263" count="1">The voltage would be 0</studentAnswer>
+    <studentAnswer id="FaultFinding-DESCRIBE_GAP_LOCATE_PROCEDURE_Q.sbjb42-l1.qa184" answerMatch="answer263" count="1">when the voltage is greater than zero, or when the electrical state has changed.</studentAnswer>
+  </studentAnswers>
+</question>

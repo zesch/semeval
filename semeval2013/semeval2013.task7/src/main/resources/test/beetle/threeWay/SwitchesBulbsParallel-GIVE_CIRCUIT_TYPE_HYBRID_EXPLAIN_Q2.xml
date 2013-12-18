@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2" module="SwitchesBulbsParallel" stype="QUESTION">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer423" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS1">A and C are in different paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer424" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS2">A and C are not in the same path with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer425" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS3">A and C are in different paths</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer426" fileID="GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2_ANS4">A and C are not in the same path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj18-l2.qa134">bulbs a and c are in separate closed paths with the battery</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj19-l2.qa174">bulb c is contained in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer423" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbj33-l2.qa143">bulbs A and C are on different baths with the battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer425" id="SwitchesBulbsParallel-GIVE_CIRCUIT_TYPE_HYBRID_EXPLAIN_Q2.sbjb36-l2.qa122">they are in different closed paths and dont effect each other</studentAnswer>
+  </studentAnswers>
+</question>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" qtype="Q_EXPLAIN_SPECIFIC" id="BURNED_BULB_PARALLEL_EXPLAIN_Q3" module="SwitchesBulbsParallel" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer358" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q3_ANS1">bulbs A and B are still in closed paths with the battery</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer359" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q3_ANS1_OLD">bulbs A and B are in a closed path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer360" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q3_ANS2">each bulb is in its own path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer361" fileID="BURNED_BULB_PARALLEL_EXPLAIN_Q3_ANS3">Bulb C is in a separate path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbj15-l2.qa110">because the terminal will be closed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer359" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbj36-l2.qa90">there is still a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer361" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbj38-l2.qa89">bulb c is not in the same path as bulb a or bulb b so the gap in the path does not affect bulb a or bulb b</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer358" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbj40-l2.qa101">bulbs a and b are still contained in a closed path with the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer359" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbjb6-l2.qa80">A and B are still in a closed circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer360" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbjb29-l2.qa81">because each bulb has its own pathway</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer358" id="SwitchesBulbsParallel-BURNED_BULB_PARALLEL_EXPLAIN_Q3.sbjb31-l2.qa80">because they will still be in a closed circuit with the battery</studentAnswer>
+  </studentAnswers>
+</question>

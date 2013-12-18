@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<question testSet="unseen-questions" id="VOLTAGE_GAP_EXPLAIN_WHY2" module="FaultFinding" stype="EVALUATE" qtype="Q_EXPLAIN_SPECIFIC">
+  <questionText>Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer158" fileID="VOLTAGE_GAP_EXPLAIN_WHY2_ANS1">Terminal 2 and the positive terminal are separated by the gap</referenceAnswer>
+    <referenceAnswer category="BEST" id="answer159" fileID="VOLTAGE_GAP_EXPLAIN_WHY2_ANS2">Terminal 2 and the positive terminal are not connected</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer160" fileID="VOLTAGE_GAP_EXPLAIN_WHY2_ANS3">terminal 2 is connected to the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer161" fileID="VOLTAGE_GAP_EXPLAIN_WHY2_ANS4">terminal 2 is not separated from the negative battery terminal</referenceAnswer>
+    <referenceAnswer category="MINIMAL" id="answer161.NEW" fileID="NONE">terminal 2 and the positive battery terminal are in different electrical states</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj3-l1.qa165" answerMatch="answer158" count="1">positive battery terminal is separated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj7-l1.qa157" answerMatch="answer158" count="1">there is a gap between terminal 2 and the positive terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj8-l1.qa185" answerMatch="answer158" count="1">the positive battery is seperated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj8-l1.qa186" answerMatch="answer158" count="6">The positive battery terminal is seperated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj9-l1.qa158" answerMatch="answer160" count="1">terminal 2 is connected to the negative battery terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj11-l1.qa186" answerMatch="answer158" count="12">the positive battery terminal is separated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj12-l1.qa155" answerMatch="answer158" count="11">The positive battery terminal is separated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj13-l1.qa182" count="3">the positive battery terminal is separated by a gap from terminal 1.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj13-l1.qa183" count="1">i don"t know.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj14-l1.qa179" answerMatch="answer158" count="1">Because the positive battery is seperated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj14-l1.qa180" answerMatch="answer158" count="6">The positive battery terminal is seperated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj15-l1.qa196" answerMatch="answer158" count="1">the positivie battery terminal is seperated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj18-l1.qa158" answerMatch="answer159" count="1">Terminal 2 is not connected to the positive battery terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj19-l1.qa202" count="1">there is no gap</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj19-l1.qa203" answerMatch="answer158" count="1">the positive battery is seperated by terminal 1</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj19-l1.qa204" answerMatch="answer158" count="1">its seperated by the gap in ternam 1</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj19-l1.qa205" answerMatch="answer158" count="1">termainal2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj24-l1.qa173" answerMatch="answer158" count="1">circuit was complete until gap</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj24-l1.qa174" answerMatch="answer158" count="1">gap in bulb b</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj24-l1.qa175" count="1">I got a reading of 1.5 V on terminal 2 because the circuit was complete however there is a gap in bulb B, which explains why the rest of the terminals after 3 all showed 0 V readings</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj24-l1.qa176" answerMatch="answer158" count="1">the terminals are seperated by a gap</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj31-l1.qa169" answerMatch="answer160" count="1">terminal two is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj34-l1.qa156" answerMatch="answer158" count="1">There is a gap between the positive terminal and terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj35-l1.qa170" count="1">There was a gap between terminal 1 and the positive terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj35-l1.qa171" answerMatch="answer158" count="1">There was a gap between terminal 2 and the positive terminal.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj36-l1.qa177" count="1">the positive terminal is separated by a gap from terminal 1</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj36-l1.qa178" answerMatch="answer158" count="1">the positive terminal is separated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj37-l1.qa154" answerMatch="answer158" count="1">the postive battery is seperated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj39-l1.qa183" answerMatch="answer158" count="1">Because the gap is after terminal 3</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj39-l1.qa184" count="1">because</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj39-l1.qa185" answerMatch="answer158" count="1">Because there is a gap after terminal 3</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj39-l1.qa186" count="1">There is no gap at terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj40-l1.qa183" count="1">the positive battery terminal is separated from terminal 1.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj40-l1.qa184" answerMatch="answer160" count="1">the terminal is connected to the battery.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj40-l1.qa185" answerMatch="answer159" count="1">terminal to is not connected to the battery.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj46-l1.qa174" count="1">positive battery terminal is seperated by a gap from terminal 1</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj46-l1.qa176" count="1">positive and negative is seperate</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj47-l1.qa189" answerMatch="answer159" count="1">terminal 2 is not connected to the positive terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbj48-l1.qa158" answerMatch="answer158" count="1">because the positive terminal is separated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb2-l1.qa147" answerMatch="answer158" count="1">The posotive battery terminal is seperated b a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb4-l1.qa137" answerMatch="answer158" count="1">there is a gap</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb6-l1.qa139" count="1">The positive battery terminal is seperated by a gap from terminal 1.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb7-l1.qa136" answerMatch="answer158" count="1">There"s a gap</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb10-l1.qa136" count="1">for the same reason as one</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb11-l1.qa139" answerMatch="answer158" count="1">The positive battery terminal is separted by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb15-l1.qa138" answerMatch="answer158" count="1">because there is a gap between the terminal 2 and the positive battery</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb16-l1.qa138" answerMatch="answer158" count="1">it was seperated by a gap from teriminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb17-l1.qa140" answerMatch="answer158" count="1">the positive battery terminal is searated by a gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb18-l1.qa148" count="1">The positive terminal is working.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb20-l1.qa148" count="1">The positive terminal is separated by a gap from terminal 1.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb21-l1.qa136" count="1">sperated by a gap in terminal 1</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb22-l1.qa147" answerMatch="answer158" count="1">the positive battery terminal is seperated by a gap from the bulb</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb25-l1.qa141" count="1">Because it was attatched to the positive terminal!</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb26-l1.qa137" answerMatch="answer158" count="1">The positive batter terminal is seperated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb27-l1.qa136" answerMatch="answer160" count="1">terminal 2 is connected to the negative battery terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb29-l1.qa140" answerMatch="answer158" count="1">the positive battery terminal is sepearted by a  gap from terminal 2</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb30-l1.qa141" answerMatch="answer158" count="1">the positive battery is seperated by a gap from terminal 2.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb35-l1.qa137" count="1">Because there are not gaps in the system from  the - to the bulb then from terminal 2 to the + of the battery.</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb38-l1.qa137" answerMatch="answer160" count="1">Terminal 2 was connected to the negative terminal</studentAnswer>
+    <studentAnswer id="FaultFinding-VOLTAGE_GAP_EXPLAIN_WHY2.sbjb41-l1.qa139" answerMatch="answer158" count="1">The positive battery terminal is seperated by a ga from Terminal 2.</studentAnswer>
+  </studentAnswers>
+</question>

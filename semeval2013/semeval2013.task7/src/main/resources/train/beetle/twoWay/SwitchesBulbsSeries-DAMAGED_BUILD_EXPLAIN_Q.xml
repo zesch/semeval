@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_SPECIFIC" id="DAMAGED_BUILD_EXPLAIN_Q" module="SwitchesBulbsSeries" stype="PREDICT">
+  <questionText>Explain your reasoning.</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer55" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS1">bulb B creates a gap</referenceAnswer>
+    <referenceAnswer category="KEYWORD" id="answer56" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS2">a gap</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer57" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS3">there is a gap in a circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer58" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS4">there is an open path</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer59" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS5">there is an incomplete circuit</referenceAnswer>
+    <referenceAnswer category="GOOD" id="answer60" fileID="DAMAGED_BUILD_EXPLAIN_Q_ANS6">there is no closed path</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj3-l1.qa88" accuracy="correct">there will be a gap at bulb b, thus affecting the rest of the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj3-l1.qa89" accuracy="correct">if bulb b is damaged there will be a gap in the path at that bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj7-l1.qa85" accuracy="correct">if bulb b is off there will be a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj8-l1.qa107" accuracy="incorrect">The bulb does not effect the others</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj8-l1.qa108" accuracy="incorrect">bulb B does not effect the other bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj9-l1.qa83" accuracy="correct">If bulb b is damaged, then the circuit will be incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj10-l1.qa104" accuracy="correct">there is a gap in the connection</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj11-l1.qa108" accuracy="correct">the damaged bulb creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj12-l1.qa80" accuracy="correct">There will be a gap in the path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj13-l1.qa100" accuracy="incorrect">there is no path through the connection of bulb b.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj13-l1.qa101" accuracy="incorrect">there is no path through bulb b.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj14-l1.qa97" accuracy="correct">If bulb B is damaged a gap is created.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj15-l1.qa118" accuracy="correct">actually bulbs a and c will be off because the path will no longer be cloed</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj18-l1.qa87" accuracy="correct">There will be a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj19-l1.qa111" accuracy="incorrect">there is no path for the other bulbs</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj19-l1.qa112" accuracy="incorrect">A and B are off</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj22-l1.qa102" accuracy="incorrect">there will be a gap between bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj22-l1.qa103" accuracy="incorrect">there will be a gap between the bulbs</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj23-l1.qa88" accuracy="correct">There will be a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer56" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj24-l1.qa95" accuracy="correct">gap in bulb b</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer56" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj24-l1.qa96" accuracy="correct">bulb B has a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj27-l1.qa95" accuracy="correct">there is a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer58" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj28-l1.qa95" accuracy="incorrect">there is no path between the bulb-holders</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj28-l1.qa96" accuracy="incorrect">there is no path</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj28-l1.qa97" accuracy="incorrect">there is no path between the bulbs</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj29-l1.qa100" accuracy="correct">damaged bulb b creates a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj30-l1.qa87" accuracy="correct">There is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj31-l1.qa90" accuracy="correct">the path is not closed anymore</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj33-l1.qa87" accuracy="correct">if bulb B is damaged, the path will have a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj34-l1.qa81" accuracy="incorrect">If bulb B is damaged, there is no path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj34-l1.qa82" accuracy="incorrect">There is no path through bulb B</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj35-l1.qa90" accuracy="correct">There will be a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj36-l1.qa92" accuracy="correct">there is a gap in the closed path</studentAnswer>
+    <studentAnswer count="2" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj37-l1.qa81" accuracy="correct">there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj38-l1.qa83" accuracy="correct">if bulb B is damaged there will be a gap in the curcuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj39-l1.qa102" accuracy="incorrect">?</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj39-l1.qa103" accuracy="correct">They will not be on because it will cause a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj40-l1.qa99" accuracy="correct">if bulb b is damaged, it creates a gap in the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj42-l1.qa97" accuracy="correct">The path will not be closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj43-l1.qa94" accuracy="correct">if bulb b is damaged it does not make a complete circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj43-l1.qa95" accuracy="correct">when bulb b is damaged there is no complete circut</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj45-l1.qa83" accuracy="correct">there will be a gap</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj46-l1.qa96" accuracy="incorrect">distrupt the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj47-l1.qa102" accuracy="incorrect">Because the path connecting the bulbs will be damaged</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj47-l1.qa107" accuracy="incorrect">the holder of the bulb will damage the other bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj48-l1.qa84" accuracy="correct">because if bulb b is damaged, then there is no path through the bulb, creating an incomplete circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbj48-l1.qa85" accuracy="correct">if bulb b is damaged, then the path will have a gap.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb1-l1.qa71" accuracy="incorrect">It still has a connect path between bulb a and c and the battery.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer58" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb3-l1.qa86" accuracy="incorrect">They are connected to the battery not each other</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb4-l1.qa71" accuracy="correct">when the bulb is burnt it creates a gap in the closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb5-l1.qa81" accuracy="incorrect">there will be a gap at bulb b. this will create an open circuit.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb6-l1.qa71" accuracy="incorrect">Because they are breaking the circuit.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb7-l1.qa71" accuracy="correct">There will not be a closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer58" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb9-l1.qa74" accuracy="correct">The path between the bulbs and the battery is open</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb10-l1.qa71" accuracy="correct">because there is no connection so the path is not closed</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb11-l1.qa73" accuracy="incorrect">A damaged bulb does not create a gap in a closed path</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb12-l1.qa74" accuracy="correct">If bulb B is damaged there is a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb13-l1.qa72" accuracy="correct">If buld B is damaged that will create a gap.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb15-l1.qa73" accuracy="incorrect">Maybe because there is still one path that connects A and C through B</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb16-l1.qa73" accuracy="correct">There will be a gap where the bulb holder is supposed to be</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb17-l1.qa73" accuracy="correct">Burned out bulb B will cause a gap in the closed path.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb18-l1.qa80" accuracy="correct">Because there is a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb19-l1.qa76" accuracy="incorrect">because there is a gap in the bulb</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb21-l1.qa71" accuracy="incorrect">it will cut off the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb25-l1.qa73" accuracy="incorrect">I"m not sure.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer60" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb26-l1.qa71" accuracy="incorrect">If bulb B is damaged, then the circut is no longer closed.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb27-l1.qa71" accuracy="correct">bulb B becomes a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb28-l1.qa75" accuracy="incorrect">The bulbs aren"t codependent so they will still be on</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb29-l1.qa74" accuracy="correct">there would be a gap in the circuit</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb30-l1.qa71" accuracy="correct">the gap between the damaged wires of bulb b creates a gap in the path.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb31-l1.qa71" accuracy="incorrect">the current will flow to the other bulbs even though it is not able to execute light on B. Also, I"ve experienced that one light can be out without them all being affected.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb32-l1.qa73" accuracy="correct">Because their is a gap between A and C now.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb34-l1.qa71" accuracy="incorrect">When bulb B is damaged there is a disruption in the current.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb36-l1.qa71" accuracy="incorrect">if it is not connected the electrical current can"t pass through to connect the other bulbs.</studentAnswer>
+    <studentAnswer count="1" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb37-l1.qa71" accuracy="incorrect">There are two pathways</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer59" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb38-l1.qa72" accuracy="correct">The circuit will become incomplete.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb39-l1.qa71" accuracy="correct">If bulb B is damaged, there will be a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer57" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb40-l1.qa71" accuracy="correct">There would be a gap.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer55" id="SwitchesBulbsSeries-DAMAGED_BUILD_EXPLAIN_Q.sbjb42-l1.qa72" accuracy="correct">it would create a gap</studentAnswer>
+  </studentAnswers>
+</question>

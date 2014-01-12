@@ -6,4 +6,20 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>semeval2012.task7</artifactId>
+  <dependencies>
+    <dependency>
+        <groupId>dom4j</groupId>
+        <artifactId>dom4j</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>jaxen</groupId>
+        <artifactId>jaxen</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>de.tudarmstadt.ukp.dkpro.core</groupId>
+        <artifactId>
+            de.tudarmstadt.ukp.dkpro.core.tokit-asl
+        </artifactId>
+    </dependency>
+  </dependencies>
 </project>

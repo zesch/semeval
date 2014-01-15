@@ -33,7 +33,7 @@ public class Task7ReaderTest
                 Statement statement = JCasUtil.selectSingle(jcas, Statement.class);
                 assertEquals("1", statement.getId());
                 assertEquals("cause", statement.getAsksFor());
-                assertEquals(1, statement.getMostPlausibleAlternative());
+                assertEquals("1", statement.getMostPlausibleAlternative());
                 assertEquals("My body cast a shadow over the grass.", statement.getCoveredText());
 
                               
